@@ -1,5 +1,5 @@
 ---
-title: Using MAMP and GitHub Desktop
+title: Running Grav Locally with MAMP
 taxonomy:
     category: docs
 ---

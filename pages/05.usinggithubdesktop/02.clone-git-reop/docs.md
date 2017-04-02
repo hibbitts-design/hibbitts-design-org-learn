@@ -4,7 +4,7 @@ taxonomy:
     category: docs
 ---
 
-##### 2.1 Tap "Edit this Page" link
+##### 2.1 Tap the edit/view Git link of your site
 
 ![][1]
 
