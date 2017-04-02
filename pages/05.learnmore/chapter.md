@@ -6,4 +6,4 @@ taxonomy:
 
 # Learn More
 
-Learn more about using uMarkdown, Grav, and Git (i.e. GitHub, GitLab, etc.) with GitHub Desktop
+Learn more about using Markdown, Grav, and Git (i.e. GitHub, GitLab, etc.) with GitHub Desktop
