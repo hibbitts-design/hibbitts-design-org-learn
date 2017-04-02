@@ -1,5 +1,5 @@
 ---
-title: Using MAMP and GitHub Dektop
+title: Using MAMP and GitHub Desktop
 taxonomy:
     category: docs
 ---
