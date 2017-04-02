@@ -1,5 +1,5 @@
 ---
-title: Installation
+title: Webserver Installation (cPanel)
 taxonomy:
     category: docs
 ---
