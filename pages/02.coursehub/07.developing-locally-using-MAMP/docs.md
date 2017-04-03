@@ -1,5 +1,5 @@
 ---
-title: Running Grav Locally with MAMP
+title: Developing Locally with MAMP
 taxonomy:
     category: docs
 ---
