@@ -1,5 +1,5 @@
 ---
-title: Example Grav CMS ePortfolio Blog Workflow
+title: Example Workflow
 taxonomy:
     category: docs
 ---

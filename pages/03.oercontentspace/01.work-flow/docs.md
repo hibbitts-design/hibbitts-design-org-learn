@@ -1,5 +1,5 @@
 ---
-title: Example OER Content Space Workflow
+title: Example Workflow
 taxonomy:
     category: docs
 ---

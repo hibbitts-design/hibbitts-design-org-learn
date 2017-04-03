@@ -1,5 +1,5 @@
 ---
-title: Example Course Hub Workflow
+title: Example Workflow
 taxonomy:
     category: docs
 ---
