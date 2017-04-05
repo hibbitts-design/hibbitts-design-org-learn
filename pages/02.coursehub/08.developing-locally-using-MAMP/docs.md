@@ -44,12 +44,12 @@ From the software author's site at [http://schinagl.priv.at/nt/hardlinkshellext/
 
 ##### 10. Open the folder holding the cloned Course Hub repository on your computer
 
-##### 11. Create a symbolic link for the "pages" folder, and name this link "pages"
+##### 11. Create a symbolic link for the "pages" folder, move it to your desktop, and then name this link "pages"
 
-##### 12. Create a symbolic link for the "themes" folder, and name this link "theme"
+##### 12. Create a symbolic link for the "themes" folder, move it to your desktop, and name this link "theme"
 
-##### 13. Replace the "pages" folder within your local install of Course Hub with the newly created "pages" symbolic link
+##### 13. Replace the "pages" folder within your local install of Course Hub with the newly created "pages" symbolic link on your desktop
 
-##### 14. Replace the "themes" folder within your local install of Course Hub with the newly created "themes" symbolic link
+##### 14. Replace the "themes" folder within your local install of Course Hub with the newly created "themes" symbolic link on your desktop
 
 Congratulations! You now have a local copy of your own Course Hub running.
