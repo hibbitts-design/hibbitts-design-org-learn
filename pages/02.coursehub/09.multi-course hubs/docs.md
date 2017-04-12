@@ -4,7 +4,7 @@ taxonomy:
     category: docs
 ---
 
-A variation of the Grav Course Hub skeleton package which supports multiple courses is also available.
+Two variations of the Grav Course Hub skeleton package are also available to provide multiple courses within one site.
 
 ##### Single blog page per course skeleton package
 ![Single Blog Page per Course Skeleton Package](multi-course-blog-hub-site.png)
