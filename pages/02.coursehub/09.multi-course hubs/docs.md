@@ -1,5 +1,5 @@
 ---
-title: Multi-Course Hub
+title: Multi-Course Hubs
 taxonomy:
     category: docs
 ---
