@@ -4,6 +4,13 @@ taxonomy:
     category: docs
 ---
 
+##### Expected Technical Skills
+
+* Markdown or HTML basics
+* Understanding folder hierarchies (i.e. relative links)
+* Webserver access
+* GitHub, GitLab, etc. basic working knowledge (recommended)
+
 ##### 1.1 If you do not already have a Git service account (i.e. GitHub, GitLab, BitBucket, etc.) then sign up for one
 
 ##### 1.2 Download Course Hub skeleton package
