@@ -9,7 +9,7 @@ taxonomy:
 * Markdown or HTML basics
 * Understanding folder hierarchies (i.e. relative links)
 * Webserver access
-* GitHub, GitLab, etc. basic working knowledge (recommended)
+* GitHub, GitLab, or equivalent basic working knowledge (recommended)
 
 ##### 1.1 If you do not already have a Git service account (i.e. GitHub, GitLab, BitBucket, etc.) then sign up for one
 
