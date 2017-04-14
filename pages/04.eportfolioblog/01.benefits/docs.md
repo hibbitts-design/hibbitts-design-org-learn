@@ -4,7 +4,7 @@ taxonomy:
     category: docs
 ---
 
-##### Why use the Grav ePortfolio Blog Project?
+##### Why use the Grav ePortfolio Blog?
 * To leverage a modern flat-file CMS for the creation and presentation of your ePortfolio blog
 * To make your ePortfolio blog more future-ready through CMS-independent access
 * To quickly and easily update your ePortfolio blog online or locally using the tools of your choice

@@ -4,7 +4,7 @@ taxonomy:
     category: docs
 ---
 
-##### Why use the Grav OER Content Space Project?
+##### Why use the Grav OER Content Space?
 * To leverage a modern flat-file CMS for the creation and presentation of OER content
 * To provide direct access to OER content for site visitors (i.e. Markdown, images, etc.)
 * To make OER content more future-ready through CMS-independent access
