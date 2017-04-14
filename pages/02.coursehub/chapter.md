@@ -2,6 +2,12 @@
 title: Open Course Hub
 taxonomy:
     category: docs
+metadata:
+    'twitter:card' : summary
+    'twitter:site' : @hibbittsdesign
+    'twitter:title' : Overview | Grav CMS Open (Education) Resource Projects
+    'twitter:description' : Open Course Hub setup guide for instructors to 'flip' their LMS with the CMS Grav.
+    'twitter:image': 'http://learn.hibbittsdesign.org/coursehub/learn-hibbittsdesign.png'
 ---
 
 # Open Course Hub
