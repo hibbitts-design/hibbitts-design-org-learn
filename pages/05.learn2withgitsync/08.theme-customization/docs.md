@@ -1,5 +1,5 @@
 ---
-title: Customizing Learn2 with Git Sync
+title: Theme Customization
 taxonomy:
     category: docs
 ---
