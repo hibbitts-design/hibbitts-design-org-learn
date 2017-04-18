@@ -17,3 +17,5 @@ streams:
        - user/themes/learn2-git-sync
        - user/themes/learn2
 ```
+
+A customizable 'mytheme' inherited theme is also provided with the Learn2 with Git Sync skeleton package, available for download at [getgrav.org/downloads/skeletons](https://getgrav.org/downloads/skeletons).
