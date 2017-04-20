@@ -6,12 +6,12 @@ taxonomy:
 
 Get the most out of your Open Course Hub!
 
-* [Displaying only page content (when embedding pages)](#displaying-only-page-content-when-embedding-pages)
+* [Only display page content (when embedding pages)](#only-display-page-content-when-embedding-pages)
 * [Customizing your Open Course
 Hub theme](#customizing-your-open-course-hub-theme)
 * [Making a homepage blog post 'sticky'](#making-a-homepage-blog-post-sticky)
 
-##### Displaying only page content (when embedding pages)
+##### Only display page content (when embedding pages)
 
 When displaying Open Course Hub pages within another system (e.g. LMS) it is often helpful to only display page content and not include header navigation and the sidebar.
 
