@@ -17,3 +17,13 @@ To do this, add `onlydisplaypagecontent:true` to your page URLs. For example, to
 The Open Course Hub skeleton package comes with an [Inherited Theme](https://learn.getgrav.org/themes/customization#theme-inheritance) called 'mytheme' all ready for your further customization.
 
 In addition, this theme is also automatically synced to the Git repository of your site. This means that you can invite other people, such as fellow educators or your students, to assist in the further customization of your site.
+
+##### Making a blog post 'sticky'
+
+To make a blog post precede all other blog posts listed, add a `Featured` tag to it's taxonomy field (located on the `Options` panel when editing a page in the Admin Panel). The frontmatter that is added to the page will look like this:
+
+```
+taxonomy:
+    tag:
+        - Featured
+```
