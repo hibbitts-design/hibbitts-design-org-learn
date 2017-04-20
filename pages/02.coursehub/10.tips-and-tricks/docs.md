@@ -12,6 +12,8 @@ When displaying Open Course Hub pages within another system (e.g. LMS) it is oft
 
 To do this, add `onlydisplaypagecontent:true` to your page URLs. For example, to only display the content of the page at [demo.hibbittsdesign.org/grav-course-hub-bootstrap/home/week-03/](http://demo.hibbittsdesign.org/grav-course-hub-bootstrap/home/week-03/) you would use the revised URL of [demo.hibbittsdesign.org/grav-course-hub-bootstrap/home/week-03/onlydisplaypagecontent:true](http://demo.hibbittsdesign.org/grav-course-hub-bootstrap/home/week-03/onlydisplaypagecontent:true)
 
-##### Getting help from others with customizing your theme
+##### Customizing your theme
 
-In addition to providing a Grav [Inherited Theme](https://learn.getgrav.org/themes/customization#theme-inheritance) ready for further customization, your custom `mytheme` is also automatically synced to the Git repository of your site. This means that you can invite other people, such as fellow educators or your  students, to possibly assist you with further changing the design of your site.
+The Open Course Hub skeleton package comes with an [Inherited Theme](https://learn.getgrav.org/themes/customization#theme-inheritance) called 'mytheme' all ready for your further customization.
+
+In addition, this theme is also automatically synced to the Git repository of your site. This means that you can invite other people, such as fellow educators or your students, to assist in the further customization of your site.
