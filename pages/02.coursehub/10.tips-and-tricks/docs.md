@@ -4,7 +4,7 @@ taxonomy:
     category: docs
 ---
 
-Get the most out of Your Open Course Hub!
+Get the most out of your Open Course Hub!
 
 ##### Displaying only page content (when embedding pages)
 
