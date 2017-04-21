@@ -4,6 +4,8 @@ taxonomy:
     category: docs
 ---
 
+>>>Not using Gantry? There is also a [Hypothesis plugin](https://getgrav.org/downloads/plugins) available!
+
 #### Download the Particle
 * Download and unzip the ['Hypothesis' Particle](https://github.com/hibbitts-design/grav-gantry5-particle-hypothesis/archive/master.zip).
 
