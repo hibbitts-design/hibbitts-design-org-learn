@@ -4,7 +4,7 @@ taxonomy:
     category: docs
 ---
 
-#### Download the Particle
+#### Download the Gantry 5 Particle
 * Download and unzip the ['Edit/View Page in Git' Particle](https://github.com/hibbitts-design/grav-gantry5-particle-edit-view-page-in-git/archive/master.zip).
 
 #### Installing the Particle

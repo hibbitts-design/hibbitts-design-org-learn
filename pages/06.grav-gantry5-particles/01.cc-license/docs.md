@@ -4,7 +4,7 @@ taxonomy:
     category: docs
 ---
 
-#### Download the Particle
+#### Download the Gantry 5 Particle
 * Download and unzip the ['Creative Commons (CC) License' Paticle](https://github.com/hibbitts-design/grav-gantry5-particle-cc-license/archive/master.zip).
 
 #### Installing the Particle

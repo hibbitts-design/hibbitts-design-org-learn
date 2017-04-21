@@ -7,7 +7,7 @@ taxonomy:
 #### Download the Particle
 * Download and unzip the ['View Git Sync Repository' Particle](https://github.com/hibbitts-design/grav-gantry5-particle-view-git-sync-repo/archive/master.zip).
 
-#### Installing the Particle
+#### Installing the Gantry 5 Particle
 
 1. Open the folder of your active Gantry theme. For example, if you are using the Helium theme open the folder `/user/themes/g5_helium`.
 2. If a `custom` folder already exists open it, otherwise create it.

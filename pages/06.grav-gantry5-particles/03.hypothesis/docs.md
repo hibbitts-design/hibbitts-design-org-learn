@@ -6,7 +6,7 @@ taxonomy:
 
 >>>Not using a Gantry 5 theme with Grav? No problem! There is also a [Hypothesis plugin](https://getgrav.org/downloads/plugins) available.
 
-#### Download the Particle
+#### Download the Gantry 5 Particle
 * Download and unzip the ['Hypothesis' Particle](https://github.com/hibbitts-design/grav-gantry5-particle-hypothesis/archive/master.zip).
 
 #### Installing the Particle
