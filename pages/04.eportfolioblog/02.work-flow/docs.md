@@ -1,5 +1,5 @@
 ---
-title: Example Workflow
+title: Workflow Diagram
 taxonomy:
     category: docs
 ---
