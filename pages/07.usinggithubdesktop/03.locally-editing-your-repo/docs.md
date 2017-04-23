@@ -75,3 +75,7 @@ taxonomy:
 ![][17]
 
 [17]: ../../images/course-hub-with-git-sync---desktop-editing/tap-on-the--history--button-to-view-the-committed-change.png
+
+##### 3.13 Refresh site page to view the committed change(s)
+
+![](../../images/course-hub-with-git-sync---desktop-editing/refresh-site-page-to-view-the-committed-change-s-.png)
