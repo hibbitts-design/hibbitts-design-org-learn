@@ -1,5 +1,5 @@
 ---
-title: GitLab and GitHub Desktop
+title: GitLab & GitHub Desktop
 published: true
 taxonomy:
     category: docs
