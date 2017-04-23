@@ -5,6 +5,6 @@ taxonomy:
     category: docs
 ---
 
-# GitLab and GitHub Desktop
+# GitLab & GitHub Desktop
 
 _Coming soon!_
