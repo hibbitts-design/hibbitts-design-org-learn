@@ -1,5 +1,5 @@
 ---
-title: Clone Your Git Repository
+title: Clone Your GitHub Repository
 taxonomy:
     category: docs
 ---
