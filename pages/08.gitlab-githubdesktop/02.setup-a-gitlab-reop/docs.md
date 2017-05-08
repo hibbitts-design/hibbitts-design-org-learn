@@ -59,7 +59,7 @@ On Windows,  choose "Open in Explorer"
 
 #### 3. Quit GitHub Desktop
 
-On the Mac, due to a current issue with GitHub Desktop, you must re-launch and then quit the app once again before continuing.
+On the Mac, due to an issue with the current version of GitHub Desktop (v.222), you must re-launch and then quit the app once again before continuing.
 
 
 #### 4. Delete Local Repository Folder
