@@ -25,7 +25,7 @@ taxonomy:
 
 ##### 2.1 View the settings for your newly created repository
 
-On the Mac, tap the "Repository" menu and chose "Repository Settings...".
+On Mac, tap the "Repository" menu and chose "Repository Settings...".
 
 On Windows, tap on the gear icon in the upper-right of your GitHub Desktop window.
 
@@ -50,7 +50,7 @@ On Windows, tap on the gear icon in the upper-right of your GitHub Desktop windo
 
 ##### 2.6 Right-tap the entry for your newly created local repository folder and view it's local folder
 
-On a Mac, choose "Open in Finder"
+On Mac, choose "Open in Finder"
 
 On Windows,  choose "Open in Explorer"
 
@@ -59,7 +59,7 @@ On Windows,  choose "Open in Explorer"
 
 #### 3. Quit GitHub Desktop
 
-On the Mac, due to an issue with the current version of GitHub Desktop (v.222), you must re-launch and then quit the app once again before continuing.
+On Mac, due to an issue with the current version of GitHub Desktop (v.222), you must re-launch and then quit the app once again before continuing.
 
 
 #### 4. Delete Local Repository Folder
@@ -92,7 +92,7 @@ On Windows, right-tap the Recycling Bin and and choose "Empty Recycle Bin"
 
 ##### 6.2 Right-tap the entry for your newly created local repository folder and view it's local folder
 
-On a Mac, choose "Open in Finder"
+On Mac, choose "Open in Finder"
 
 On Windows,  choose "Open in Explorer"
 
