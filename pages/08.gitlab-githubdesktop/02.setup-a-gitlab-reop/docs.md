@@ -1,5 +1,5 @@
 ---
-title: Clone Your GitLab Repository
+title: Setup a GitLab Repository Clone
 taxonomy:
     category: docs
 ---
