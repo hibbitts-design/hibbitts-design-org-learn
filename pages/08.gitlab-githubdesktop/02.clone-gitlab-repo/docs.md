@@ -5,7 +5,7 @@ taxonomy:
 ---
 
 * [1. Create Local Repository](#1-create-local-repository)
-* [2. Link Remote Repository](#2-link-remote-repository)
+* [2. Link Remote (GitLab) Repository](#2-link-remote-repository)
 * [3. Delete Local Repository Folder](#3-delete-local-repository-folder)
 * [4. Re-clone Repository](#4-re-clone-repository)
 
@@ -19,7 +19,7 @@ taxonomy:
 
 ![](../../images/using-github-desktop-and-gitlab-with-grav/in-the--create--panel-enter-the-name-for-your-repository-and-tap-the--create-repository--button.png)
 
-#### 2. Link Remote Repository
+#### 2. Link Remote (GitLab) Repository
 
 ##### 2.1 View the settings for your newly created repository
 
