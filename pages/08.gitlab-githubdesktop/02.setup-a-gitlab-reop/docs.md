@@ -17,13 +17,13 @@ taxonomy:
 
 ![](../../images/using-github-desktop-and-gitlab-with-grav-2/tap-on-the-----button-in-the-upper-left-of-the-github-desktop-window.png)
 
-##### 1.2 In the "Create" panel enter the name for your repository and tap the "Create Repository" button
-
-![](../../images/using-github-desktop-and-gitlab-with-grav-2/in-the--create--panel-enter-the-name-for-your-repository-and-tap-the--create-repository--button.png)
-
 #### 2. Link Remote Repository
 
-##### 2.1 View the settings for your newly created repository
+##### 2.1 Select your newly created repository (if not currently highlighted)
+
+![](../../images/using-github-desktop-and-gitlab-with-grav-2/select-your-newly-created-repository--if-not-currently-highlighted-.png)
+
+##### 2.2 View the settings for your newly created repository
 
 On Mac, tap the "Repository" menu and chose "Repository Settings...".
 
@@ -32,23 +32,29 @@ On Windows, tap on the gear icon in the upper-right of your GitHub Desktop windo
 
 ![](../../images/using-github-desktop-and-gitlab-with-grav-2/view-the-settings-for-your-newly-created-repository.png)
 
-##### 2.2 With the "Remote" panel visible for your repository, open your Browser and sign into your GitLab account
+##### 2.3 With the "Remote" panel visible for your repository, open your Browser and sign into your GitLab account
+
+
 
 ![](../../images/using-github-desktop-and-gitlab-with-grav-2/with-the--remote--panel-visible-for-your-repository--open-your-browser-and-sign-into-your-gitlab-acc.png)
 
-##### 2.3 Go to your GitLab project (repository) and tap on "HTTPS" to view that address for the repository
+##### 2.4 Go to your GitLab project (repository) and tap on "HTTPS" to view that address for the repository
 
 ![](../../images/using-github-desktop-and-gitlab-with-grav-2/go-to-your-gitlab-project--repository--and-tap-on--https--to-view-that-address-for-the-repository.png)
 
-##### 2.4 Copy the HTTPS address of your GitLab project repository
+##### 2.5 Copy the HTTPS address of your GitLab project repository
 
 ![](../../images/using-github-desktop-and-gitlab-with-grav-2/copy-the-https-address-of-your-gitlab-project-repository.png)
 
-##### 2.5 Return to GitHub Desktop, paste the HTTPS address of your GitLab project into the "Primary remote repository" field and tap "Save"
+##### 2.6 Return to GitHub Desktop, paste the HTTPS address of your GitLab project into the "Primary remote repository" field and tap "Save"
 
 ![](../../images/using-github-desktop-and-gitlab-with-grav-2/return-to-github-desktop--paste-the-https-address-of-your-gitlab-project-into-the--primary-remote-re.png)
 
-##### 2.6 Right-tap the entry for your newly created local repository folder and view it's local folder
+##### 2.7 Tap the "Publish" button
+
+![](../../images/using-github-desktop-and-gitlab-with-grav-2/tap-the--publish--button.png)
+
+##### 2.8 Right-tap the entry for your newly created local repository folder and view it's local folder
 
 On Mac, choose "Open in Finder"
 
@@ -57,9 +63,12 @@ On Windows,  choose "Open in Explorer"
 
 ![](../../images/using-github-desktop-and-gitlab-with-grav-2/right-tap-the-entry-for-your-newly-created-local-repository-folder-and-view-it-s-local-folder.png)
 
+##### 2.9 In the "Create" panel enter the name for your repository and tap the "Create Repository" button
+
+![](../../images/using-github-desktop-and-gitlab-with-grav-2/in-the--create--panel-enter-the-name-for-your-repository-and-tap-the--create-repository--button.png)
+
 #### 3. Quit GitHub Desktop
 
-On Mac, due to an issue with the current version of GitHub Desktop (v.222), you must re-launch and then quit the app once again before continuing.
 
 
 #### 4. Delete Local Repository Folder
@@ -92,7 +101,7 @@ On Windows, right-tap the Recycling Bin and and choose "Empty Recycle Bin"
 
 ##### 6.2 Right-tap the entry for your newly created local repository folder and view it's local folder
 
-On Mac, choose "Open in Finder"
+On a Mac, choose "Open in Finder"
 
 On Windows,  choose "Open in Explorer"
 
