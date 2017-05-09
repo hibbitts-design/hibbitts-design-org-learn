@@ -9,4 +9,4 @@ taxonomy:
 
 Using GitLab and GitHub Desktop, Grav site content can be edited locally with changes selectively committed to a GitLab (Git) repository.
 
-While the following steps are basically the same for all four Grav with Git Sync projects, the OER Content Space and the Open Course Hub will be used as specific examples.
+While the following steps are basically the same for all four Grav with Git Sync projects, the Open Course Hub will be used as a specific example.
