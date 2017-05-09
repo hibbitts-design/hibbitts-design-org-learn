@@ -1,5 +1,5 @@
 ---
-title: Locally Editing Your Grav Content
+title: Editing Local Repository Content
 taxonomy:
     category: docs
 ---
