@@ -17,6 +17,13 @@ taxonomy:
 
 ![](../../images/using-github-desktop-and-gitlab-with-grav-2/tap-on-the-----button-in-the-upper-left-of-the-github-desktop-window.png)
 
+##### 1.2 Enter the name of your new repository in the "Create" panel and tap "Create Repository"
+
+While you can name this repository anything, it is recommended to use the same name as the GitLab repository that you will be using.
+
+
+![](../../images/using-github-desktop-and-gitlab-with-grav-2/enter-the-name-of-your-new-repository-in-the--create--panel-and-tap--create-repository-.png)
+
 #### 2. Link Remote Repository
 
 ##### 2.1 Select your newly created repository (if not currently highlighted)
@@ -32,11 +39,11 @@ On Windows, tap on the gear icon in the upper-right of your GitHub Desktop windo
 
 ![](../../images/using-github-desktop-and-gitlab-with-grav-2/view-the-settings-for-your-newly-created-repository.png)
 
-##### 2.3 With the "Remote" panel visible for your repository, open your Browser and sign into your GitLab account
+##### 2.3 Open your Browser and sign into your GitLab account (with the "Remote" panel visible for your repository)
 
 
 
-![](../../images/using-github-desktop-and-gitlab-with-grav-2/with-the--remote--panel-visible-for-your-repository--open-your-browser-and-sign-into-your-gitlab-acc.png)
+![](../../images/using-github-desktop-and-gitlab-with-grav-2/open-your-browser-and-sign-into-your-gitlab-account--with-the--remote--panel-visible-for-your-reposi.png)
 
 ##### 2.4 Go to your GitLab project (repository) and tap on "HTTPS" to view that address for the repository
 
@@ -46,7 +53,7 @@ On Windows, tap on the gear icon in the upper-right of your GitHub Desktop windo
 
 ![](../../images/using-github-desktop-and-gitlab-with-grav-2/copy-the-https-address-of-your-gitlab-project-repository.png)
 
-##### 2.6 Return to GitHub Desktop, paste the HTTPS address of your GitLab project into the "Primary remote repository" field and tap "Save"
+##### 2.6 Return to GitHub Desktop, paste the HTTPS address of your GitLab project into the "Primary remote repository" field in the "Remote" panel and tap "Save"
 
 ![](../../images/using-github-desktop-and-gitlab-with-grav-2/return-to-github-desktop--paste-the-https-address-of-your-gitlab-project-into-the--primary-remote-re.png)
 
@@ -62,10 +69,6 @@ On Windows,  choose "Open in Explorer"
 
 
 ![](../../images/using-github-desktop-and-gitlab-with-grav-2/right-tap-the-entry-for-your-newly-created-local-repository-folder-and-view-it-s-local-folder.png)
-
-##### 2.9 In the "Create" panel enter the name for your repository and tap the "Create Repository" button
-
-![](../../images/using-github-desktop-and-gitlab-with-grav-2/in-the--create--panel-enter-the-name-for-your-repository-and-tap-the--create-repository--button.png)
 
 #### 3. Quit GitHub Desktop
 
@@ -95,9 +98,9 @@ On Windows, right-tap the Recycling Bin and and choose "Empty Recycle Bin"
 
 #### 6. Re-clone Repository
 
-##### 6.1 Tap the "Clone Again" button in GitHub Desktop
+##### 6.1 Select your newly created repository (if needed) and tap the "Clone Again" button in GitHub Desktop
 
-![](../../images/using-github-desktop-and-gitlab-with-grav-2/tap-the--clone-again--button-in-github-desktop.png)
+![](../../images/using-github-desktop-and-gitlab-with-grav-2/select-your-newly-created-repository--if-needed--and-tap-the--clone-again--button-in-github-desktop.png)
 
 ##### 6.2 Right-tap the entry for your newly created local repository folder and view it's local folder
 
