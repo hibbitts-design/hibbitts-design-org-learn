@@ -32,3 +32,11 @@ taxonomy:
     tag:
         - Featured
 ```
+
+##### Hiding a post from the homepage post list
+
+To hide a blog post from the homepage post list, but still make it available on other pages, add the following page frontmatter option:
+
+```
+hidefrompostlist: true
+```
