@@ -4,10 +4,10 @@ taxonomy:
     category: docs
 ---
 
-#### Download the Particle
-* Download and unzip the ['OER Schema' Particle](https://github.com/hibbitts-design/grav-gantry5-particle-oer-schema/archive/master.zip).
+#### Download the Atom
+* Download and unzip the ['OER Schema' Atom](https://github.com/hibbitts-design/grav-gantry5-particle-oer-schema/archive/master.zip).
 
-#### Installing the Gantry 5 Particle
+#### Installing the Gantry 5 Atom
 
 1. Open the folder of your active Gantry theme. For example, if you are using the Hydrogen theme open the folder `/user/themes/g5_hydrogen`.
 2. If a `custom` folder already exists open it, otherwise create it.

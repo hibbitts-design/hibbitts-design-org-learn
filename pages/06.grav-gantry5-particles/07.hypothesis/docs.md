@@ -6,10 +6,10 @@ taxonomy:
 
 >>>Not using a Gantry 5 theme with Grav? No problem! There is also a [Hypothesis plugin](https://getgrav.org/downloads/plugins) available.
 
-#### Download the Gantry 5 Particle
-* Download and unzip the ['Hypothesis' Particle](https://github.com/hibbitts-design/grav-gantry5-particle-hypothesis/archive/master.zip).
+#### Download the Gantry 5 Atom
+* Download and unzip the ['Hypothesis' Atom](https://github.com/hibbitts-design/grav-gantry5-particle-hypothesis/archive/master.zip).
 
-#### Installing the Particle
+#### Installing the Atom
 
 1. Open the folder of your active Gantry theme. For example, if you are using the Hydrogen theme open the folder `/user/themes/g5_hydrogen`.
 2. If a `custom` folder already exists open it, otherwise create it.
