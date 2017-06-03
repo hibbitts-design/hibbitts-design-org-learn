@@ -40,3 +40,11 @@ To hide a blog post from the homepage post list, but still make it available on 
 ```
 hidefrompostlist: true
 ```
+
+##### Override a page's automatically calculated Git Repository URL
+
+To override the automatically calculated Git Repository URL on a page (i.e. to view a folder containing child pages), add the desired URL to the page frontmatter like this:
+
+```
+gitrepoeditlinkurl: https://github.com/hibbitts-design/grav-skeleton-course-hub/tree/master/pages/01.home
+```
