@@ -6,4 +6,4 @@ taxonomy:
 
 #  Grav Workshop Materials
 
-Holding a class or workshop about the modern-flat file CMS [Grav](http://getgrav.org/)? Awesome! Use the [Getting Started with Grav](/grav-workshop-materials/getting-started-with-grav) guide and provide participants with the [Grav Workshop Demo Skeleton](/grav-workshop-materials/grav-workshop-demo-skeleton) as a starting point.
+Holding a workshop about the modern-flat file CMS [Grav](http://getgrav.org/)? Awesome! Use the [Getting Started with Grav](/grav-workshop-materials/getting-started-with-grav) guide and provide participants with the [Grav Workshop Demo Skeleton](/grav-workshop-materials/grav-workshop-demo-skeleton) as a starting point.
