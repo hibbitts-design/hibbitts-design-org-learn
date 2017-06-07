@@ -15,7 +15,7 @@ taxonomy:
 1. Web server login credentials (username and password)
 
 **Installation Steps**  
-1. Download a Grav Skeleton from this page (see above list)
+1. Download the [Grav Workshop Demo Skeleton as a single ZIP archive file](http://hibbittsdesign.org/blog/user/pages/downloads/grav-skeleton-workshop-demo-site.zip)
 1. Unzip the package onto your desktop
 1. Copy the _entire_ Grav folder to your Web server
 1. Point your browser to the Web server folder
@@ -28,7 +28,7 @@ taxonomy:
 1. Download and install [MAMP](https://www.mamp.info/) (mamp.info)
 
 **Desktop Installation Steps**  
-1. Download a Grav Skeleton from this page (see above list)
+1. Download the [Grav Workshop Demo Skeleton as a single ZIP archive file](http://hibbittsdesign.org/blog/user/pages/downloads/grav-skeleton-workshop-demo-site.zip)
 1. Unzip the Grav package onto your desktop
 1. Copy the _entire_ Grav folder into the 'htdocs' folder within your MAMP application folder
 1. Launch MAMP
