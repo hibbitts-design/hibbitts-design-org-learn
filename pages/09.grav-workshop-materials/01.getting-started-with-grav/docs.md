@@ -75,4 +75,4 @@ Pages in **Grav** can also include the content of other pages (i.e. Modular page
 3. Save this file in the `user/pages/06.another-page/` folder as `default.md`. This will tell **Grav** to render the page using the **default** template.
 4. That is it! Reload your browser to see your new page in the menu.
 
-_Have fun exploring Grav!_
+_**Want to learn even more about using Grav?** Check out the [Next Steps](/learnmore) section!_
