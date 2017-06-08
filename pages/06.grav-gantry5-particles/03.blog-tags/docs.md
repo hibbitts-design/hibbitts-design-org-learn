@@ -4,7 +4,7 @@ taxonomy:
     category: docs
 ---
 
-The ['Blog Tags' Particle](https://github.com/hibbitts-design/grav-gantry5-particle-blog-tags) displays a list of tags on blog pages..
+The ['Blog Tags' Particle](https://github.com/hibbitts-design/grav-gantry5-particle-blog-tags) displays a list of tags on blog pages.
 
 #### Download the Gantry 5 Particle
 * Download and unzip the ['Blog Tags' Paticle archive](https://github.com/hibbitts-design/grav-gantry5-particle-blog-tags/archive/master.zip).
