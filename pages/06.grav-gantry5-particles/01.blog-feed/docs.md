@@ -5,7 +5,7 @@ taxonomy:
 ---
 
 #### Download the Gantry 5 Particle
-* Download and unzip the ['Blog Feed' Paticle](https://github.com/hibbitts-design/grav-gantry5-particle-blog-feed/archive/master.zip).
+* Download and unzip the ['Blog Feed' Particle](https://github.com/hibbitts-design/grav-gantry5-particle-blog-feed/archive/master.zip).
 
 #### Installing the Particle
 
