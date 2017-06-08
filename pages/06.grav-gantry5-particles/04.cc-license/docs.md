@@ -4,8 +4,10 @@ taxonomy:
     category: docs
 ---
 
+The ['Creative Commons (CC) License' Particle](https://github.com/hibbitts-design/grav-gantry5-particle-blog-tags) adds the chosen Creative Commons (CC) License to your pages.
+
 #### Download the Gantry 5 Particle
-* Download and unzip the ['Creative Commons (CC) License' Paticle](https://github.com/hibbitts-design/grav-gantry5-particle-cc-license/archive/master.zip).
+* Download and unzip the ['Creative Commons (CC) License' Paticle archive](https://github.com/hibbitts-design/grav-gantry5-particle-cc-license/archive/master.zip).
 
 #### Installing the Particle
 

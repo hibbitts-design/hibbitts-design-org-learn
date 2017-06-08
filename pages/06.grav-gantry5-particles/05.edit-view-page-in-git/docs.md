@@ -4,8 +4,10 @@ taxonomy:
     category: docs
 ---
 
+The ['Edit/View Page in Git' Particle](https://github.com/hibbitts-design/grav-gantry5-particle-edit-view-page-in-git) displays a link to edit the current Grav page stored in a Git repository (i.e. GitHub or GitLab).
+
 #### Download the Gantry 5 Particle
-* Download and unzip the ['Edit/View Page in Git' Particle](https://github.com/hibbitts-design/grav-gantry5-particle-edit-view-page-in-git/archive/master.zip).
+* Download and unzip the ['Edit/View Page in Git' Particle archive](https://github.com/hibbitts-design/grav-gantry5-particle-edit-view-page-in-git/archive/master.zip).
 
 #### Installing the Particle
 

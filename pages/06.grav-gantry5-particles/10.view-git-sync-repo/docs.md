@@ -4,8 +4,10 @@ taxonomy:
     category: docs
 ---
 
+The ['View Git Sync Repository' Particle](https://github.com/hibbitts-design/grav-gantry5-particle-view-git-sync-repo) adds a link to view a Git Sync repository of your pages.
+
 #### Download the Particle
-* Download and unzip the ['View Git Sync Repository' Particle](https://github.com/hibbitts-design/grav-gantry5-particle-view-git-sync-repo/archive/master.zip).
+* Download and unzip the ['View Git Sync Repository' Particle archive](https://github.com/hibbitts-design/grav-gantry5-particle-view-git-sync-repo/archive/master.zip).
 
 #### Installing the Gantry 5 Particle
 

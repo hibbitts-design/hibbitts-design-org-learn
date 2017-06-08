@@ -4,8 +4,10 @@ taxonomy:
     category: docs
 ---
 
+The ['Blog Feed' Particle](https://github.com/hibbitts-design/grav-gantry5-particle-blog-feed) displays RSS buttons on blog pages.
+
 #### Download the Gantry 5 Particle
-* Download and unzip the ['Blog Feed' Particle](https://github.com/hibbitts-design/grav-gantry5-particle-blog-feed/archive/master.zip).
+* Download and unzip the ['Blog Feed' Particle archive](https://github.com/hibbitts-design/grav-gantry5-particle-blog-feed/archive/master.zip).
 
 #### Installing the Particle
 

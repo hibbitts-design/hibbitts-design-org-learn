@@ -4,8 +4,10 @@ taxonomy:
     category: docs
 ---
 
+The ['OER Schema' Atom](https://github.com/hibbitts-design/grav-gantry5-atom-oer-schema) provides initial support for [OER Schema](http://oerschema.org/).
+
 #### Download the Atom
-* Download and unzip the ['OER Schema' Atom](https://github.com/hibbitts-design/grav-gantry5-particle-oer-schema/archive/master.zip).
+* Download and unzip the ['OER Schema' Atom archive](https://github.com/hibbitts-design/grav-gantry5-particle-oer-schema/archive/master.zip).
 
 #### Installing the Gantry 5 Atom
 

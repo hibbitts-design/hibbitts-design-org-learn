@@ -4,8 +4,10 @@ taxonomy:
     category: docs
 ---
 
+The ['Inject Page' Particle](https://github.com/hibbitts-design/grav-gantry5-atom-hypothesis) displays a single Grav page.
+
 #### Download the Gantry 5 Particle
-* Download and unzip the ['Inject Page' Paticle](https://github.com/hibbitts-design/grav-gantry-particle-inject-page/archive/master.zip).
+* Download and unzip the ['Inject Page' Paticle archive](https://github.com/hibbitts-design/grav-gantry-particle-inject-page/archive/master.zip).
 
 #### Installing the Particle
 

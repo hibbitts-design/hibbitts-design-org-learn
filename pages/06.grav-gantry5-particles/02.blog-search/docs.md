@@ -4,8 +4,10 @@ taxonomy:
     category: docs
 ---
 
+The ['Blog Search' Particle](https://github.com/hibbitts-design/grav-gantry5-particle-blog-search) displays a search box on blog pages.
+
 #### Download the Gantry 5 Particle
-* Download and unzip the ['Blog Search' Paticle](https://github.com/hibbitts-design/grav-gantry5-particle-blog-search/archive/master.zip).
+* Download and unzip the ['Blog Search' Particle archive](https://github.com/hibbitts-design/grav-gantry5-particle-blog-search/archive/master.zip).
 
 #### Installing the Particle
 

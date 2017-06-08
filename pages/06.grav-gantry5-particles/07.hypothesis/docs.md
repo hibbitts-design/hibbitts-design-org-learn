@@ -6,8 +6,10 @@ taxonomy:
 
 >>>Not using a Gantry 5 theme with Grav? No problem! There is also a [Hypothesis plugin](https://getgrav.org/downloads/plugins) available.
 
+The ['Hypothesis' Atom](https://github.com/hibbitts-design/grav-gantry5-atom-hypothesis) displays the [Hypothesis](https://web.hypothes.is/) sidebar on your Grav site.
+
 #### Download the Gantry 5 Atom
-* Download and unzip the ['Hypothesis' Atom](https://github.com/hibbitts-design/grav-gantry5-particle-hypothesis/archive/master.zip).
+* Download and unzip the ['Hypothesis' Atom archive](https://github.com/hibbitts-design/grav-gantry5-particle-hypothesis/archive/master.zip).
 
 #### Installing the Atom
 

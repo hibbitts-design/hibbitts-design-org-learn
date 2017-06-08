@@ -4,8 +4,10 @@ taxonomy:
     category: docs
 ---
 
+The ['Header Image' Atom](https://github.com/hibbitts-design/grav-gantry5-particle-edit-view-page-in-git) displays a header image above the menubar on your Grav site.
+
 #### Download the Gantry 5 Atom
-* Download and unzip the ['Header Image' Atom](https://github.com/hibbitts-design/grav-gantry-atom-header-image/archive/master.zip).
+* Download and unzip the ['Header Image' Atom article](https://github.com/hibbitts-design/grav-gantry-atom-header-image/archive/master.zip).
 
 #### Installing the Atom
 
