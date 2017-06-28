@@ -1,5 +1,5 @@
 ---
-title: Grav with Git Sync and GitBook
+title: Grav with Git Sync & GitBook
 taxonomy:
     category: docs
 ---
@@ -19,7 +19,7 @@ Using Grav with GitSync, the Grav site content stored within a Git (i.e. GitHub)
 
 At this point you should see a status message indicating that your GitHub content is being synced to your new GitBook book.
 
-##### Setting up Your Edit this Page in GitBook Link
+##### Setting up Your 'Edit this Page in Git Link'
 
 1. When viewing your GitBook book, tap on the 'Edit' button
 2. Next, tap on the **FILES** tab on the left side of the Browser window
