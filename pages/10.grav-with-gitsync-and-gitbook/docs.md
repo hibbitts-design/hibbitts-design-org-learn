@@ -1,5 +1,5 @@
 ---
-title: Grav, Git Sync and GitBook
+title: Grav with Git Sync and GitBook
 taxonomy:
     category: docs
 ---
