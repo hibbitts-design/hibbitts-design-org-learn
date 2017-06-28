@@ -29,4 +29,4 @@ At this point you should see a status message indicating that your GitHub conten
 6. Go to the Admin Panel of your Grav site and locate the option to set the **Edit/View in Git** link in your Grav skeleton.
 7. Paste the URL you just copied, but with '/pages' and everything following it removed and tap `Save`. For example, `https://www.gitbook.com/book/paulhibbitts/test-oer-content-space/edit#/edit/master`.
 
-That's it! The changes made in your GitHub book should now be synced to GitHub (and to Grav) and visa-versa. While viewing your Grav site, tap the **Edit this Page** link and you will be taken to the related GitBook book page (login required).
+That's it! The changes made in your GitHub book should now be synced to GitHub (and to Grav) and visa-versa. While viewing your Grav site, tap the **Edit this Page** link and you will be taken to the related GitBook book page (login required). Fellow GitBook users need to be made **Collaborators** before they are able to propose changes to your GitBook book.
