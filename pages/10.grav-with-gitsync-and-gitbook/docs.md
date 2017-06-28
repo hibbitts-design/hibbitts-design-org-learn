@@ -4,7 +4,7 @@ taxonomy:
     category: docs
 ---
 
-Using Grav with GitSync, the Grav site content stored within a Git (i.e. GitHub) repository can also be edited using the visual editor [GitBook](https://www.gitbook.com/). There are currently some limitations with this approach, as it is based on the use of **Files** (and not **Articles**) within GitBook.
+Using Grav with GitSync, the Grav site content stored within a Git (i.e. GitHub) repository can also be edited using the visual editor [GitBook](https://www.gitbook.com/). There are currently some limitations with this approach (e.g. lack of change requests), as it is based on the use of **Files** (and not **Articles**) within GitBook.
 
 ##### Getting Ready
 
