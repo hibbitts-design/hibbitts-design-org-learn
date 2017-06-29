@@ -4,7 +4,7 @@ taxonomy:
     category: docs
 ---
 
-##### GitBook and 'Edit this Page' link Configuration Video (OER Content Space shown)
+##### GitBook and 'Edit this Page' link Config Video (OER Content Space shown)
 
 [plugin:youtube](https://www.youtube.com/watch?v=XFUXJREuAxY)
 
