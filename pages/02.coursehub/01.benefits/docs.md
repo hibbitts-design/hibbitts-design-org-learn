@@ -13,5 +13,5 @@ taxonomy:
 * 'Chromeless' option for embedding Hub pages within other systems
 * Local desktop editing of content, using the tool of your choice
 * Ability to optimize authoring workflow during a course
-* Use of open and collaborative tools like GitHub, GitBook, etc.
+* Use of open and collaborative tools like GitHub, GitLab, GitBook, etc.
 * Course content in Markdown is easily reusable in other contexts
