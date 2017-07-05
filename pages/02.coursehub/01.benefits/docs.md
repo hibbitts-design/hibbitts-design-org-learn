@@ -6,7 +6,7 @@ taxonomy:
 
 ##### Why Use the Grav CMS Open Course Hub?
 
-* Multi-device friendly delivery of course materials
+* Multi-device friendly
 * Ability to fully leverage Web authoring standards/skills
 * High level of support for embedding external Web-based content
 * Access to Hub is independent of institutional systems
