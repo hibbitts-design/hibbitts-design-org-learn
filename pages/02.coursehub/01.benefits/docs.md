@@ -5,10 +5,13 @@ taxonomy:
 ---
 
 ##### Why Use Open Course Hub?
-* To make online course materials more open and accessible
-* To support collaboration and version control of online course materials
-* To integrate a broader range of online course materials
-* To provide multi-device access for online course materials
-* To more quickly and easily update online course materials
 
-As of v1.5.5, the 'Chromeless Pages' option makes it possible to hide global navigation elements to make pages easier to embed within another system (e.g. an LMS such as Canvas using the Redirect Tool LTI).
+* Multi-device friendly delivery of course materials
+* Ability to fully leverage Web authoring standards/skills
+* High level of support for embedding external Web-based content
+* Access to Hub is independent of institutional systems
+* 'Chromeless' option for embedding Hub pages within other systems
+* Local desktop editing of content, using the tool of your choice
+* Ability to optimize authoring workflow during a course
+* Use of open and collaborative tools like GitHub, GitBook, etc.
+* Course content in Markdown is easily reusable in other contexts
