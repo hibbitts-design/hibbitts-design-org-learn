@@ -4,7 +4,7 @@ taxonomy:
     category: docs
 ---
 
-##### Why Use Open Course Hub?
+##### Why Use the Grav CMS Open Course Hub?
 
 * Multi-device friendly delivery of course materials
 * Ability to fully leverage Web authoring standards/skills
