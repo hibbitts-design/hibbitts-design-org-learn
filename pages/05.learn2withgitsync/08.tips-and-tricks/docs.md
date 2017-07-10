@@ -46,6 +46,6 @@ Non-visible page for RSS feed page collection. RSS feed URL is ../feed.rss
 
 ```
 
-You can view an example page at [github.com/hibbitts-design/grav-skeleton-learn2-with-git-sync/tree/master/pages/feed](https://github.com/hibbitts-design/grav-skeleton-learn2-with-git-sync/tree/master/pages/feed)
+You can view an example **Feed** page at [github.com/hibbitts-design/grav-skeleton-learn2-with-git-sync/tree/master/pages/feed](https://github.com/hibbitts-design/grav-skeleton-learn2-with-git-sync/tree/master/pages/feed)
 
 Refresh your Browser window and the RSS/Atom feed buttons should now appear at the bottom of the left sidebar (make sure that the Feed plugin is installed and enabled).
