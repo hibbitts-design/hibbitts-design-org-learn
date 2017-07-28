@@ -4,7 +4,7 @@ taxonomy:
     category: docs
 ---
 
-##### Why Use the Grav CMS Open Course Hub?
+##### Why Use the Open Course Hub if You Are a Tech-Savvy Educator?
 
 
 * Reach pedagogical goals unmet by the current Learning Platform (e.g. LMS or CMS) alone
