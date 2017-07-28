@@ -6,12 +6,10 @@ taxonomy:
 
 ##### Why Use the Grav CMS Open Course Hub?
 
-* Viewing and authoring is multi-device friendly
-* Ability to fully leverage Web authoring standards/skills
-* High level of support for embedding external Web-based content
-* Access to Hub is independent of institutional systems
-* 'Chromeless' option for embedding Hub pages within other systems
-* Local desktop editing of content, using the tool of your choice
-* Ability to optimize authoring workflow during a course
-* Use of open and collaborative tools like GitHub, GitLab, GitBook, etc.
-* Course content in Markdown is easily reusable in other contexts
+
+* Reach pedagogical goals unmet by the current Learning Platform (e.g. LMS or CMS) alone
+* Improve student and facilitator experiences, especially on mobile devices
+* Solely decide upon access, sharing and collaboratively editing of course materials
+* Efficiently create and update online course materials, online and on your desktop
+* Easily repurpose online course materials on different platforms for different contexts
+* Fully leverage your existing Web authoring skills while using current Web standards
