@@ -15,7 +15,7 @@ Before installing and using the Particle, it is suggested you temporarily enable
 
 1. Open the folder for your active theme in the `user/data/gantry5/themes/` folder of your Gantry installation. For example, if you are using the Helium theme open the folder `user/data/gantry5/themes/g5_helium`.
 2. If a `particles` folder already exists within the theme folder open it, otherwise create it.
-3. Upload `blog_search.html.twig` and `blog_searchs.yaml` files into the `particles` folder. For example, if you are using the Helium theme copy the two particle files into `user/data/gantry5/themes/g5_helium/particles`.
+3. Upload `blog_search.html.twig` and `blog_search.yaml` files into the `particles` folder. For example, if you are using the Helium theme copy the two particle files into `user/data/gantry5/themes/g5_helium/particles`.
 
 #### Particle Options
 !['Blog Search' options](https://github.com/paulhibbitts/github-repo-images/blob/master/blog-search-options.png?raw=true)
