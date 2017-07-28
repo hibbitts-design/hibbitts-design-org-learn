@@ -13,10 +13,9 @@ The ['Edit/View Page in Git' Particle](https://github.com/hibbitts-design/grav-g
 
 Before installing and using the Particle, it is suggested you temporarily enable Gantry's [`Development Mode`](http://docs.gantry.org/gantry5/configure/extras)
 
-1. Open the folder of your active Gantry theme. For example, if you are using the Hydrogen theme open the folder `/user/themes/g5_hydrogen`.
-2. If a `custom` folder already exists open it, otherwise create it.
-3. If a `particles` folder already exists within the `custom` folder open it, otherwise create it.
-4. Upload `edit_view_page_in_git.html.twig` and `edit_view_page_in_git.yaml` files into the `/custom/particles` folder. For example, if you are using the Hydrogen theme copy the two particle files into `/user/themes/g5_hydrogen/custom/particles`.
+1. Open the folder for your active theme in the `user/data/gantry5/themes/` folder of your Gantry installation. For example, if you are using the Helium theme open the folder `user/data/gantry5/themes/g5_helium`.
+2. If a `particles` folder already exists within the theme folder open it, otherwise create it.
+3. Upload `edit_view_page_in_git.html.twig` and `edit_view_page_in_git.yaml` files into the `particles` folder. For example, if you are using the Helium theme copy the two particle files into `user/data/gantry5/themes/g5_helium/particles`.
 
 The perfect companion to this Gantry 5 particle is the [Grav GitSync Plugin](http://www.hibbittsdesign.org/blog/posts/2016-12-22-touchdown-seamless-2-way-syncing-arrives-for-grav).
 
