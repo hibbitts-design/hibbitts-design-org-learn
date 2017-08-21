@@ -5,7 +5,7 @@ taxonomy:
 ---
 
 * [1. Clone Repository](#1-create-local-repository)
-* [2. Create Local Repository](#2-link-remote-repository)
+* [2. Create Local Repository](#2-create-local-repository)
 
 #### 1. Clone Repository
 
