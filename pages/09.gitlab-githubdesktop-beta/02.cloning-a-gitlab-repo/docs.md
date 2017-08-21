@@ -4,10 +4,10 @@ taxonomy:
     category: docs
 ---
 
-* [1. Clone Repository](#1-create-local-repository)
-* [2. Create Local Repository](#2-create-local-repository)
+* [1. Copy URL of Repository](#1-copy-url-of-repository)
+* [2. Clone Repository to Desktop](#2-clone-repository-to-desktop)
 
-#### 1. Clone Repository
+#### 1. Copy URL of Repository
 
 ##### 1.1 Go to your GitLab project (repository) and tap on "HTTPS" to view that address for the repository
 
@@ -17,7 +17,7 @@ taxonomy:
 
 ![](../../images/using-github-desktop-beta-and-gitlab-with-grav/copy-the-https-address-of-your-gitlab-project-repository.png)
 
-#### 2. Create Local Repository
+#### 2. Clone Repository to Desktop
 
 ##### 2.1 Tap the "File" menubar item and choose "Clone Repository..."
 
