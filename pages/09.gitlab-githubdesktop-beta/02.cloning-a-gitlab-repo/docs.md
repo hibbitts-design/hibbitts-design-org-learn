@@ -11,11 +11,11 @@ taxonomy:
 
 ##### 1.1 Go to your GitLab project (repository) and tap on "HTTPS" to view that address for the repository
 
-![](../../images/images/using-github-desktop-beta-and-gitlab-with-grav/go-to-your-gitlab-project--repository--and-tap-on--https--to-view-that-address-for-the-repository.png)
+![](../../images/using-github-desktop-beta-and-gitlab-with-grav/go-to-your-gitlab-project--repository--and-tap-on--https--to-view-that-address-for-the-repository.png)
 
 ##### 1.2 Copy the HTTPS address of your GitLab project repository
 
-![](../../images/images/using-github-desktop-beta-and-gitlab-with-grav/copy-the-https-address-of-your-gitlab-project-repository.png)
+![](../../images/using-github-desktop-beta-and-gitlab-with-grav/copy-the-https-address-of-your-gitlab-project-repository.png)
 
 #### 2. Create Local Repository
 
