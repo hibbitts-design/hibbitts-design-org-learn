@@ -4,7 +4,7 @@ taxonomy:
     category: docs
 ---
 
-[Grav Open Publishing Space Space](https://github.com/hibbitts-design/grav-skeleton-open-publishing-space) with [Git Sync](https://github.com/trilbymedia/grav-plugin-git-sync) is designed to help tech-savvy publishers publish, share collaboratively edit Markdown-based content.
+[Grav Open Publishing Space Space](https://github.com/hibbitts-design/grav-skeleton-open-publishing-space) with [Git Sync](https://github.com/trilbymedia/grav-plugin-git-sync) is designed to publish, share and collaboratively edit Markdown-based content using the modern flat-file Grav CMS. Includes Admin Panel and Git Sync plugins.
 
 One or more Open Publishing Space pages can also be embedded into another system (i.e. LMS) with the 'Chromeless Pages' option, which hides global navigation elements.
 
