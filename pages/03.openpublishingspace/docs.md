@@ -10,4 +10,4 @@ One or more Open Publishing Space pages can also be embedded into another system
 
 Explore a sample Open Publishing Space site at [demo.hibbittsdesign.org/open-publishing-space](http://demo.hibbittsdesign.org/grav-open-publishing/) and a 'Chromeless' sample site at [demo.hibbittsdesign.org/grav-skeleton-open-publishing-chromeless-site](http://demo.hibbittsdesign.org/grav-skeleton-open-publishing-chromeless-site/)
 
-This is a brand new project (in-progress) and will be available for download at [Grav](http://getgrav.org) soon!
+This is a brand new project, and is it now available for download at [Grav](http://getgrav.org)!
