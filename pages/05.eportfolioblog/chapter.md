@@ -2,6 +2,7 @@
 title: ePortfolio Blog
 taxonomy:
     category: docs
+published: false
 ---
 
 # ePortfolio Blog
