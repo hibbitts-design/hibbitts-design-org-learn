@@ -2,6 +2,12 @@
 title: Open Publishing Space
 taxonomy:
     category: docs
+metadata:
+    'twitter:card' : summary
+    'twitter:site' : @hibbittsdesign
+    'twitter:title' : Overview | Grav CMS Open (Education) Resource Projects
+    'twitter:description' : All you need to know to get started with the open source Grav CMS Open Publishing Space skeleton package.
+    'twitter:image': 'http://learn.hibbittsdesign.org/03.openpublishingspace/learn-hibbittsdesign.png'
 ---
 
 [Grav Open Publishing Space Space](https://github.com/hibbitts-design/grav-skeleton-open-publishing-space) with [Git Sync](https://github.com/trilbymedia/grav-plugin-git-sync) is designed to publish, share and collaboratively edit Markdown-based content using the modern flat-file Grav CMS.
