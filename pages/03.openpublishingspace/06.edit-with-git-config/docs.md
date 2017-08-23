@@ -2,65 +2,55 @@
 title: Edit Page in Git link Configuration
 taxonomy:
     category: docs
-published: false
+published: true
 ---
 
-##### 4.1 Tap on the "Setup Edit Page in Git Link (Step 2 of 2)" link
+##### 4.1 Go to the site Admin Panel for your Open Publishing Space site and tap "Themes'
 
-![][31]
+![](../../images/open-publishing-space-install-and-configure-on-reclaim-hosting/go-to-the-site-admin-panel-for-your-open-publishing-space-site-and-tap--themes-.png)
 
-[31]: ../../images/oer-content-space---install-and-configure-on-reclaim-hosting/tap-on-the--setup-edit-page-in-git-link--step-2-of-2---link.png
+##### 4.2 Tap on the active Open Publishing Theme (Open Publishing Skeleton site shown)
 
-##### 4.2 Tap on the cogs gear icon in the "Edit/View Page in Git" particle within the "Navigation" area
+![](../../images/open-publishing-space-install-and-configure-on-reclaim-hosting/tap-on-the-active-open-publishing-theme--open-publishing-skeleton-site-shown-.png)
 
-![][32]
+##### 4.3 Scroll down to the "Git Sync Link" section
 
-[32]: ../../images/oer-content-space---install-and-configure-on-reclaim-hosting/tap-on-the-cogs-gear-icon-in-the--edit-view-page-in-git--particle-within-the--navigation--area.png
+![](../../images/open-publishing-space-install-and-configure-on-reclaim-hosting/scroll-down-to-the--git-sync-link--section.png)
 
-##### 4.3 You will next need the URL to where your "pages" folder is stored within your Git repository, so return to your previously created Git repository
+##### 4.4 Choose "View/Edit Page in Git Repository" option from the 'Type of Git Sync Link' menu
 
-![][33]
+You will next need the URL to where your "pages" folder is stored within your Git repository.
 
-[33]: ../../images/oer-content-space---install-and-configure-on-reclaim-hosting/you-will-next-need-the-url-to-where-your--pages--folder-is-stored-within-your-git-repository--so-ret.png
 
-##### 4.4 Open the "pages" folder within your Git repository
+![](../../images/open-publishing-space-install-and-configure-on-reclaim-hosting/choose--view-edit-page-in-git-repository--option-from-the--type-of-git-sync-link--menu.png)
 
-![][34]
+##### 4.5 Return to your Open Publishing Space GitLab repository and tap the 'pages' folder
 
-[34]: ../../images/oer-content-space---install-and-configure-on-reclaim-hosting/open-the--pages--folder-within-your-git-repository.png
+![](../../images/open-publishing-space-install-and-configure-on-reclaim-hosting/return-to-your-open-publishing-space-gitlab-repository-and-tap-the--pages--folder.png)
 
-##### 4.5 While viewing your "pages" folder, copy the entire URL from your Browser
+##### 4.6 When viewing the contents of the 'pages' folder, copy the current URL
 
-![][35]
+![](../../images/open-publishing-space-install-and-configure-on-reclaim-hosting/when-viewing-the-contents-of-the--pages--folder--copy-the-current-url.png)
 
-[35]: ../../images/oer-content-space---install-and-configure-on-reclaim-hosting/while-viewing-your--pages--folder--copy-the-entire-url-from-your-browser.png
+##### 4.7 Return to your Theme settings and paste the copied GitLab repository URL into the 'Git Repostory Tree URL' field
 
-##### 4.6 Paste the URL of your Git repository, but remove '/pages/' and any other text after that
+Make sure to remove '/pages' and everything after it from the pasted URL.
 
-![][36]
 
-[36]: ../../images/oer-content-space---install-and-configure-on-reclaim-hosting/paste-the-url-of-your-git-repository--but-remove---pages---and-any-other-text-after-that-.png
+![](../../images/open-publishing-space-install-and-configure-on-reclaim-hosting/return-to-your-theme-settings-and-paste-the-copied-gitlab-repository-url-into-the--git-repostory-tre.png)
 
-##### 4.7 Tap the "Apply and Save" button
+##### 4.8 Tap the 'Save' button
 
-![][37]
+![](../../images/open-publishing-space-install-and-configure-on-reclaim-hosting/tap-the--save--button-1.png)
 
-[37]: ../../images/oer-content-space---install-and-configure-on-reclaim-hosting/tap-the--apply-and-save--button.png
+##### 4.9 Tap on the arrow-circle button to once again preview the site
 
-##### 4.8 Tap on the arrow-circle button to once again preview the site
+![](../../images/open-publishing-space-install-and-configure-on-reclaim-hosting/tap-on-the-arrow-circle-button-to-once-again-preview-the-site-1.png)
 
-![][38]
+##### 4.10 Tap the now displayed "Edit this Page" link
 
-[38]: ../../images/oer-content-space---install-and-configure-on-reclaim-hosting/tap-on-the-arrow-circle-button-to-once-again-preview-the-site-1.png
+![](../../images/open-publishing-space-install-and-configure-on-reclaim-hosting/tap-the-now-displayed--edit-this-page--link.png)
 
-##### 4.9 For your final test, tap the "Edit Page in GitHub" link
+##### 4.11 Review the contents of the automatically linked Grav page in your GitLab repository
 
-![][39]
-
-[39]: ../../images/oer-content-space---install-and-configure-on-reclaim-hosting/for-your-final-test--tap-the--edit-page-in-github--link.png
-
-##### 4.10 The OER Content Space site homepage, displayed in GitHub
-
-![][40]
-
-[40]: ../../images/oer-content-space---install-and-configure-on-reclaim-hosting/the-oer-content-space-site-homepage--displayed-in-github.png
+![](../../images/open-publishing-space-install-and-configure-on-reclaim-hosting/review-the-contents-of-the-automatically-linked-grav-page-in-your-gitlab-repository.png)
