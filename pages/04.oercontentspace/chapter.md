@@ -2,7 +2,7 @@
 title: OER Content Space
 taxonomy:
     category: docs
-published: false
+published: true
 ---
 
 # OER Content Space
