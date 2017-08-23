@@ -2,131 +2,104 @@
 title: Git Sync Configuration
 taxonomy:
     category: docs
-published: false
+published: true
 ---
 
-##### 3.1 Tap the "Setup Git Sync Plugin (Step 1 of 2)" link
+##### 3.1 Tap the "Setup Git Sync Plugin" link
 
-![][11]
-
-[11]: ../../images/oer-content-space---install-and-configure-on-reclaim-hosting/tap-the--setup-git-sync-plugin--step-1-of-2---link-.png
+![](../../images/open-publishing-space-install-and-configure-on-reclaim-hosting/tap-the--setup-git-sync-plugin--link-.png)
 
 ##### 3.2 Tap the "Next" button
 
-![][12]
-
-[12]: ../../images/oer-content-space---install-and-configure-on-reclaim-hosting/tap-the--next--button.png
+![](../../images/open-publishing-space-install-and-configure-on-reclaim-hosting/tap-the--next--button.png)
 
 ##### 3.3 Choose Git service and enter your username and password for it
 
-If you do not yet use a Git service, such as GitHub or GitLab, signup for one and then return to this step.
-
-![][13]
-
-[13]: ../../images/oer-content-space---install-and-configure-on-reclaim-hosting/choose-git-service-and-enter-your-username-and-password-for-it.png
+![](../../images/open-publishing-space-install-and-configure-on-reclaim-hosting/choose-git-service-and-enter-your-username-and-password-for-it.png)
 
 ##### 3.4 Scroll down (if needed) and the tap the "Next" button
 
-![][14]
-
-[14]: ../../images/oer-content-space---install-and-configure-on-reclaim-hosting/scroll-down--if-needed--and-the-tap-the--next--button.png
+![](../../images/open-publishing-space-install-and-configure-on-reclaim-hosting/scroll-down--if-needed--and-the-tap-the--next--button.png)
 
 ##### 3.5 Before continuing, you will need to create a repository on your Git service.
 
-If you have already created a Git repository (with at least one commit, for example a ReadMe file) you may skip to step 3.10
+![](../../images/open-publishing-space-install-and-configure-on-reclaim-hosting/before-continuing--you-will-need-to-create-a-repository-on-your-git-service.png)
 
-![][15]
+##### 3.6 Create a new repository in your choosen Git service (GitLab example shown)
 
-[15]: ../../images/oer-content-space---install-and-configure-on-reclaim-hosting/before-continuing--you-will-need-to-create-a-repository-on-your-git-service.png
-
-##### 3.6 Create a new repository in your choosen Git service (GitHub example shown)
-
-![][16]
-
-[16]: ../../images/oer-content-space---install-and-configure-on-reclaim-hosting/create-a-new-repository-in-your-choosen-git-service--github-example-shown-.png
+![](../../images/open-publishing-space-install-and-configure-on-reclaim-hosting/create-a-new-repository-in-your-choosen-git-service--gitlab-example-shown-.png)
 
 ##### 3.7 Enter repository name
 
-![][17]
+![](../../images/open-publishing-space-install-and-configure-on-reclaim-hosting/enter-repository-name.png)
 
-[17]: ../../images/oer-content-space---install-and-configure-on-reclaim-hosting/enter-repository-name.png
+##### 3.8 Tap "README" link to include a ReadMe file
 
-##### 3.8 Choose to include a ReadMe file
+![](../../images/open-publishing-space-install-and-configure-on-reclaim-hosting/tap--readme--link-to-include-a-readme-file.png)
 
-![][18]
+##### 3.9 Tap "Commit changes" to complete the creation of the ReadMe file.
 
-[18]: ../../images/oer-content-space---install-and-configure-on-reclaim-hosting/choose-to-include-a-readme-file.png
+![](../../images/open-publishing-space-install-and-configure-on-reclaim-hosting/tap--commit-changes--to-complete-the-creation-of-the-readme-file.png)
 
-##### 3.9 Copy the HTTPS URL of the repository to your clipboard
+##### 3.10 Tap on "Project" to return to the main page of your new GitLab project repository.
 
-![][19]
+![](../../images/open-publishing-space-install-and-configure-on-reclaim-hosting/tap-on--project--to-return-to-the-main-page-of-your-new-gitlab-project-repository.png)
 
-[19]: ../../images/oer-content-space---install-and-configure-on-reclaim-hosting/copy-the-https-url-of-the-repository-to-your-clipboard.png
+##### 3.11 Tap on the "SSH" menu button and choose "HTTPS"
 
-##### 3.10 Paste the Git repository HTTPS URL into the "Git Repository" field and tap "Test Connection"
+![](../../images/open-publishing-space-install-and-configure-on-reclaim-hosting/tap-on-the--ssh--menu-button-and-choose--https-.png)
 
-![][20]
+##### 3.12 Copy the HTTPS URL of the repository to your clipboard
 
-[20]: ../../images/oer-content-space---install-and-configure-on-reclaim-hosting/paste-the-git-repository-https-url-into-the--git-repository--field-and-tap--test-connection-.png
+![](../../images/open-publishing-space-install-and-configure-on-reclaim-hosting/copy-the-https-url-of-the-repository-to-your-clipboard.png)
 
-##### 3.11 Tap the "Next" button
+##### 3.13 Paste the Git repository HTTPS URL into the "Git Repository" field and tap "Test Connection"
 
-![][21]
+![](../../images/open-publishing-space-install-and-configure-on-reclaim-hosting/paste-the-git-repository-https-url-into-the--git-repository--field-and-tap--test-connection-.png)
 
-[21]: ../../images/oer-content-space---install-and-configure-on-reclaim-hosting/tap-the--next--button-1.png
+##### 3.14 Tap the "Next" button
 
-##### 3.12 Select the displayed Webhook URL and copy it to your clipboard
+![](../../images/open-publishing-space-install-and-configure-on-reclaim-hosting/tap-the--next--button-1.png)
 
-![][22]
+##### 3.15 Select the displayed Webhook URL and copy it to your clipboard
 
-[22]: ../../images/oer-content-space---install-and-configure-on-reclaim-hosting/select-the-displayed-webhook-url-and-copy-it-to-your-clipboard.png
+![](../../images/open-publishing-space-install-and-configure-on-reclaim-hosting/select-the-displayed-webhook-url-and-copy-it-to-your-clipboard.png)
 
-##### 3.13 Add the Webhook to your Git repository settings, in GitHub tap "Settings"
+##### 3.16 Add the Webhook to your Git repository settings, in GitLab tap "Settings"
 
-![][23]
+![](../../images/open-publishing-space-install-and-configure-on-reclaim-hosting/add-the-webhook-to-your-git-repository-settings--in-gitlab-tap--settings-.png)
 
-[23]: ../../images/oer-content-space---install-and-configure-on-reclaim-hosting/add-the-webhook-to-your-git-repository-settings--in-github-tap--settings-.png
+##### 3.17 Tap "Integrations"
 
-##### 3.14 Tap "Webhooks"
+![](../../images/open-publishing-space-install-and-configure-on-reclaim-hosting/tap--integrations-.png)
 
-![][24]
+##### 3.18 Paste the copied Open Publishing Space Webhook URL into the "URL" field
 
-[24]: ../../images/oer-content-space---install-and-configure-on-reclaim-hosting/tap--webhooks-.png
+Note: if you change the folder name or location of your Grav Open Publishing Space site you will also need to update the "URL" field.
 
-##### 3.15 Tap "Add Webhook"
 
-![][25]
+![](../../images/open-publishing-space-install-and-configure-on-reclaim-hosting/paste-the-copied-open-publishing-space-webhook-url-into-the--url--field.png)
 
-[25]: ../../images/oer-content-space---install-and-configure-on-reclaim-hosting/tap--add-webhook-.png
+##### 3.19 Scroll down, and tap "Add webhook"
 
-##### 3.16 Paste the copied OER Content Space Webhook URL into the "Payload URL" field
+![](../../images/open-publishing-space-install-and-configure-on-reclaim-hosting/scroll-down--and-tap--add-webhook-.png)
 
-Note: if you change the folder name or location of your Grav OER Content Space site you will also need to update the "Payload URL" field.
+##### 3.20 Once the new Webhook is displayed, return to your Grav Open Publishing Space site
 
-![][26]
+![](../../images/open-publishing-space-install-and-configure-on-reclaim-hosting/once-the-new-webhook-is-displayed--return-to-your-grav-open-publishing-space-site.png)
 
-[26]: ../../images/oer-content-space---install-and-configure-on-reclaim-hosting/paste-the-copied-oer-content-space-webhook-url-into-the--payload-url--field.png
+##### 3.21 Tap the "Save" button
 
-##### 3.17 Scroll down, and tap "Add Webhook"
+![](../../images/open-publishing-space-install-and-configure-on-reclaim-hosting/tap-the--save--button.png)
 
-![][27]
+##### 3.22 Tap on the arrow-circle button to once again preview the site
 
-[27]: ../../images/oer-content-space---install-and-configure-on-reclaim-hosting/scroll-down--and-tap--add-webhook-.png
+![](../../images/open-publishing-space-install-and-configure-on-reclaim-hosting/tap-on-the-arrow-circle-button-to-once-again-preview-the-site.png)
 
-##### 3.18 Once the new Webhook is displayed, return to your Grav OER Content Space site
+##### 3.23 Tap on the "View Content Repository" link
 
-![][28]
+![](../../images/open-publishing-space-install-and-configure-on-reclaim-hosting/tap-on-the--view-content-repository--link.png)
 
-[28]: ../../images/oer-content-space---install-and-configure-on-reclaim-hosting/once-the-new-webhook-is-displayed--return-to-your-grav-oer-content-space-site.png
+##### 3.24 Review the just synced contents of your GitLab repository
 
-##### 3.19 Tap the "Save" button
-
-![][29]
-
-[29]: ../../images/oer-content-space---install-and-configure-on-reclaim-hosting/tap-the--save--button.png
-
-##### 3.20 Tap on the arrow-circle button to once again preview the site
-
-![][30]
-
-[30]: ../../images/oer-content-space---install-and-configure-on-reclaim-hosting/tap-on-the-arrow-circle-button-to-once-again-preview-the-site.png
+![](../../images/open-publishing-space-install-and-configure-on-reclaim-hosting/review-the-just-synced-contents-of-your-gitlab-repository.png)
