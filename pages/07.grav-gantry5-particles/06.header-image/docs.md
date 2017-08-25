@@ -32,7 +32,7 @@ routable: false
 ```
 
 #### Required CSS
-Add the following CSS to your Gantry theme's `custom.css` file. For example, if you are using the Helium theme the `custom.css` file should be located at `user/data/gantry5/themes/g5_helium/scss/custom.css`.
+If this Atom was not included in a Grav Skeleton Package, you will need to add the following CSS to your Gantry theme's `custom.css` file. For example, if you are using the Helium theme the `custom.css` file should be located at `user/data/gantry5/themes/g5_helium/scss/custom.css`.
 
 ```
 .myheader {
