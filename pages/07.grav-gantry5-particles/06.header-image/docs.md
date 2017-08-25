@@ -72,4 +72,4 @@ If this Atom was not included in a Grav Skeleton Package, you will need to add t
 }
 ```
 
-Note: you may need to clear Gantry's cache to update the display of the Atom
+Note: you may need to clear Gantry's cache to update the display of the Atom and also tap the 'Recompile CSS' command.
