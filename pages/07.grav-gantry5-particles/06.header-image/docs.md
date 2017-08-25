@@ -31,4 +31,45 @@ routable: false
 ---
 ```
 
+#### Required CSS
+Add the following CSS in your theme's custom.css file:
+
+```
+.myheader {
+  background-color: #464646;
+  background-repeat: no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-position: center;
+  width: auto;
+  height: 230px
+}
+
+@media only all and (min-width:48rem) and (max-width:59.938rem) {
+  .myheader {
+    height: 190px
+  }
+}
+
+@media only all and (min-width:30.062rem) and (max-width:47.938rem) {
+  .myheader {
+    height: 150px
+  }
+  #g-offcanvas {
+    margin-top: 150px
+  }
+}
+
+@media only all and (max-width:30rem) {
+  .myheader {
+    height: 110px
+  }
+  #g-offcanvas {
+    margin-top: 110px
+  }
+}
+```
+
 Note: you may need to clear Gantry's cache to update the display of the Atom
