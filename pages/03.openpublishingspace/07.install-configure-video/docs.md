@@ -8,7 +8,7 @@ taxonomy:
 [plugin:youtube](https://www.youtube.com/watch?v=q7EImLb8UMk)
 
 ##### Edit this Page with GitLab Configuration Video (no audio)  
-[plugin:youtube](https://www.youtube.com/watch?v=gKzN5bQGt-A)
+[plugin:youtube](https://www.youtube.com/watch?v=9WEr45nGyno)
 
 _POWER TIP: If you tap the *Edit* page button when viewing a page in GitLab (or GitHub) and copy that URL then when the Open Publishing Space *Edit this Page* link it tapped the editing mode will be automatically enabled in GitLab (or GitHub)._
 
