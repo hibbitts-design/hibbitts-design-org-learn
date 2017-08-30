@@ -13,6 +13,3 @@ Looking for a similar configuration example using GitHub? View the install and c
 [plugin:youtube](https://www.youtube.com/watch?v=9WEr45nGyno)
 
 _POWER TIP: If you tap the *Edit* page button when viewing a page in GitLab (or GitHub) and copy that URL then when the Open Publishing Space *Edit this Page* link it tapped the editing mode will be automatically enabled in GitLab (or GitHub)._
-
-##### Making the Open Publishing Space 'Chromeless' (e.g. for embedding pages into another system)
-[plugin:youtube](https://www.youtube.com/watch?v=9Eq9HRpXGKc)
