@@ -21,7 +21,7 @@ In addition, this theme is also automatically synced to the Git repository of yo
 
 When displaying Open Course Hub pages within another system (e.g. LMS) it is often helpful to only display page content and not include header navigation and the sidebar.
 
-To do this, add `onlydisplaypagecontent:true` to your page URLs. For example, to only display the content of the page at [demo.hibbittsdesign.org/grav-course-hub-bootstrap/home/week-03/](http://demo.hibbittsdesign.org/grav-course-hub-bootstrap/home/week-03/) you would use the revised URL of [demo.hibbittsdesign.org/grav-course-hub-bootstrap/home/week-03/onlydisplaypagecontent:true](http://demo.hibbittsdesign.org/grav-course-hub-bootstrap/home/week-03/onlydisplaypagecontent:true)
+To do this, add `chromeless:true` to your page URLs. For example, to only display the content of the page at [demo.hibbittsdesign.org/grav-course-hub-bootstrap/home/week-03/](http://demo.hibbittsdesign.org/grav-course-hub-bootstrap/home/week-03/) you would use the revised URL of [demo.hibbittsdesign.org/grav-course-hub-bootstrap/home/week-03/chromeless:true](http://demo.hibbittsdesign.org/grav-course-hub-bootstrap/home/week-03/chromeless:true)
 
 ##### Making a homepage blog post 'sticky'
 
