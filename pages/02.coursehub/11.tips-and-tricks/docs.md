@@ -6,12 +6,21 @@ taxonomy:
 
 Get the most out of your Open Course Hub!
 
-* [Customizing your Open Course
-Hub theme](#customizing-your-open-course-hub-theme)
+* [Editing Course Hub content on your desktop](#editing-site-content-on-your-desktop)
+* [Customizing your Course
+Hub theme](#customizing-your-course-hub-theme)
 * [Only display page content (when embedding pages)](#only-display-page-content-when-embedding-pages)
 * [Making a homepage blog post 'sticky'](#making-a-homepage-blog-post-sticky)
 
-##### Customizing your Open Course Hub theme
+##### Editing site content on your desktop
+
+You can use the [GitHub Desktop](https://desktop.github.com/) application with either [GitLab](https://about.gitlab.com/) or [GitHub](https://github.com/) to clone and edit your Open Course Hub pages on your own computer:
+
+* [GitHub & GitHub Desktop](/github-githubdesktop)
+* [GitLab & new Electron-based GitHub Desktop Beta](/gitlab-githubdesktop-beta)
+* [GitLab & GitHub Desktop](/gitlab-githubdesktop)
+
+##### Customizing your Course Hub theme
 
 The Open Course Hub skeleton package comes with an [Inherited Theme](https://learn.getgrav.org/themes/customization#theme-inheritance) called 'mytheme' all ready for your further customization.
 
