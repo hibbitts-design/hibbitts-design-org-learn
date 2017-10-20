@@ -6,6 +6,8 @@ taxonomy:
 
 ##### 3.1 Tap the "Setup Git Sync Plugin (Step 1 of 2)" link
 
+If you have installed the newest version of the Open Course Hub, this link will be called  **Setup Git Sync Plugin**.
+
 ![][12]
 
 [12]: ../../images/course-hub-with-git-sync---install-and-configure-on-reclaim-hosting/tap-the--setup-git-sync-plugin--step-1-of-2---link.png

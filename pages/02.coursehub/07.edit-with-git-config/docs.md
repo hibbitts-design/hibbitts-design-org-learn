@@ -4,6 +4,8 @@ taxonomy:
     category: docs
 ---
 
+#### _If you have installed the newest release of the Open Course Hub skeleton, these steps are no longer needed_ 👏🏼👏🏼👏🏼
+
 ##### 4.1 Tap the "Setup Edit Page in Git Link (Step 2 of 2)" link
 
 ![][33]
