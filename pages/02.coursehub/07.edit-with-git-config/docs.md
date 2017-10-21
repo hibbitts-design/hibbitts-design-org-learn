@@ -2,6 +2,8 @@
 title: Edit Page in Git link Configuration
 taxonomy:
     category: docs
+
+published: false
 ---
 
 #### _If you have installed the newest release of the Open Course Hub skeleton, these steps are no longer needed_ 👏🏼👏🏼👏🏼
