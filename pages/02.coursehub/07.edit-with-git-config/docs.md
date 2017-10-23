@@ -2,7 +2,6 @@
 title: Edit Page in Git link Configuration
 taxonomy:
     category: docs
-
 published: false
 ---
 

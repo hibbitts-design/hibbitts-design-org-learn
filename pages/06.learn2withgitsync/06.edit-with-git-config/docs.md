@@ -2,6 +2,7 @@
 title: Edit Page in Git link Configuration
 taxonomy:
     category: docs
+published: false
 ---
 
 ##### 4.1 Tap the "Setup Edit Page in Git Link (Step 2 of 2)" link

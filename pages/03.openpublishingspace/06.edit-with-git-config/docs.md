@@ -2,7 +2,7 @@
 title: Edit Page in Git link Configuration
 taxonomy:
     category: docs
-published: true
+published: false
 ---
 
 ##### 4.1 Go to the site Admin Panel for your Open Publishing Space site and tap "Themes'
