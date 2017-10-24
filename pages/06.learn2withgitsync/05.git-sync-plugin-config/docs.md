@@ -4,9 +4,9 @@ taxonomy:
     category: docs
 ---
 
-##### 3.1 Tap the "Setup Git Sync Plugin (Step 1 of 2)" link
+##### 3.1 Tap the "Setup Git Sync Plugin" link
 
-![](../../images/grav-learn2-with-git-sync---install-and-configure-on-reclaim-hosting/tap-the--setup-git-sync-plugin--step-1-of-2---link.png)
+![](../../images/grav-learn2-with-git-sync---install-and-configure-on-reclaim-hosting/tap-the--setup-git-sync-plugin--link.png)
 
 ##### 3.2 Tap the "Next" button
 
