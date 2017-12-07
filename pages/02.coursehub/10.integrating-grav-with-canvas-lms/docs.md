@@ -10,7 +10,7 @@ metadata:
     'twitter:image': 'http://learn.hibbittsdesign.org/coursehub/integrating-grav-with-canvas-lms/grav-with-canvas-lms.png'
 ---
 
-The 'chromeless' feature let's you seamlessly integrate Open Course Hub pages with the Canvas LMS in three different ways:
+The 'chromeless' feature of the Course Hub let's you seamlessly embed Open Course Hub page content within the Canvas LMS in three different ways:
 
 * [Displaying Course Hub Content Within a Canvas Page](#displaying-course-hub-content-within-a-page)
 * [Adding Course Hub Content to a Canvas Module](#adding-a-link-to-course-hub-content-in-the-canvas-menu)
