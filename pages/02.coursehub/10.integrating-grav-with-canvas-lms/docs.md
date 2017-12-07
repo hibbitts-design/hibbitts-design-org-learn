@@ -13,7 +13,7 @@ metadata:
 The 'chromeless' feature of the Course Hub let's you seamlessly embed Open Course Hub page content within the Canvas LMS in three different ways:
 
 * [Displaying Course Hub Content Within a Canvas Page](#displaying-course-hub-content-within-a-page)
-* [Adding Course Hub Content to a Canvas Module](#adding-a-link-to-course-hub-content-in-the-canvas-menu)
+* [Adding Course Hub Content to a Canvas Module](#adding-course-hub-content-to-a-canvas-module)
 * [Adding a Link to Course Hub Content in the Canvas Menu](#adding-a-link-to-course-hub-content-in-the-canvas-menu)
 
 #### Displaying Course Hub Content Within a Page
