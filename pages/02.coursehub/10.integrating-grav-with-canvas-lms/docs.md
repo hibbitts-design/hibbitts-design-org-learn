@@ -44,6 +44,11 @@ The 'chromeless' feature of the Course Hub let's you seamlessly embed Open Cours
 
 ##### 5. Paste the HTML iFrame code, using the below example
 
+```
+<p><iframe style="border:0 #ffffff none; margin-top:-16px" src="https://example.com/chromeless:true" width="100%" height="950px" allowfullscreen="allowfullscreen"></iframe></p>
+
+```
+
 ![][6]
 
 [6]: ../../images/displaying-course-hub-content-within-a-canvas-page/paste-the-html-iframe-code--using-the-below-example.png
