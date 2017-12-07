@@ -13,7 +13,7 @@ metadata:
 The 'chromeless' feature of the Course Hub let's you seamlessly embed Open Course Hub page content within the Canvas LMS in three different ways:
 
 * [Displaying Course Hub Content Within a Canvas Page](#displaying-course-hub-content-within-a-page)
-* [Adding Course Hub Content to a Canvas Module](#adding-a-link-to-course-hub-content-in-the-canvas-menu)
+* [Adding Course Hub Content to a Canvas Module](#adding-course-hub-content-to-a-canvas-module)
 * [Adding a Link to Course Hub Content in the Canvas Menu](#adding-a-link-to-course-hub-content-in-the-canvas-menu)
 
 #### Displaying Course Hub Content Within a Page
@@ -145,7 +145,7 @@ If you do not see the "Redirect Tool" icon, you will need to install it. Tap on 
 
 [21]: ../../images/displaying-course-hub-content-within-a-canvas-page/tap-on--settings--in-the-canvas-menu--and-then-tap-the--redirect-tool--button--large-curved-arrow-.png
 
-##### 3. Tap on the "+Add App" button
+##### 3. Tap on the "+ Add App" button
 
 ![][22]
 
@@ -168,3 +168,11 @@ If you do not see the "Redirect Tool" icon, you will need to install it. Tap on 
 ![][25]
 
 [25]: ../../images/displaying-course-hub-content-within-a-canvas-page/tap-the--add-app--button.png
+
+##### 7. After returning to the "External Apps" page, refresh your Browser and tap on the newly created Canvas menu item
+
+![](../../images/displaying-course-hub-content-within-a-canvas-page/after-returning-to-the--external-apps--page--refresh-your-browser-and-tap-on-the-newly-created-canva.png)
+
+##### 8. Review the final result of the added Course Hub page
+
+![](../../images/displaying-course-hub-content-within-a-canvas-page/review-the-final-result-of-the-added-course-hub-page.png)
