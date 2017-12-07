@@ -2,6 +2,12 @@
 title: Integrating Grav with Canvas LMS
 taxonomy:
     category: docs
+metadata:
+    'twitter:card' : summary
+    'twitter:site' : @hibbittsdesign
+    'twitter:title' : Integrating Grav with Canvas LMS
+    'twitter:description' : Step-by-step guide for embedding Grav Open Course Hub pages within the Canvas LMS.
+    'twitter:image': 'http://learn.hibbittsdesign.org/coursehub/integrating-grav-with-canvas-lms/grav-with-canvas-lms.png'
 ---
 
 The 'chromeless' feature let's you seamlessly integrate Open Course Hub pages with the Canvas LMS in three different ways:
