@@ -10,7 +10,7 @@ metadata:
     'twitter:image': 'http://learn.hibbittsdesign.org/coursehub/integrating-grav-with-canvas-lms/grav-with-canvas-lms.png'
 ---
 
-The 'chromeless' feature of the Course Hub hides a site's global navigation elements for seamlessly displaying Open Course Hub page content within the Canvas LMS in three different ways:
+The 'chromeless' feature of the Grav Course Hub hides a site's global navigation elements for seamlessly displaying Course Hub page content within the Canvas LMS in three different ways:
 
 * [Displaying Course Hub Content Within a Canvas Page](#displaying-course-hub-content-within-a-page)
 * [Adding Course Hub Content to a Canvas Module](#adding-course-hub-content-to-a-canvas-module)
