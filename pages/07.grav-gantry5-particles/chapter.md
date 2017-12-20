@@ -2,6 +2,7 @@
 title: Gantry 5 Particles and Atoms
 taxonomy:
     category: docs
+published: false
 ---
 
 # Grav Gantry 5 Particles and Atoms
