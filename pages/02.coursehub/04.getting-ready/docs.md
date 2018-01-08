@@ -13,8 +13,10 @@ taxonomy:
 
 ##### 1.1 If you do not already have a Git service account (i.e. GitHub, GitLab, BitBucket, etc.) then sign up for one
 
-##### 1.2 Download Course Hub skeleton package
+##### 1.2 Download the standard Course Hub skeleton package
 
 From the getgrav.org site at [https://getgrav.org/downloads/skeletons](https://getgrav.org/downloads/skeletons) or via this direct link: [http://hibbittsdesign.org/blog/downloads/grav-skeleton-course-hub-site.zip](http://hibbittsdesign.org/blog/downloads/grav-skeleton-course-hub-site.zip)
+
+You can also download two variations of Course Hub - [Basic](http://hibbittsdesign.org/blog/downloads/grav-skeleton-course-hub-site-basic.zip) (with fewer pages and features used) or [Advanced](http://hibbittsdesign.org/blog/downloads/grav-skeleton-course-hub-site-advanced.zip) (with more pages and features used).
 
 ##### 1.3 Log into your Webhost cPanel and go to the File Manager area
