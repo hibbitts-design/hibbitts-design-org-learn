@@ -1,5 +1,5 @@
 ---
-title: Getting Ready
+title: Get Ready and Download
 taxonomy:
     category: docs
 ---
