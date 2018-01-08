@@ -17,6 +17,6 @@ taxonomy:
 
 From the getgrav.org site at [https://getgrav.org/downloads/skeletons](https://getgrav.org/downloads/skeletons) or via this direct link: [http://hibbittsdesign.org/blog/downloads/grav-skeleton-course-hub-site.zip](http://hibbittsdesign.org/blog/downloads/grav-skeleton-course-hub-site.zip)
 
-You can also download two variations of Course Hub - [Basic](http://hibbittsdesign.org/blog/downloads/grav-skeleton-course-hub-site-basic.zip) (with fewer pages and features used) or [Advanced](http://hibbittsdesign.org/blog/downloads/grav-skeleton-course-hub-site-advanced.zip) (with more pages and features used).
+You can also download two variations of Course Hub - [Basic Course Hub](http://hibbittsdesign.org/blog/downloads/grav-skeleton-course-hub-site-basic.zip) (with fewer example pages and features shown) or [Advanced Course Hub](http://hibbittsdesign.org/blog/downloads/grav-skeleton-course-hub-site-advanced.zip) (with more example pages and features shown).
 
 ##### 1.3 Log into your Webhost cPanel and go to the File Manager area
