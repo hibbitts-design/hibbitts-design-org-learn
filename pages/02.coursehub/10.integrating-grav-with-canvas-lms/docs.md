@@ -79,6 +79,11 @@ The 'chromeless' feature of the Grav Course Hub hides a site's global navigation
 
 [26]: ../../images/displaying-course-hub-content-within-a-canvas-page/review-the-final-result-of-the-embedded-iframe-code.png
 
+Additional URL flags supported which might be helpful in addition to the 'chromeless':
+
+* hidepagetitle: true
+* summaryonly:true
+
 #### Adding Course Hub Content to a Canvas Module
 
 ##### 1. View the page you want to add to a Module, and copy the full URL of that page
