@@ -108,6 +108,8 @@ If all of the content expected is not displayed, or there is too much space betw
 
 #### Adding Course Hub Content using the External Tool
 
+Please note that you can also add Course Hub Content using the URL object in Moodle.
+
 ##### 1. View the page you want to add to add using the External Tool, and copy the full URL of that page
 
 ![](../../images/displaying-course-hub-content-within-a-moodle-page/view-the-page-you-want-to-add-to-add-using-the-external-tool--and-copy-the-full-url-of-that-page.png)
