@@ -79,7 +79,7 @@ The 'chromeless' feature of the Grav Course Hub hides a site's global navigation
 
 [26]: ../../images/displaying-course-hub-content-within-a-canvas-page/review-the-final-result-of-the-embedded-iframe-code.png
 
-Additional URL flags supported which might be helpful in addition to the 'chromeless':
+Additional URL flags supported which might be helpful in addition to the 'chromeless' URL parameter:
 
 * hidepagetitle: true
 * summaryonly:true
