@@ -9,7 +9,7 @@ taxonomy:
 
 Additional URL flags supported which might be helpful in addition to the 'chromeless' URL parameter:
 
-* hidepagetitle: true
+* hidepagetitle:true
 * summaryonly:true
 
 ##### Making the Open Publishing Space 'Chromeless' (e.g. for embedding pages into another system)

@@ -81,7 +81,7 @@ The 'chromeless' feature of the Grav Course Hub hides a site's global navigation
 
 Additional URL flags supported which might be helpful in addition to the 'chromeless' URL parameter:
 
-* hidepagetitle: true
+* hidepagetitle:true
 * summaryonly:true
 
 #### Adding Course Hub Content to a Canvas Module
