@@ -13,7 +13,7 @@ metadata:
 The 'chromeless' feature of the Grav Course Hub hides a site's global navigation elements for seamlessly displaying Course Hub page content within the Moodle LMS in three different ways:
 
 * [Displaying Course Hub Content Within a Moodle Page](#displaying-course-hub-content-within-a-moodle-page)
-* [Displaying Course Hub Unit Summary in a Moodle Topic](#displaying-course-hub-unit-summary-in-a-moodle-topic)
+* [Displaying a Course Hub Unit Summary in a Moodle Topic](#displaying-a-course-hub-unit-summary-in-a-moodle-topic)
 * [Adding Course Hub Content using the External Tool](#adding-course-hub-content-using-the-external-tool)
 
 #### Displaying Course Hub Content Within a Moodle Page
@@ -61,7 +61,7 @@ If all of the content expected is not displayed, or there is too much space betw
 
 ![](../../images/displaying-course-hub-content-within-a-moodle-page/review-the-final-result-of-the-embedded-iframe-code.png)
 
-#### Displaying Course Hub Unit Summary in a Moodle Topic
+#### Displaying a Course Hub Unit Summary in a Moodle Topic
 
 ##### 1. View the Unit (i.e. Week) page you want to include in a Topic, and copy the full URL of that page
 
@@ -134,10 +134,18 @@ Please note that you can also add Course Hub Content using the URL object in Moo
 
 ![](../../images/displaying-course-hub-content-within-a-moodle-page/paste-the-previously-copied-course-hub-page-https-url-into-the--url-redirect--field--and-add---chrom.png)
 
-##### 7. Tap the "Save and display" button
+##### 7. Tap the "Show more..." link
+
+![](../../images/displaying-course-hub-content-within-a-moodle-page/tap-the--show-more--link.png)
+
+##### 8. Choose the "Launch container" option. To display the Grav Course Hub page within the Moodle page choose the "Embed" option.
+
+![](../../images/displaying-course-hub-content-within-a-moodle-page/choose-the--launch-container--option-to-display-the-grav-course-hub-page-within-the-moodle-page-choo.png)
+
+##### 9. Tap the "Save and display" button
 
 ![](../../images/displaying-course-hub-content-within-a-moodle-page/tap-the--save-and-display--button.png)
 
-##### 8. Review the final result of the added Course Hub page
+##### 10. Review the final result of the added Course Hub page
 
 ![](../../images/displaying-course-hub-content-within-a-moodle-page/review-the-final-result-of-the-added-course-hub-page.png)
