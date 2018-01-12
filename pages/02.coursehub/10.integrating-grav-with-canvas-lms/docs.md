@@ -16,6 +16,8 @@ The 'chromeless' feature of the Grav Course Hub hides a site's global navigation
 * [Adding Course Hub Content to a Canvas Module](#adding-course-hub-content-to-a-canvas-module)
 * [Adding a Link to Course Hub Content in the Canvas Menu](#adding-a-link-to-course-hub-content-in-the-canvas-menu)
 
+Curious what all this might look like? Visit an [example Canvas LMS site with Grav Course Hub Content](http://paulhibbitts.net/moodle/course/view.php?id=2).
+
 #### Displaying Course Hub Content Within a Page
 
 ##### 1. View the page you want to embed, and copy the full URL of that page

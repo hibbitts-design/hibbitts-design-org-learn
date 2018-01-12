@@ -16,6 +16,8 @@ The 'chromeless' feature of the Grav Course Hub hides a site's global navigation
 * [Displaying a Course Hub Unit Summary in a Moodle Topic](#displaying-a-course-hub-unit-summary-in-a-moodle-topic)
 * [Adding Course Hub Content using the External Tool](#adding-course-hub-content-using-the-external-tool)
 
+Curious what all this might look like? Visit an [example Moodle site with Grav Course Hub Content](http://paulhibbitts.net/moodle/course/view.php?id=2).
+
 #### Displaying Course Hub Content Within a Moodle Page
 
 ##### 1. View the page you want to embed, and copy the full URL of that page
