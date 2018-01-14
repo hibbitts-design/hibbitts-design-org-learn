@@ -16,4 +16,4 @@ metadata:
 
 One or more Open Course Hub pages can also be embedded into another system (i.e. LMS) with the ['Chromeless Pages' option](../coursehub/install-configure-video#making-the-open-course-hub-chromeless-eg-for-embedding-pages-int), which hides global navigation elements.
 
-Explore a sample Open Course Hub site at: <br> [demo.hibbittsdesign.org/grav-course-hub](http://demo.hibbittsdesign.org/grav-course-hub-bootstrap/)
+Explore a sample Open Course Hub site at: <br> [demo.hibbittsdesign.org/grav-course-hub](http://demo.hibbittsdesign.org/grav-course-hub/)
