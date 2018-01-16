@@ -84,7 +84,7 @@ If all of the content expected is not displayed, or there is too much space betw
 ##### 5. Paste the HTML iFrame code, using the below example
 
 ```
-<p><iframe scrolling="no" style="border: 0px #ffffff none; " src="http://example.com/chromeless:true" allowfullscreen="allowfullscreen" height="540px" width="100%"></iframe></p>
+<p><iframe scrolling="no" style="border: 0px #ffffff none; " src="http://example.com/chromeless:true/summaryonly:true" allowfullscreen="allowfullscreen" height="540px" width="100%"></iframe></p>
 ```
 
 ![](../../images/displaying-course-hub-content-within-a-moodle-page/paste-the-html-iframe-code--using-the-below-example-1.png)
