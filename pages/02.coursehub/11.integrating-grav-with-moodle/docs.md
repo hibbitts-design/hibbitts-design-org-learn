@@ -44,11 +44,11 @@ Curious what all this might look like? Visit an <a href="http://paulhibbitts.net
 
 ![](../../images/displaying-course-hub-content-within-a-moodle-page/paste-the-html-iframe-code--using-the-below-example.png)
 
-##### 6. Highlight the default URL within the iFrame code, not including the "/chromeless=true" text (this will be needed to be included after your URL)
+##### 6. Highlight the default URL within the iFrame code, not including the **"/chromeless=true"** text (this will be needed to be included after your URL)
 
 ![](../../images/displaying-course-hub-content-within-a-moodle-page/highlight-the-default-url-within-the-iframe-code--not-including-the---chromeless-true--text--this-wi.png)
 
-##### 7. Paste the previously copied Course Hub page HTTP URL, and ensure that the "/chromeless:true" text is still part of the URL
+##### 7. Paste the previously copied Course Hub page HTTP URL, and ensure that the **"/chromeless:true"** text is still part of the URL
 
 ![](../../images/displaying-course-hub-content-within-a-moodle-page/paste-the-previously-copied-course-hub-page-http-url--and-ensure-that-the---chromeless-true--text-is.png)
 
@@ -84,16 +84,16 @@ If all of the content expected is not displayed, or there is too much space betw
 ##### 5. Paste the HTML iFrame code, using the below example
 
 ```
-<p><iframe scrolling="no" style="border: 0px #ffffff none; " src="http://example.com/chromeless:true/summaryonly:true" allowfullscreen="allowfullscreen" height="540px" width="100%"></iframe></p>
+<p><iframe scrolling="no" style="border: 0px #ffffff none; " src="http://example.com/chromeless:true" allowfullscreen="allowfullscreen" height="540px" width="100%"></iframe></p>
 ```
 
 ![](../../images/displaying-course-hub-content-within-a-moodle-page/paste-the-html-iframe-code--using-the-below-example-1.png)
 
-##### 6. Highlight the default URL within the iFrame code, not including the "/chromeless=true" text (this will be needed to be included after your URL)
+##### 6. Highlight the default URL within the iFrame code, not including the **"/chromeless=true"** text (this will be needed to be included after your URL)
 
 ![](../../images/displaying-course-hub-content-within-a-moodle-page/highlight-the-default-url-within-the-iframe-code--not-including-the---chromeless-true--text--this-wi-1.png)
 
-##### 7. Add additional URL flags to only display the Unit summary ("/summaryonly:true") and hide the page title ("/hidepagetitle:true").
+##### 7. Add additional URL flags to only display the Unit summary (**"/summaryonly:true"**) and hide the page title (**"/hidepagetitle:true"**).
 
 ![](../../images/displaying-course-hub-content-within-a-moodle-page/add-additional-url-flags-to-only-display-the-unit-summary----summaryonly-true---and-hide-the-page-ti.png)
 
@@ -132,7 +132,7 @@ Please note that you can also add Course Hub Content using the URL object in Moo
 
 ![](../../images/displaying-course-hub-content-within-a-moodle-page/enter-the-name-for-the-external-tool-link-.png)
 
-##### 6. Paste the previously copied Course Hub page HTTPS URL into the "URL Redirect" field, and add "/chromeless:true" to the end of the URL
+##### 6. Paste the previously copied Course Hub page HTTPS URL into the "URL Redirect" field, and add **"/chromeless:true"** to the end of the URL
 
 ![](../../images/displaying-course-hub-content-within-a-moodle-page/paste-the-previously-copied-course-hub-page-https-url-into-the--url-redirect--field--and-add---chrom.png)
 
