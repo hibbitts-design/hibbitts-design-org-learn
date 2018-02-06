@@ -8,7 +8,7 @@ taxonomy:
 * A complete ready-to-run Grav package (open source)
 * Uses Markdown for streamlined cross-platform content
 * Support for Git (e.g. GitHub or GitLab) syncing and collaboration
-* 'Chromeless' option to display only page content (for embedding Hub pages)
+* 'Chromeless' feature to display only page content (for embedding Hub pages)
 * Blog-format homepage, with important reminders and class preparations areas
 * Ability to control which posts are listed on homepage
 * Additional Hub pages can be easily added/removed/changed
