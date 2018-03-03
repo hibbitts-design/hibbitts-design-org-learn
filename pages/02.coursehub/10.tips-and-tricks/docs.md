@@ -49,12 +49,12 @@ The addition of the `summaryonly:true` URL flag will display the summary of a 'c
 
 ##### Making a homepage blog post 'sticky'
 
-To make a blog post precede all other blog posts listed, add a `Featured` tag to it's taxonomy field (located on the `Options` panel when editing a page in the Admin Panel). The frontmatter that is added to the page will look like this:
+To make a blog post precede all other blog posts listed, add a `featured` tag to it's taxonomy field (located on the `Options` panel when editing a page in the Admin Panel). The frontmatter that is added to the page will look like this:
 
 ```
 taxonomy:
     tag:
-        - Featured
+        - featured
 ```
 
 ##### Hiding a post from the homepage post list
