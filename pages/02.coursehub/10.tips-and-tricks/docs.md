@@ -84,6 +84,10 @@ This ShortCode embeds an [Embed.ly](http://embed.ly/) card Webpage preview.
 [embedly url="http://getgrav.org"]
 ```
 
+Example (image)
+
+![](embedly.png)
+
 **H5P**
 
 This ShortCode embeds an [H5P](https://h5p.org) content item.
@@ -93,6 +97,10 @@ This ShortCode embeds an [H5P](https://h5p.org) content item.
 [h5p url="https://h5p.org/h5p/embed/712"]
 ```
 
+Example (image)
+
+![](h5p.png)
+
 **Swipe**
 
 This shortcode embeds a [Swipe](https://www.swipe.to) slidedeck.
@@ -100,3 +108,7 @@ This shortcode embeds a [Swipe](https://www.swipe.to) slidedeck.
 ```
 [swipe id="97940k6h8r7cnfw"]
 ```
+
+Example (image)
+
+![](swipe.png)
