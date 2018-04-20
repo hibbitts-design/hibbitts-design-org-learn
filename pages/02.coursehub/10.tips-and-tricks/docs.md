@@ -13,6 +13,7 @@ Hub theme](#customizing-your-course-hub-theme)
 * [Making a homepage blog post 'sticky'](#making-a-homepage-blog-post-sticky)
 * [Hiding a post from the homepage post list](#hiding-a-post-from-the-homepage-post-list)
 * [Override a page's automatic Git Repository URL](#override-a-pages-automatic-git-repository-url)
+* [Built-in ShortCodes](#built-in-shortcodes)
 
 ##### Editing site content on your desktop
 
@@ -71,4 +72,31 @@ To override the automatically calculated Git Repository URL on a page (i.e. to v
 
 ```
 git_sync_repo_link: https://github.com/hibbitts-design/grav-skeleton-course-hub/tree/master/pages/01.home
+```
+
+##### Built-in ShortCodes
+
+**Embed.ly**
+
+This ShortCode embeds an [Embed.ly](http://embed.ly/) card Webpage preview.
+
+```
+[embedly url="http://getgrav.org"]
+```
+
+**H5P**
+
+This ShortCode embeds an [H5P](https://h5p.org) content item.
+
+```
+[h5p id="712"]
+[h5p url="https://h5p.org/h5p/embed/712"]
+```
+
+**Swipe**
+
+This shortcode embeds a [Swipe](https://www.swipe.to) slidedeck.
+
+```
+[swipe id="97940k6h8r7cnfw"]
 ```
