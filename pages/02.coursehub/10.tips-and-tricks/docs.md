@@ -9,7 +9,7 @@ Get the most out of your Open Course Hub!
 * [Editing Course Hub content on your desktop](#editing-site-content-on-your-desktop)
 * [Customizing your Course
 Hub theme](#customizing-your-course-hub-theme)
-* [URL flags (for embedding pages)](#url-flags-for-embedding-pages)
+* [URL Parameters (e.g. for embedding pages)](#url-parameters-eg-for-embedding-pages)
 * [Making a homepage blog post 'sticky'](#making-a-homepage-blog-post-sticky)
 * [Hiding a post from the homepage post list](#hiding-a-post-from-the-homepage-post-list)
 * [Override a page's automatic Git Repository URL](#override-a-pages-automatic-git-repository-url)
@@ -29,24 +29,24 @@ The Open Course Hub skeleton package comes with an [Inherited Theme](https://lea
 
 In addition, this theme is also automatically synced to the Git repository of your site. This means that you can invite other people, such as fellow educators or your students, to assist in the further customization of your site.
 
-##### URL flags (for embedding pages)
+##### URL Parameters (e.g. for embedding pages)
 
 When displaying Open Course Hub pages within another system (e.g. LMS) it is often helpful to only display page content and not include header navigation and the sidebar.
 
-To support this use of Open Course Hub, a number of URL flags are available:
+To support this use of Open Course Hub, a number of URL parameters are available:
 
 * `chromeless`
 * `hidepagetitle`
 * `summaryonly`
 
-**Chromeless Flag**  
-The `chromeless:true` URL flag will display a page without global navigation elements. For example, [http://demo.hibbittsdesign.org/grav-course-hub/resources/chromeless:true](http://demo.hibbittsdesign.org/grav-course-hub/resources/chromeless:true)
+**Chromeless Parameter**  
+The `chromeless:true` URL parameter will display a page without global navigation elements. For example, [http://demo.hibbittsdesign.org/grav-course-hub/resources/chromeless:true](http://demo.hibbittsdesign.org/grav-course-hub/resources/chromeless:true)
 
-**HidePageTitle Flag**  
-The addition of the `hidepagetitle:true` URL flag will display a 'chromeless' page without it's title. For example, [http://demo.hibbittsdesign.org/grav-course-hub/resources/chromeless:true/hidepagetitle:true](http://demo.hibbittsdesign.org/grav-course-hub/resources/chromeless:true/hidepagetitle:true)
+**HidePageTitle Parameter**  
+The addition of the `hidepagetitle:true` URL parameter will display a 'chromeless' page without it's title. For example, [http://demo.hibbittsdesign.org/grav-course-hub/resources/chromeless:true/hidepagetitle:true](http://demo.hibbittsdesign.org/grav-course-hub/resources/chromeless:true/hidepagetitle:true)
 
-**Summary Only Flag**  
-The addition of the `summaryonly:true` URL flag will display the summary of a 'chromeless' blog page. For example, [http://demo.hibbittsdesign.org/grav-course-hub/home/unit-01/chromeless:true/summaryonly:true](http://demo.hibbittsdesign.org/grav-course-hub/home/unit-01/chromeless:true/summaryonly:true)
+**Summary Only Parameter**  
+The addition of the `summaryonly:true` URL parameter will display the summary of a 'chromeless' blog page. For example, [http://demo.hibbittsdesign.org/grav-course-hub/home/unit-01/chromeless:true/summaryonly:true](http://demo.hibbittsdesign.org/grav-course-hub/home/unit-01/chromeless:true/summaryonly:true)
 
 ##### Making a homepage blog post 'sticky'
 

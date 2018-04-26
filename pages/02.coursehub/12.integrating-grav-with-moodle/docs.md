@@ -93,7 +93,7 @@ If all of the content expected is not displayed, or there is too much space betw
 
 ![](../../images/displaying-course-hub-content-within-a-moodle-page/highlight-the-default-url-within-the-iframe-code--not-including-the---chromeless-true--text--this-wi-1.png)
 
-##### 7. Add additional URL flags to only display the Unit summary (**"/summaryonly:true"**) and hide the page title (**"/hidepagetitle:true"**).
+##### 7. Add additional URL parameters to only display the Unit summary (**"/summaryonly:true"**) and hide the page title (**"/hidepagetitle:true"**).
 
 ![](../../images/displaying-course-hub-content-within-a-moodle-page/add-additional-url-flags-to-only-display-the-unit-summary----summaryonly-true---and-hide-the-page-ti.png)
 

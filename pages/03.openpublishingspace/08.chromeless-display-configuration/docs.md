@@ -7,7 +7,7 @@ taxonomy:
 ##### Embedding Pages for 'Chromeless' Display (using the `chromeless:true` URL parameter)
 [plugin:youtube](https://www.youtube.com/watch?v=FThbW4dAkSs)
 
-Additional URL flags supported which might be helpful in addition to the 'chromeless' URL parameter:
+Additional URL parameters supported which might be helpful in addition to the 'chromeless' URL parameter:
 
 * hidepagetitle:true
 * summaryonly:true

@@ -81,7 +81,7 @@ Curious what all this might look like? Visit an [example Canvas site with Grav C
 
 [26]: ../../images/displaying-course-hub-content-within-a-canvas-page/review-the-final-result-of-the-embedded-iframe-code.png
 
-Additional URL flags supported which might be helpful in addition to the 'chromeless' URL parameter:
+Additional URL parameters supported which might be helpful in addition to the 'chromeless' URL parameter:
 
 * hidepagetitle:true
 * summaryonly:true
