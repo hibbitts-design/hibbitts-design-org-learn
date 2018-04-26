@@ -9,7 +9,7 @@ Get the most out of your Open Course Hub!
 * [Editing Course Hub content on your desktop](#editing-site-content-on-your-desktop)
 * [Customizing your Course
 Hub theme](#customizing-your-course-hub-theme)
-* [URL Parameters (e.g. for embedding pages)](#url-parameters-eg-for-embedding-pages)
+* [URL Parameters (e.g. for embedding pages)](#url-parameters-e-g-for-embedding-pages)
 * [Making a homepage blog post 'sticky'](#making-a-homepage-blog-post-sticky)
 * [Hiding a post from the homepage post list](#hiding-a-post-from-the-homepage-post-list)
 * [Override a page's automatic Git Repository URL](#override-a-pages-automatic-git-repository-url)
