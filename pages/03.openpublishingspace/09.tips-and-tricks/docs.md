@@ -10,6 +10,7 @@ Get the most out of your Open Publishing Space!
 * [Customizing your Open Publishing Space theme](#customizing-your-open-publishing-space-theme)
 * [Only display page content (when embedding pages)](#only-display-page-content-when-embedding-pages)
 * [Making a homepage blog post 'sticky'](#making-a-homepage-blog-post-sticky)
+* [Built-in ShortCodes](#built-in-shortcodes)
 
 ##### Editing Open Publishing Space content on your desktop
 
@@ -56,3 +57,42 @@ To override the automatically calculated Git Repository URL on a page (i.e. to v
 ```
 git_sync_repo_link: https://github.com/hibbitts-design/grav-skeleton-open-publishing-space/tree/master/pages/01.blog
 ```
+
+##### Built-in ShortCodes
+
+**Embed.ly**
+
+This ShortCode embeds an [Embed.ly](http://embed.ly/) card Webpage preview.
+
+```
+[embedly url="http://getgrav.org"]
+```
+
+Example (image)
+
+![](embedly.png)
+
+**H5P**
+
+This ShortCode embeds an [H5P](https://h5p.org) content item.
+
+```
+[h5p id="712"]
+[h5p url="https://h5p.org/h5p/embed/712"]
+```
+
+Example (image)
+
+![](h5p.png)
+
+**Swipe**
+
+This shortcode embeds a [Swipe](https://www.swipe.to) slidedeck.
+
+```
+[swipe id="97940k6h8r7cnfw"]
+```
+
+Example (image)
+
+![](swipe.png)
