@@ -8,8 +8,9 @@ Get the most out of your Open Publishing Space!
 
 * [Editing Open Publishing Space content on your desktop](#editing-open-publishing-space-content-on-your-desktop)
 * [Customizing your Open Publishing Space theme](#customizing-your-open-publishing-space-theme)
-* [Only display page content (when embedding pages)](#only-display-page-content-when-embedding-pages)
+* [Only display page content (when embedding pages)](#only-display-page-content-when-embedding-pages)  
 * [Making a homepage blog post 'sticky'](#making-a-homepage-blog-post-sticky)
+* [Hiding a post from the homepage post list](#hiding-a-post-from-the-homepage-post-list)
 * [Built-in ShortCodes](#built-in-shortcodes)
 
 ##### Editing Open Publishing Space content on your desktop
