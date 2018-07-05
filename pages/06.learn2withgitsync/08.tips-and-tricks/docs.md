@@ -29,7 +29,7 @@ A customizable 'mytheme' inherited theme is also provided with the Learn2 with G
 
 ##### Add RSS/Atom feed buttons to your site
 
-Once you upgrade to the newest release of the Learn2 with Giy Sync theme, create a new root-level page folder with the name `feed` containing a file called `docs.md`, add then the following content to that page file:
+Once you upgrade to the newest release of the Learn2 with Git Sync theme, create a new root-level page folder with the name `feed` containing a file called `docs.md`, add then the following content to that page file:
 
 ```
 ---
