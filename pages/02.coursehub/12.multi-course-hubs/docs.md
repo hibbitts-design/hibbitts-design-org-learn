@@ -4,6 +4,8 @@ taxonomy:
     category: docs
 ---
 
+!! Please note that with the release of Open Matter Course Hub (v2.5 and greater) Multi-course Hubs are no longer supported.
+
 Two variations of the Grav Course Hub skeleton package are also available to provide multiple courses within one site.
 
 ##### Single blog page per course skeleton package

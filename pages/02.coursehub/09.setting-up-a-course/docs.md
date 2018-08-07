@@ -4,6 +4,8 @@ taxonomy:
     category: docs
 ---
 
+!! Please note that with the release of Open Matter Course Hub (v2.5 and greater) most Course Hub options have been relocated to Theme settings instead of Site settings.
+
 ##### 1. Course Hub Admin Dashboard
 
 ![][1]
