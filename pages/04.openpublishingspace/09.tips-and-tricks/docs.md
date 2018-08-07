@@ -31,7 +31,7 @@ In addition, this theme is also automatically synced to the Git repository of yo
 
 When displaying Open Publishing Space pages within another system (e.g. LMS) it is often helpful to only display page content and not include header navigation and the sidebar.
 
-To do this, add `chromeless:true` to your page URLs. For example, to only display the content of the page at [http://demo.hibbittsdesign.org/grav-open-publishing-quark/](http://demo.hibbittsdesign.org/grav-open-publishing-quark/blog/the-urban-jungle/) you would use the revised URL of [http://demo.hibbittsdesign.org/grav-open-publishing-quark/blog/the-urban-jungle/chromeless:true](http://demo.hibbittsdesign.org/grav-open-publishing-quark/blog/the-urban-jungle/chromeless:true)
+To do this, add `chromeless:true` to your page URLs. For example, to only display the content of the page at [http://demo.hibbittsdesign.org/grav-open-publishing-quark/blog/the-urban-jungle](http://demo.hibbittsdesign.org/grav-open-publishing-quark/blog/the-urban-jungle) you would use the revised URL of [http://demo.hibbittsdesign.org/grav-open-publishing-quark/blog/the-urban-jungle/chromeless:true](http://demo.hibbittsdesign.org/grav-open-publishing-quark/blog/the-urban-jungle/chromeless:true)
 
 ##### Making a homepage blog post 'sticky'
 
