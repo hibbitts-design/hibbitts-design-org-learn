@@ -1,5 +1,6 @@
 ---
 title: Multi-Course Hubs
+published: false
 taxonomy:
     category: docs
 ---
