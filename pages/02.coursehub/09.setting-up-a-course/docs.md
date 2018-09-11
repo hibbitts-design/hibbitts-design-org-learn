@@ -4,174 +4,116 @@ taxonomy:
     category: docs
 ---
 
-!! Please note that with the release of Open Matter Course Hub (v2.5 and greater) most Course Hub options have been relocated to Theme settings instead of Site settings.
-
 ##### 1. Course Hub Admin Dashboard
 
-![][1]
-
-[1]: ../../images/course-hub-with-git-sync---setting-up-a-course/course-hub-admin-dashboard-.png
+![](../../images/course-hub---setting-up-an-open-matter-course/course-hub-admin-dashboard-.png)
 
 ##### 2. Tap "Configuration"
 
-![][2]
-
-[2]: ../../images/course-hub-with-git-sync---setting-up-a-course/tap--configuration-.png
+![](../../images/course-hub---setting-up-an-open-matter-course/tap--configuration-.png)
 
 ##### 3. Tap the "Site" tab
 
-![][3]
-
-[3]: ../../images/course-hub-with-git-sync---setting-up-a-course/tap-the--site--tab.png
+![](../../images/course-hub---setting-up-an-open-matter-course/tap-the--site--tab.png)
 
 ##### 4. Modify the Site Title
 
-![][4]
 
-[4]: ../../images/course-hub-with-git-sync---setting-up-a-course/modify-the-site-title.png
 
-##### 5. Modify custom Menubar items
+![](../../images/course-hub---setting-up-an-open-matter-course/modify-the-site-title.png)
 
-![][5]
+##### 5. Tap "Themes"
 
-[5]: ../../images/course-hub-with-git-sync---setting-up-a-course/modify-custom-menubar-items.png
+![](../../images/course-hub---setting-up-an-open-matter-course/tap--themes-.png)
 
-##### 6. Change the default Blog Post icon
+##### 6. Tap "My Theme"
 
-![][6]
+If the "My Theme" theme is not available, tap on the "Bootstrap4 Open Matter" theme.
 
-[6]: ../../images/course-hub-with-git-sync---setting-up-a-course/change-the-default-blog-post-icon.png
 
-##### 7. Configure the sidebar Twitter Widget
+![](../../images/course-hub---setting-up-an-open-matter-course/tap--my-theme-.png)
 
-![][7]
+##### 7. Modify Open Matter options
 
-[7]: ../../images/course-hub-with-git-sync---setting-up-a-course/configure-the-sidebar-twitter-widget.png
+On the "Open Matter" tab you can change various options, including for Git Sync, H5P, Creative Commons License display, and custom Menubar items.
 
-##### 8. Display a site Creative Common license
 
-![][8]
+![](../../images/course-hub---setting-up-an-open-matter-course/modify-open-matter-options.png)
 
-[8]: ../../images/course-hub-with-git-sync---setting-up-a-course/display-a-site-creative-common-license.png
+##### 8. Modify Bootstrap4 options
 
-##### 9. Save any Site Configuration changes
+On the "Bootstrap4 Options" tab you can change various Bootstrap options, including the color for the site NavBar (Menubar).
 
-![][9]
 
-[9]: ../../images/course-hub-with-git-sync---setting-up-a-course/save-any-site-configuration-changes.png
+![](../../images/course-hub---setting-up-an-open-matter-course/modify-bootstrap4-options.png)
+
+##### 9. Save any Theme option changes
+
+![](../../images/course-hub---setting-up-an-open-matter-course/save-any-theme-option-changes.png)
 
 ##### 10. Tap "Pages"
 
-![][10]
-
-[10]: ../../images/course-hub-with-git-sync---setting-up-a-course/tap--pages-.png
+![](../../images/course-hub---setting-up-an-open-matter-course/tap--pages-.png)
 
 ##### 11. Review the Course Hub site structure
 
-![][11]
-
-[11]: ../../images/course-hub-with-git-sync---setting-up-a-course/review-the-course-hub-site-structure.png
+![](../../images/course-hub---setting-up-an-open-matter-course/review-the-course-hub-site-structure.png)
 
 ##### 12. Modify the site header image
 
 Remove the existing "Page Media" image and replace with an image of your choice.
 
-![][12]
 
-[12]: ../../images/course-hub-with-git-sync---setting-up-a-course/modify-the-site-header-image.png
+![](../../images/course-hub---setting-up-an-open-matter-course/modify-the-site-header-image.png)
 
 ##### 13. Modify the site sidebar
 
-![][13]
-
-[13]: ../../images/course-hub-with-git-sync---setting-up-a-course/modify-the-site-sidebar.png
+![](../../images/course-hub---setting-up-an-open-matter-course/modify-the-site-sidebar.png)
 
 ##### 14. Tap on the "+" sign to view Home page items
 
-![][14]
+![](../../images/course-hub---setting-up-an-open-matter-course/tap-on-the-----sign-to-view-home-page-items.png)
 
-[14]: ../../images/course-hub-with-git-sync---setting-up-a-course/tap-on-the-----sign-to-view-home-page-items.png
+##### 15. Review the Home page items and sample blog posts
 
-##### 15. Review the Home page items and blog posts
-
-![][15]
-
-[15]: ../../images/course-hub-with-git-sync---setting-up-a-course/review-the-home-page-items-and-blog-posts.png
+![](../../images/course-hub---setting-up-an-open-matter-course/review-the-home-page-items-and-sample-blog-posts.png)
 
 ##### 16. Modify Important Reminders
 
-![][16]
-
-[16]: ../../images/course-hub-with-git-sync---setting-up-a-course/modify-important-reminders-.png
+![](../../images/course-hub---setting-up-an-open-matter-course/modify-important-reminders-.png)
 
 ##### 17. Modify Class Preparations
 
-![][17]
+![](../../images/course-hub---setting-up-an-open-matter-course/modify-class-preparations.png)
 
-[17]: ../../images/course-hub-with-git-sync---setting-up-a-course/modify-class-preparations.png
+##### 18. Modify a Homepage blog post (i.e. module/class summary)
 
-##### 18. Modify a Homepage blog post (i.e. weekly/class summary)
+![](../../images/course-hub---setting-up-an-open-matter-course/modify-a-homepage-blog-post--ie-module-class-summary-.png)
 
-![][18]
+##### 19. Adding a new Homepage blog post (i.e. module/class summary)
 
-[18]: ../../images/course-hub-with-git-sync---setting-up-a-course/modify-a-homepage-blog-post--ie-weekly-class-summary-.png
+![](../../images/course-hub---setting-up-an-open-matter-course/adding-a-new-homepage-blog-post--ie-module-class-summary-.png)
 
-##### 19. Adding a new top-level page
+##### 20. Adding a new top-level page
 
-###### 19.1 Tap "Add Page"
+![](../../images/course-hub---setting-up-an-open-matter-course/adding-a-new-top-level-page.png)
 
-![][19]
+##### 21. Hide page (or Homepage blog post item)
 
-[19]: ../../images/course-hub-with-git-sync---setting-up-a-course/tap--add-page-.png
-
-###### 19.2 Choose "Root" for parent and either "Sidebarpage" or "Fullwidthpage" for page template.
-
-![][20]
-
-[20]: ../../images/course-hub-with-git-sync---setting-up-a-course/choose--root--for-parent-and-either--sidebarpage--or--fullwidthpage--for-page-template.png
-
-##### 20. Adding a new blog post
-
-###### 20.1 Tap "Add Page"
-
-![][21]
-
-[21]: ../../images/course-hub-with-git-sync---setting-up-a-course/tap--add-page-1.png
-
-###### 20.2 Choose "Home" for parent page
-
-![][22]
-
-[22]: ../../images/course-hub-with-git-sync---setting-up-a-course/choose--home--for-parent-page.png
-
-###### 20.3 Page template "Item" should then be automatically chosen
-
-![][23]
-
-[23]: ../../images/course-hub-with-git-sync---setting-up-a-course/page-template--item--should-then-be-automatically-chosen.png
-
-##### 21. Hide page (or blog post item)
+![](../../images/course-hub---setting-up-an-open-matter-course/hide-page--or-homepage-blog-post-item-.png)
 
 ###### 21.1 Tap page title to open page
 
-![][24]
-
-[24]: ../../images/course-hub-with-git-sync---setting-up-a-course/tap-page-title-to-open-page.png
+![](../../images/course-hub---setting-up-an-open-matter-course/tap-page-title-to-open-page.png)
 
 ###### 21.2 Tap Options
 
-![][25]
-
-[25]: ../../images/course-hub-with-git-sync---setting-up-a-course/tap-options.png
+![](../../images/course-hub---setting-up-an-open-matter-course/tap-options.png)
 
 ###### 21.3 Tap "No" for Published option
 
-![][26]
-
-[26]: ../../images/course-hub-with-git-sync---setting-up-a-course/tap--no--for-published-option.png
+![](../../images/course-hub---setting-up-an-open-matter-course/tap--no--for-published-option.png)
 
 ###### 21.4 Tap "Save"
 
-![][27]
-
-[27]: ../../images/course-hub-with-git-sync---setting-up-a-course/tap--save-.png
+![](../../images/course-hub---setting-up-an-open-matter-course/tap--save-.png)
