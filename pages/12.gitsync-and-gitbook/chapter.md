@@ -2,6 +2,7 @@
 title: Git Sync & GitBook
 taxonomy:
     category: docs
+published: false
 ---
 
 # Git Sync and GitBook

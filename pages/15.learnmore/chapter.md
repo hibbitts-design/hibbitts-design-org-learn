@@ -1,5 +1,5 @@
 ---
-title: Next Steps
+title: Learn More
 taxonomy:
     category: docs
 ---

@@ -2,6 +2,7 @@
 title: Grav Workshop Materials
 taxonomy:
     category: docs
+published: false
 ---
 
 #  Grav Workshop Materials
