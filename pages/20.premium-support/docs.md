@@ -1,5 +1,5 @@
 ---
-title: Premium Support
+title: Priority Support
 taxonomy:
     category: docs
 ---
