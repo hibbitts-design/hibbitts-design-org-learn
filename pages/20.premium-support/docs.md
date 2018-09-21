@@ -15,7 +15,6 @@ Examples of things Paul can help you with:
 * Page header options
 * Embedding Grav content into other systems (e.g. an LMS)
 * Git Sync setup and customization
-* Basics of GitHub, GitLab, etc.
 * Desktop editing of your Grav site
 
 _Please allow 1-2 business days for a response, but under two-hour response times are typical [Monday-Friday 10am-4pm PST](https://www.timeanddate.com/worldclock/canada/vancouver). Screen sharing sessions and theme customizations are not included in this service, but can be arranged separately._
