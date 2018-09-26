@@ -6,10 +6,11 @@ taxonomy:
 
 ##### Expected Technical Skills
 
+* Previous CMS (e.g. WordPress, SquareSpace, etc.)
 * Markdown or HTML basics
 * Understanding folder hierarchies (i.e. relative links)
-* Webserver access
-* GitHub, GitLab, or equivalent basic working knowledge (recommended)
+* Webserver FTP or Cpanel access
+* GitHub, GitLab, or equivalent working knowledge (if Git Sync feature used)
 
 ##### 1.1 If you do not already have a Git service account (i.e. GitHub, GitLab, BitBucket, etc.) then sign up for one
 
