@@ -26,6 +26,8 @@ _Please allow 1-2 business days for a response, but under two-hour response time
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
 
+<div style="margin-bottom: -1.25em;"></div>
+
 Would you rather make a single donation to help fund Paul's open source Grav in education work? You can do that too - thank you!
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
