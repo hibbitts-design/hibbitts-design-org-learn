@@ -2,6 +2,7 @@
 title: Priority Support
 taxonomy:
     category: docs
+cache_enable: false
 ---
 
 ![Support Platforms](support-platforms.png)
