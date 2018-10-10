@@ -73,9 +73,9 @@ published: true
 
 ![](../../images/open-publishing-space-install-and-configure-on-reclaim-hosting/tap--integrations-.png)
 
-##### 3.18 Paste the copied Open Publishing Space Webhook URL into the "URL" field
+##### 3.18 Paste the copied Open Blogging Space Webhook URL into the "URL" field
 
-Note: if you change the folder name or location of your Grav Open Publishing Space site you will also need to update the "URL" field.
+Note: if you change the folder name or location of your Grav Open Blogging Space site you will also need to update the "URL" field.
 
 
 ![](../../images/open-publishing-space-install-and-configure-on-reclaim-hosting/paste-the-copied-open-publishing-space-webhook-url-into-the--url--field.png)
@@ -84,7 +84,7 @@ Note: if you change the folder name or location of your Grav Open Publishing Spa
 
 ![](../../images/open-publishing-space-install-and-configure-on-reclaim-hosting/scroll-down--and-tap--add-webhook-.png)
 
-##### 3.20 Once the new Webhook is displayed, return to your Grav Open Publishing Space site
+##### 3.20 Once the new Webhook is displayed, return to your Grav Open Blogging Space site
 
 ![](../../images/open-publishing-space-install-and-configure-on-reclaim-hosting/once-the-new-webhook-is-displayed--return-to-your-grav-open-publishing-space-site.png)
 

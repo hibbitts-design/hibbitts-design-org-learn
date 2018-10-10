@@ -6,30 +6,30 @@ taxonomy:
 
 Get the most out of your Open Publishing Space!
 
-* [Editing Open Publishing Space content on your desktop](#editing-open-publishing-space-content-on-your-desktop)
-* [Customizing your Open Publishing Space theme](#customizing-your-open-publishing-space-theme)
+* [Editing Open Blogging Space content on your desktop](#editing-open-publishing-space-content-on-your-desktop)
+* [Customizing your Open Blogging Space theme](#customizing-your-open-publishing-space-theme)
 * [Only display page content (when embedding pages)](#only-display-page-content-when-embedding-pages)  
 * [Making a homepage blog post 'sticky'](#making-a-homepage-blog-post-sticky)
 * [Hiding a post from the homepage post list](#hiding-a-post-from-the-homepage-post-list)
 * [Built-in ShortCodes](#built-in-shortcodes)
 
-##### Editing Open Publishing Space content on your desktop
+##### Editing Open Blogging Space content on your desktop
 
-You can use the [GitHub Desktop](https://desktop.github.com/) application with either [GitLab](https://about.gitlab.com/) or [GitHub](https://github.com/) to clone and edit your Open Publishing Space pages on your own computer:
+You can use the [GitHub Desktop](https://desktop.github.com/) application with either [GitLab](https://about.gitlab.com/) or [GitHub](https://github.com/) to clone and edit your Open Blogging Space pages on your own computer:
 
 * [GitHub & GitHub Desktop](/github-githubdesktop)
 * [GitLab & new Electron-based GitHub Desktop Beta](/gitlab-githubdesktop-beta)
 * [GitLab & GitHub Desktop](/gitlab-githubdesktop)
 
-##### Customizing your Open Publishing Space theme
+##### Customizing your Open Blogging Space theme
 
-The Open Publishing Space skeleton package comes with an [Inherited Theme](https://learn.getgrav.org/themes/customization#theme-inheritance) called 'mytheme' all ready for your further customization.
+The Open Blogging Space skeleton package comes with an [Inherited Theme](https://learn.getgrav.org/themes/customization#theme-inheritance) called 'mytheme' all ready for your further customization.
 
 In addition, this theme is also automatically synced to the Git repository of your site. This means that you can invite other people, such as fellow educators or your students, to assist in the further customization of your site.
 
 ##### Only display page content (when embedding pages)
 
-When displaying Open Publishing Space pages within another system (e.g. LMS) it is often helpful to only display page content and not include header navigation and the sidebar.
+When displaying Open Blogging Space pages within another system (e.g. LMS) it is often helpful to only display page content and not include header navigation and the sidebar.
 
 To do this, add `chromeless:true` to your page URLs. For example, to only display the content of the page at [http://demo.hibbittsdesign.org/grav-open-publishing-quark/blog/the-urban-jungle](http://demo.hibbittsdesign.org/grav-open-publishing-quark/blog/the-urban-jungle) you would use the revised URL of [http://demo.hibbittsdesign.org/grav-open-publishing-quark/blog/the-urban-jungle/chromeless:true](http://demo.hibbittsdesign.org/grav-open-publishing-quark/blog/the-urban-jungle/chromeless:true)
 

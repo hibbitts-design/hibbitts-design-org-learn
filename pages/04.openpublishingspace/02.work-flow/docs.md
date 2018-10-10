@@ -4,4 +4,4 @@ taxonomy:
     category: docs
 ---
 
-![Open Publishing Space Workflow](open-publishing-space-with-git-sync-workflow.png)
+![Open Blogging Space Workflow](open-publishing-space-with-git-sync-workflow.png)

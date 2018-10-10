@@ -5,7 +5,7 @@ taxonomy:
 published: false
 ---
 
-##### 4.1 Go to the site Admin Panel for your Open Publishing Space site and tap "Themes'
+##### 4.1 Go to the site Admin Panel for your Open Blogging Space site and tap "Themes'
 
 ![](../../images/open-publishing-space-install-and-configure-on-reclaim-hosting/go-to-the-site-admin-panel-for-your-open-publishing-space-site-and-tap--themes-.png)
 
@@ -24,7 +24,7 @@ You will next need the URL to where your "pages" folder is stored within your Gi
 
 ![](../../images/open-publishing-space-install-and-configure-on-reclaim-hosting/choose--view-edit-page-in-git-repository--option-from-the--type-of-git-sync-link--menu.png)
 
-##### 4.5 Return to your Open Publishing Space GitLab repository and tap the 'pages' folder
+##### 4.5 Return to your Open Blogging Space GitLab repository and tap the 'pages' folder
 
 ![](../../images/open-publishing-space-install-and-configure-on-reclaim-hosting/return-to-your-open-publishing-space-gitlab-repository-and-tap-the--pages--folder.png)
 
