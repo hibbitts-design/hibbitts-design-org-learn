@@ -18,7 +18,7 @@ Examples of things Paul can help you with:
 * Git Sync setup and customization
 * Desktop editing of your Grav site
 
-_Please allow 1-2 business days for a response, but under two-hour response times are typical [Monday-Friday 10am-4pm PST](https://www.timeanddate.com/worldclock/canada/vancouver). Screen sharing sessions and theme customizations are not included in this service, but can be arranged separately._
+_Please allow 1-2 business days for a response. Screen sharing sessions and theme customizations are not included in this service, but can be arranged separately._
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
