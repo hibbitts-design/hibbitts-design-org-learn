@@ -12,4 +12,4 @@ Looking for a similar configuration example using GitHub? View the install and c
 ##### Edit this Page with GitLab Configuration Video  
 [plugin:youtube](https://www.youtube.com/watch?v=xMGud9Ayljc)
 
-_POWER TIP: If you tap the *Edit* page button when viewing a page in GitLab (or GitHub) and copy that URL then when the Open Blogging Space *Edit this Page* link it tapped the editing mode will be automatically enabled in GitLab (or GitHub)._
+_POWER TIP: If you tap the *Edit* page button when viewing a page in GitLab (or GitHub) and copy that URL then when the Open Publishing Space *Edit this Page* link it tapped the editing mode will be automatically enabled in GitLab (or GitHub)._

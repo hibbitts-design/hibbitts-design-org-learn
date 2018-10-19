@@ -12,5 +12,5 @@ Additional URL parameters supported which might be helpful in addition to the 'c
 * hidepagetitle:true
 * summaryonly:true
 
-##### Making the Open Blogging Space 'Chromeless' (e.g. for embedding pages into another system)
+##### Making the Open Publishing Space 'Chromeless' (e.g. for embedding pages into another system)
 [plugin:youtube](https://www.youtube.com/watch?v=9Eq9HRpXGKc)

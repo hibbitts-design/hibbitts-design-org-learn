@@ -4,7 +4,7 @@ taxonomy:
     category: docs
 ---
 
-##### Why use the Grav Open Blogging Space?
+##### Why use the Grav Open Publishing Space?
 * To leverage a modern flat-file CMS for the creation and presentation of open content
 * To support collaboration and version control of open content (e.g. GitHub)
 * To make open content more future-ready through CMS-independent access

@@ -13,7 +13,7 @@ published: true
 
 ![](../../images/open-publishing-space-install-and-configure-on-reclaim-hosting/tap--select-file-.png)
 
-##### 2.3 Choose the downloaded Open Blogging Space ZIP file
+##### 2.3 Choose the downloaded Open Publishing Space ZIP file
 
 ![](../../images/open-publishing-space-install-and-configure-on-reclaim-hosting/choose-the-downloaded-open-publishing-space-zip-file.png)
 
@@ -21,7 +21,7 @@ published: true
 
 ![](../../images/open-publishing-space-install-and-configure-on-reclaim-hosting/return-to-file-listing-view.png)
 
-##### 2.5 Right-tap on Open Blogging Space ZIP file and choose "Extract"
+##### 2.5 Right-tap on Open Publishing Space ZIP file and choose "Extract"
 
 ![](../../images/open-publishing-space-install-and-configure-on-reclaim-hosting/right-tap-on-open-publishing-space-zip-file-and-choose--extract-.png)
 
@@ -37,7 +37,7 @@ published: true
 
 ![](../../images/open-publishing-space-install-and-configure-on-reclaim-hosting/note--and-ideally-copy-to-your-clipboard--the-folder-name-for-use-in-the-url-to-your-site.png)
 
-##### 2.9 Visit the URL of your Open Blogging Space site and complete Admin config form
+##### 2.9 Visit the URL of your Open Publishing Space site and complete Admin config form
 
 ![](../../images/open-publishing-space-install-and-configure-on-reclaim-hosting/visit-the-url-of-your-open-publishing-space-site-and-complete-admin-config-form.png)
 
