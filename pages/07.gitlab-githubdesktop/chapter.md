@@ -5,7 +5,7 @@ taxonomy:
     category: docs
 ---
 
-# GitLab & GitHub Desktop
+# Grav, GitLab & GitHub Desktop
 
 Using GitLab and new Electron-based GitHub Desktop, Grav site content can be edited locally with changes selectively committed to a GitLab (Git) repository.
 

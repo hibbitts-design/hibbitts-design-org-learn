@@ -5,7 +5,7 @@ taxonomy:
     category: docs
 ---
 
-# GitHub & GitHub Desktop
+# Grav, GitHub & GitHub Desktop
 
 Using GitHub and GitHub Desktop, Grav site content can be edited locally with changes selectively committed to a GitHub (Git) repository.
 
