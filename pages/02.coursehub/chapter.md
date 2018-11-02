@@ -5,7 +5,7 @@ taxonomy:
 metadata:
     'twitter:card' : summary
     'twitter:site' : @hibbittsdesign
-    'twitter:title' : Overview | Grav CMS Open (Education) Resource Projects
+    'twitter:title' : Overview | Grav CMS in Open Education
     'twitter:description' : All you need to know to get started with the open source Grav CMS Open Course Hub skeleton package.
     'twitter:image': 'http://learn.hibbittsdesign.org/coursehub/learn-hibbittsdesign.png'
 ---
