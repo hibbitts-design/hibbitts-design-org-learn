@@ -2,6 +2,7 @@
 title: Benefits
 taxonomy:
     category: docs
+published: false
 ---
 
 ##### Why use the Grav OER Content Space?

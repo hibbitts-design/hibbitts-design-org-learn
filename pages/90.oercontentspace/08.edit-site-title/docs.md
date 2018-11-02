@@ -2,6 +2,7 @@
 title: Edit Site Title
 taxonomy:
     category: docs
+published: false
 ---
 
 ##### 1. Tap "Gantry 5"

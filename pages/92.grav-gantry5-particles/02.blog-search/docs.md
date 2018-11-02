@@ -2,6 +2,7 @@
 title: Blog Search
 taxonomy:
     category: docs
+published: false
 ---
 
 The ['Blog Search' Particle](https://github.com/hibbitts-design/grav-gantry5-particle-blog-search) displays a search box on blog pages.

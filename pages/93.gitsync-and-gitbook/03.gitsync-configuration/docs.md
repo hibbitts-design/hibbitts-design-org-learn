@@ -2,6 +2,7 @@
 title: Configuring GitSync
 taxonomy:
     category: docs
+published: false
 ---
 
 When running the Git Sync configuration wizard in your newly installed Grav with Git Sync skeleton, please do the following:

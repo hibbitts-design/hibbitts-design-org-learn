@@ -2,6 +2,7 @@
 title: Blog Feed
 taxonomy:
     category: docs
+published: false
 ---
 
 The ['Blog Feed' Particle](https://github.com/hibbitts-design/grav-gantry5-particle-blog-feed) displays RSS buttons on blog pages.

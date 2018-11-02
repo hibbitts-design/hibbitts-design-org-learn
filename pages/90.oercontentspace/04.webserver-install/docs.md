@@ -2,6 +2,7 @@
 title: Webserver Installation (cPanel)
 taxonomy:
     category: docs
+published: false
 ---
 
 ##### 2.2 Tap "Select File"

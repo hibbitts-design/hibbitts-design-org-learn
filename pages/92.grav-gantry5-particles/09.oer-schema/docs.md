@@ -2,6 +2,7 @@
 title: OER Schema
 taxonomy:
     category: docs
+published: false
 ---
 
 The ['OER Schema' Atom](https://github.com/hibbitts-design/grav-gantry5-atom-oer-schema) provides initial support for [OER Schema](http://oerschema.org/).

@@ -2,6 +2,7 @@
 title: Blog Tags
 taxonomy:
     category: docs
+published: false
 ---
 
 The ['Blog Tags' Particle](https://github.com/hibbitts-design/grav-gantry5-particle-blog-tags) displays a list of tags on blog pages.

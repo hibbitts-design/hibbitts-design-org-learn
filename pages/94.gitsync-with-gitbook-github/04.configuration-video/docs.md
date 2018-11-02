@@ -2,6 +2,7 @@
 title: Configuration Video
 taxonomy:
     category: docs
+published: false
 ---
 
 ##### GitBook and 'Edit this Page' link Config Video (OER Content Space shown)

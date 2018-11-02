@@ -2,6 +2,7 @@
 title: Creative Commons (CC) License
 taxonomy:
     category: docs
+published: false
 ---
 
 The ['Creative Commons (CC) License' Particle](https://github.com/hibbitts-design/grav-gantry5-particle-blog-tags) adds the chosen Creative Commons (CC) License to your pages.

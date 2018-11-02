@@ -2,6 +2,7 @@
 title: Configuring GitBook
 taxonomy:
     category: docs
+published: false
 ---
 
 1. Create a new GitHub Book, using the **Book & Manual** Template

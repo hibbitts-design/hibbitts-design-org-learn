@@ -2,6 +2,7 @@
 title: Header Image
 taxonomy:
     category: docs
+published: false
 ---
 
 The ['Header Image' Atom](https://github.com/hibbitts-design/grav-gantry5-particle-edit-view-page-in-git) displays a header image above the menubar on your Grav site.

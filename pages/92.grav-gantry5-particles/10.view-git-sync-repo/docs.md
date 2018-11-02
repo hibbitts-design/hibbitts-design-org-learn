@@ -2,6 +2,7 @@
 title: View Git Sync Repository
 taxonomy:
     category: docs
+published: false
 ---
 
 The ['View Git Sync Repository' Particle](https://github.com/hibbitts-design/grav-gantry5-particle-view-git-sync-repo) adds a link to view a Git Sync repository of your pages.

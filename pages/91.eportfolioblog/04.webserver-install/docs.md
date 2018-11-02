@@ -2,6 +2,7 @@
 title: Webserver Installation (cPanel)
 taxonomy:
     category: docs
+published: false
 ---
 
 ##### 2.1 Tap the "Upload" button

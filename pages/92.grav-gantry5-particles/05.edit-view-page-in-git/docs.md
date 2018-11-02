@@ -2,6 +2,7 @@
 title: Edit/View Page in Git
 taxonomy:
     category: docs
+published: false
 ---
 
 The ['Edit/View Page in Git' Particle](https://github.com/hibbitts-design/grav-gantry5-particle-edit-view-page-in-git) displays a link to edit the current Grav page stored in a Git repository (i.e. GitHub or GitLab).

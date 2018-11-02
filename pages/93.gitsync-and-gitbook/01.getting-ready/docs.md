@@ -2,6 +2,7 @@
 title: Getting Ready
 taxonomy:
     category: docs
+published: false
 ---
 
 1. Install (but do not configure yet) a Grav skeleton package with Git Sync

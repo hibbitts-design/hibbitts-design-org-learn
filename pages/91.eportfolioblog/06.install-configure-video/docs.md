@@ -2,6 +2,7 @@
 title: Install and Configuration Videos
 taxonomy:
     category: docs
+published: false
 ---
 
 ##### Basic Install and Configuration  

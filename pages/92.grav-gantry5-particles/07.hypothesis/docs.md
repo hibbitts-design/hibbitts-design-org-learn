@@ -2,6 +2,7 @@
 title: Hypothesis
 taxonomy:
     category: docs
+published: false
 ---
 
 >>>Not using a Gantry 5 theme with Grav? No problem! There is also a [Hypothesis plugin](https://getgrav.org/downloads/plugins) available.

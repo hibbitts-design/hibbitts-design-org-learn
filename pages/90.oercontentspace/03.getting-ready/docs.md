@@ -2,6 +2,7 @@
 title: Getting Ready
 taxonomy:
     category: docs
+published: false
 ---
 
 ##### Expected Technical Skills

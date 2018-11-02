@@ -2,6 +2,7 @@
 title: Configuring GitBook
 taxonomy:
     category: docs
+published: false
 ---
 
 1. Follow the [GitHub Integration instructions for GitBook](https://help.gitbook.com/github/can-i-host-on-github.html) and choose the repository that contains your Grav site content

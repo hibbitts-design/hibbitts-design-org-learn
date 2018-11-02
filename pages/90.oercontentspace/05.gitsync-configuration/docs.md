@@ -2,6 +2,7 @@
 title: Git Sync Configuration
 taxonomy:
     category: docs
+published: false
 ---
 
 ##### 3.1 Tap the "Setup Git Sync Plugin (Step 1 of 2)" link

@@ -2,6 +2,7 @@
 title: Git Sync Configuration
 taxonomy:
     category: docs
+published: false
 ---
 
 ##### 3.1 Scroll down to the bottom of the page

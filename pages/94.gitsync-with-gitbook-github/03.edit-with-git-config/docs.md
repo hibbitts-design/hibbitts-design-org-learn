@@ -2,6 +2,7 @@
 title: Edit Page in Git link Configuration
 taxonomy:
     category: docs
+published: false
 ---
 
 1. When viewing your GitBook book, tap on the 'Edit' button
