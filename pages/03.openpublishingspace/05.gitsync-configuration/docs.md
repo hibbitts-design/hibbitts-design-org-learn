@@ -99,7 +99,7 @@ Note: you can also choose to sync other user folders here, and as well in the pl
 
 ![](../../images/open-publishing-space-git-sync-2---install-and-configure-on-reclaim-hosting/tap-the-arrow-square-button-to-once-again-preview-the-site.png)
 
-##### 3.23 To test your Git Sync configuration, tap on the "View Content Repositiry" link
+##### 3.23 To test your Git Sync configuration, tap on the "View Content Repository" link
 
 Note: you can change this link to also go directly to the displayed page in your Active Theme settings
 
