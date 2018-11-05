@@ -108,6 +108,6 @@ Note: you can change this link to also go directly to the displayed page in your
 
 ![](../../images/open-course-hub---install-and-configure-on-reclaim-hosting/to-test-your-git-sync-configuration--tap-on-the--view-content-repositiry--link.png)
 
-##### 3.24 The site Content Repository should now be displayed in GitHub.
+##### 3.24 The site Content Repository should now be displayed in GitHub
 
 ![](../../images/open-course-hub---install-and-configure-on-reclaim-hosting/the-site-content-repository-should-now-be-displayed-in-github.png)
