@@ -48,3 +48,7 @@ published: true
 ##### 2.11 Tap on the arrow-square to preview site
 
 ![](../../images/open-publishing-space-git-sync-2---install-and-configure-on-reclaim-hosting/tap-on-the-arrow-square-to-preview-site.png)
+
+##### 2.12 Explore your newly created site!
+
+![](../../images/open-publishing-space-git-sync-2---install-and-configure-on-reclaim-hosting/explore-your-newly-created-site-.png)

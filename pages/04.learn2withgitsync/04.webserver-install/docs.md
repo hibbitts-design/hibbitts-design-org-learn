@@ -47,3 +47,7 @@ taxonomy:
 ##### 2.11 Tap on the arrow-square to preview site
 
 ![](../../images/grav-learn2-with-git-sync-2---install-and-configure-on-reclaim-hosting/tap-on-the-arrow-square-to-preview-site.png)
+
+##### 2.12 Explore your newly created site!
+
+![](../../images/grav-learn2-with-git-sync---install-and-configure-on-reclaim-hosting/explore-your-newly-created-site-.png)
