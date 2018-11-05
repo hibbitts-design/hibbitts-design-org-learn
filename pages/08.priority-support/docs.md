@@ -5,8 +5,6 @@ taxonomy:
 cache_enable: false
 ---
 
-# Priority Support
-
 ![Support Platforms](support-platforms.png)
 
 For a $5 USD/month subscription (introductory offer) get access to a private one-on-one [Slack](https://slack.com/) or [RocketChat](https://rocket.chat/) room with Paul Hibbitts to answer your questions about setting up and using any of his [Grav](https://getgrav.org/) Open Education packages ([Open Course Matter Hub](http://demo.hibbittsdesign.org/grav-open-matter-course-hub), [Open Publishing Space](https://demo.hibbittsdesign.org/grav-open-publishing-quark/), and [Learn2 with Git Sync](https://demo.hibbittsdesign.org/grav-learn2-git-sync/)).
