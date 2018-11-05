@@ -19,7 +19,6 @@ Get the most out of your Open Course Hub!
 You can use the [GitHub Desktop](https://desktop.github.com/) application with either [GitLab](https://about.gitlab.com/) or [GitHub](https://github.com/) to clone and edit your Open Course Hub pages on your own computer:
 
 * [GitHub & GitHub Desktop](/github-githubdesktop)
-* [GitLab & new Electron-based GitHub Desktop Beta](/gitlab-githubdesktop-beta)
 * [GitLab & GitHub Desktop](/gitlab-githubdesktop)
 
 ##### Customizing your Course Hub theme
