@@ -10,7 +10,9 @@ metadata:
     'twitter:image': 'http://learn.hibbittsdesign.org/openpublishingspace/learn-hibbittsdesign.png'
 ---
 
-[Grav Open Publishing (Blogging) Space Space](https://github.com/hibbitts-design/grav-skeleton-open-publishing-space) with [Git Sync](https://github.com/trilbymedia/grav-plugin-git-sync) is designed to publish, share and collaboratively edit Markdown-based content using the modern flat-file Grav CMS.
+# Open Open Publishing (Blogging) Space
+
+[Grav Open Publishing Space Space](https://github.com/hibbitts-design/grav-skeleton-open-publishing-space) with [Git Sync](https://github.com/trilbymedia/grav-plugin-git-sync) is designed to publish, share and collaboratively edit Markdown-based content using the modern flat-file Grav CMS.
 
 One or more Open Publishing Space pages can also be embedded into another system (i.e. LMS) with the 'Chromeless Pages' option, which hides global navigation elements.
 
