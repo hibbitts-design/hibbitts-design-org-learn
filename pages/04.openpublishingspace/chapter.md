@@ -12,7 +12,7 @@ metadata:
 
 # Open Open Publishing (Blogging) Space
 
-[Grav Open Publishing (Blogging) Space Space](https://github.com/hibbitts-design/grav-skeleton-open-publishing-space) with [Git Sync](https://github.com/trilbymedia/grav-plugin-git-sync) is designed to publish, share and collaboratively edit Markdown-based content using the modern flat-file Grav CMS.
+[Grav Open Publishing (Blogging) Space Space](https://github.com/hibbitts-design/grav-skeleton-open-publishing-space) with [Git Sync](https://github.com/trilbymedia/grav-plugin-git-sync) is designed to  help organizations or individual tech-savvy authors more easily publish, share and collaboratively edit Markdown-based content.
 
 ![Open Publishing Space](openpublishing.png)
 
