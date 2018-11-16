@@ -5,7 +5,11 @@ taxonomy:
     category: docs
 ---
 
-With the v2.7 release of the Grav Course Hub skeleton package MultiCourse Hubs are now supported.
+With the v2.7 release of the Grav Open Course Hub skeleton package MultiCourse Hubs are now supported.
+
+* [MultiCourse Hub skeleton package](#multicourse-hub-skeleton-package)
+
+_More to come, stay tuned..._
 
 ##### MultiCourse Hub skeleton package
 ![MultiCourse Hub Admin Pages](multicourse-hub-admin-pages.png)
