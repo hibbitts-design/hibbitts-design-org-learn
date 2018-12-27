@@ -13,6 +13,10 @@ Each course within a MultiCourse Hub is structured the same as a single course, 
 
 ![Support for multiple courses within the Admin Panel](admin-panel-multicourse.png)  
 
+An automatically generated list of all courses within a site is possible by creating a top-level page with the template 'courselist', as shown below. Courses may also be selectively hidden from this list.
+
+![Automatically created course list](course-list-page.png)
+
 ##### MultiCourse Hub skeleton package
 Download from the hibbittsdesign.org site at [hibbittsdesign.org/blog/downloads/grav-skeleton-open-matter-multicourse-hub-site.zip
 ](http://hibbittsdesign.org/blog/downloads/grav-skeleton-open-matter-multicourse-hub-site.zip
