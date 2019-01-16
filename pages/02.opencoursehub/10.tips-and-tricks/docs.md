@@ -74,6 +74,16 @@ git_sync_repo_link: https://github.com/hibbitts-design/grav-skeleton-course-hub/
 
 ##### Built-in ShortCodes
 
+**iFrame**
+
+This ShortCode embeds an iFrame content.
+
+```
+[iframe url="http://getgrav.org"]
+[iframe url="http://getgrav.org" aspectratio="4by3"] (default)
+[iframe url="http://getgrav.org"aspectratio="16by9"]
+```
+
 **Embed.ly**
 
 This ShortCode embeds an [Embed.ly](http://embed.ly/) card Webpage preview.
