@@ -44,7 +44,7 @@ The `chromeless:true` URL parameter will display a page without global navigatio
 The addition of the `hidepagetitle:true` URL parameter will display a 'chromeless' page without it's title. For example, [http://demo.hibbittsdesign.org/grav-course-hub/resources/chromeless:true/hidepagetitle:true](http://demo.hibbittsdesign.org/grav-course-hub/resources/chromeless:true/hidepagetitle:true)
 
 **Summary Only Parameter**  
-The addition of the `summaryonly:true` URL parameter will display the summary of a 'chromeless' blog page. For example, [http://demo.hibbittsdesign.org/grav-course-hub/home/unit-01/chromeless:true/summaryonly:true](http://demo.hibbittsdesign.org/grav-course-hub/home/unit-01/chromeless:true/summaryonly:true)
+The addition of the `summaryonly:true` URL parameter will display the summary of a 'chromeless' blog page. For example, [https://demo.hibbittsdesign.org/grav-open-matter-course-hub/home/module-01/chromeless:true/summaryonly:true](https://demo.hibbittsdesign.org/grav-open-matter-course-hub/home/module-01/chromeless:true/summaryonly:true)
 
 ##### Making a homepage blog post 'sticky'
 
