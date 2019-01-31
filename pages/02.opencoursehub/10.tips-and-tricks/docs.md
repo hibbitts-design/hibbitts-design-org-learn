@@ -76,7 +76,7 @@ git_sync_repo_link: https://github.com/hibbitts-design/grav-skeleton-course-hub/
 
 **iFrame**
 
-This ShortCode embeds an iFrame content.
+This ShortCode embeds an iFrame.
 
 ```
 [iframe url="http://getgrav.org"]
