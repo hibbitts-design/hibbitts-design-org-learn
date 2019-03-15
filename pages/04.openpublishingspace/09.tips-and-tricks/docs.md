@@ -92,6 +92,8 @@ This ShortCode embeds an [H5P](https://h5p.org) content item.
 [h5p url="https://h5p.org/h5p/embed/712"]
 ```
 
+When using the `[h5p id=""]` format the H5P Content Embed Source URL must be set in the Active Theme settings.
+
 Example (image)
 
 ![](h5p.png)
