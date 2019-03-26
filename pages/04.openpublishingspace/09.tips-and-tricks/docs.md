@@ -68,7 +68,7 @@ This ShortCode embeds an iFrame.
 ```
 [iframe url="http://getgrav.org"]
 [iframe url="http://getgrav.org" aspectratio="4-3"]
-[iframe url="http://getgrav.org"aspectratio="16-9"] (default)
+[iframe url="http://getgrav.org" aspectratio="16-9"] (default)
 ```
 
 **Embed.ly**
