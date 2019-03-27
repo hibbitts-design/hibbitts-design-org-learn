@@ -12,7 +12,7 @@ metadata:
 
 # Open Course Hub
 
-[Grav Open Course Hub](https://github.com/hibbitts-design/grav-skeleton-course-hub) with [Git Sync](https://github.com/trilbymedia/grav-plugin-git-sync) is designed to give organizations or individual tech-savvy instructors an open, collaborative and flexible platform that they can partner with their current Learning Management System (LMS). With this approach, content presentation can be handled by the Grav CMS while assessment still occurs within the institutional LMS. 
+[Grav Open Course Hub](https://github.com/hibbitts-design/grav-skeleton-course-hub) with [Git Sync](https://github.com/trilbymedia/grav-plugin-git-sync) is designed to give organizations or individual tech-savvy instructors an open, collaborative and flexible platform that they can partner with their current Learning Management System (LMS). With this approach, content presentation is handled by the Grav CMS while assessment still occurs within the institutional LMS. 
 
 ![Open Course Hub](coursehub.png)
 
