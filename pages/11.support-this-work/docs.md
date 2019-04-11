@@ -6,7 +6,7 @@ taxonomy:
 cache_enable: false
 ---
 
-To help increase adoption and fund this work, Paul offers a range of services related to both the [Grav CMS](https://getgrav.org/) and his Grav [open source education projects](https://github.com/hibbitts-design) such as consulting, premium support, workshops, and custom development. Sound of interest? Send a note to [paul@paulhibbitts.com](mailto:paul@hibbittsdesign.org).  
+To help increase adoption and fund this work, Paul offers a range of services related to both the [Grav CMS](https://getgrav.org/) and his Grav [open source education projects](https://github.com/hibbitts-design) such as consulting, premium support, workshops, and custom development. Sound of interest? Send a note to [paul@hibbittsdesign.org](mailto:paul@hibbittsdesign.org).  
 
 Would you rather make a single or reoccurring financial contribution to help support Paul's Grav work? You can do that too - thank you!
 
