@@ -8,7 +8,7 @@ cache_enable: false
 
 To help increase adoption and fund this work, Paul offers a range of services related to both the [Grav CMS](https://getgrav.org/) and his Grav [open source education projects](https://github.com/hibbitts-design) such as consulting, premium support, workshops, and custom development. Sound of interest? Send a note to [paul@paulhibbitts.com](mailto:paul@paulhibbitts.com).  
 
-Would you rather make a single or reoccurring donation to help support Paul's Grav work? You can do that too - thank you!
+Would you rather make a single or reoccurring contribution to help support Paul's Grav work? You can do that too - thank you!
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
