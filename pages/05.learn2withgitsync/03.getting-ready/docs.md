@@ -17,8 +17,4 @@ taxonomy:
 
 From the getgrav.org site at [https://getgrav.org/downloads/skeletons](https://getgrav.org/downloads/skeletons) or via this direct link: [http://hibbittsdesign.org/blog/downloads/grav-skeleton-learn2-with-git-sync-site.zip](http://hibbittsdesign.org/blog/downloads/grav-skeleton-learn2-with-git-sync-site.zip)
 
-**Grav 1.6 Beta Learn2 with Git Sync Skeleton Package**
-
-Designed for the upcoming Grav 1.6 release the Learn2 with Git Sync skeleton package will include support for document versioning. You can download this beta release on GitHub at [https://github.com/hibbitts-design/grav-skeleton-learn2-with-git-sync/releases/tag/v1.2.0](https://github.com/hibbitts-design/grav-skeleton-learn2-with-git-sync/releases/tag/v1.2.0)
-
 ##### 1.3 Log into your Webhost cPanel and go to the File Manager area

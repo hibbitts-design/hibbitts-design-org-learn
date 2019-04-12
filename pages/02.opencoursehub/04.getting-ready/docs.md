@@ -18,10 +18,6 @@ taxonomy:
 
 From the getgrav.org site at [https://getgrav.org/downloads/skeletons](https://getgrav.org/downloads/skeletons) or via this direct link: [http://hibbittsdesign.org/blog/downloads/grav-skeleton-open-matter-course-hub-site.zip](http://hibbittsdesign.org/blog/downloads/grav-skeleton-open-matter-course-hub-site.zip)
 
-You can also download two variations of Course Hub - [Basic Course Hub](http://hibbittsdesign.org/blog/downloads/grav-skeleton-open-matter-course-hub-site-basic.zip) (with fewer example pages and features shown) or [Advanced Course Hub](http://hibbittsdesign.org/blog/downloads/grav-skeleton-open-matter-course-hub-site-advanced.zip) (with more example pages and features shown).
-
-**Grav 1.6 Beta Course Hub Skeleton Package**
-
-Designed for the upcoming Grav 1.6 release all Course Hub skeleton packages will include enhanced support for the [Presentation Plugin](https://github.com/OleVik/grav-plugin-presentation). You can download these beta releases on GitHub at [https://github.com/hibbitts-design/grav-skeleton-course-hub/releases/tag/v2.8.2](https://github.com/hibbitts-design/grav-skeleton-course-hub/releases/tag/v2.8.2)
+You can also download two variations of Course Hub - [Intermediate Course Hub](http://hibbittsdesign.org/blog/downloads/grav-skeleton-open-matter-course-hub-site-intermediate.zip) (with fewer example pages and features shown) or [Advanced Course Hub](http://hibbittsdesign.org/blog/downloads/grav-skeleton-open-matter-course-hub-site-advanced.zip) (with more example pages and features shown).
 
 ##### 1.3 Log into your Webhost cPanel and go to the File Manager area
