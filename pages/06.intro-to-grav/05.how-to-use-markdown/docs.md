@@ -4,7 +4,7 @@ taxonomy:
     category: docs
 ---
 
-[plugin:youtube](https://www.youtube.com/watch?v=tUeTI6QFcEM)
+[plugin:youtube](https://www.youtube.com/watch?v=6TY2T2AGg9k)
 
 #### Video Transcript
 

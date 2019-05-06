@@ -5,7 +5,7 @@ taxonomy:
 ---
 
 ##### Install and Configuration with GitLab
-[plugin:youtube](https://www.youtube.com/watch?v=ukrm0anElHI)
+[plugin:youtube](https://www.youtube.com/watch?v=T4mzYHV2Rsk)
 
 Looking for a similar configuration example using GitHub? View the install and configuration video of using [GitHub for the Learn2 with Git Sync package](/learn2withgitsync/install-configure-video).
 
