@@ -12,3 +12,10 @@ taxonomy:
 * To display collaborative Markdown-based content into other systems (via 'Chromeless' mode)
 * To quickly and easily update open content locally, using the text editing tools of your choice
 * To provide a mobile and multi-device friendly visual presentation of your open content
+
+The Open Publishing Project was designed to:
+
+1. Help you have more control and choice of tools with your open materials
+1. Help you make your open materials better support the 5Rs of OER
+1. Help you manage and update your open materials more quickly
+1. Help you leverage Web standards and technical skills with your open materials
