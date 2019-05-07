@@ -24,6 +24,7 @@ The Open Course Hub Project was designed to:
 1. Help you leverage Web standards and technical skills with your online course presence
 
 **The guiding design principles for the Open Course Hub Project are:**  
+
 * Educators
  * Controllable
  * Pliable
@@ -38,6 +39,7 @@ The Open Course Hub Project was designed to:
  * Enjoyable
 
 **Open Course Hub Problem Statements:**  
+
 Educators need a means to deliver and integrate materials outside their LMS to reach their pedagogical goals while still keeping sensitive student data within their LMS.  
 
 Educators need a way to deliver a better multi-device experience because students expect to be able to access and interact with their online course presence at any time, on any device.  
@@ -45,4 +47,5 @@ Educators need a way to deliver a better multi-device experience because student
 Educators need a way to more quickly update their online course presence so more time is available for other teaching activities and it’s easier to keep their materials up to date.  
 
 **Open Course Hub Value Proposition Statement:**  
+
 The Grav Open Course Hub helps tech-savvy educators enhance the student and facilitator experience by pairing their LMS with the modern file-based CMS Grav.”
