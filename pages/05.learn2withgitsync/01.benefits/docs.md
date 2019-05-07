@@ -11,7 +11,7 @@ taxonomy:
 * To quickly and easily update documentation online or locally using the tools of your choice
 * To provide a mobile and multi-device friendly visual presentation of your documentation
 
-The Learn2 with Git Sync Project was designed to:
+**The Learn2 with Git Sync Project was designed to:**  
 
 1. Help you have more control and choice of tools with your open documentation
 1. Help you make your open documentation better support the 5Rs of OER
