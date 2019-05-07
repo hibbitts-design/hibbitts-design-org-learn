@@ -13,7 +13,7 @@ taxonomy:
 * Easily repurpose online course materials on different platforms for different contexts
 * Fully leverage your existing Web authoring skills while using current Web standards
 
-**The Open Course Hub Project was designed to:**  
+**The Open Course Hub was designed to:**  
 
 1. Help you go beyond the constraints of your LMS while keeping student data within it
 1. Help you have more control and choice of tools with your online course presence
@@ -23,7 +23,7 @@ taxonomy:
 1. Help you manage and update your online course presence more quickly
 1. Help you leverage Web standards and technical skills with your online course presence
 
-**The guiding design principles for the Open Course Hub Project are:**  
+**The guiding design principles for the Open Course Hub are:**  
 
 * Educators
  * Controllable
