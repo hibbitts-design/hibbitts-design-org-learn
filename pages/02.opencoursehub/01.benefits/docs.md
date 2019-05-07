@@ -48,4 +48,4 @@ Educators need a way to more quickly update their online course presence so more
 
 **Open Course Hub Value Proposition Statement:**  
 
-The Grav Open Course Hub helps tech-savvy educators enhance the student and facilitator experience by pairing their LMS with the modern file-based CMS Grav.”
+The Grav Open Course Hub helps tech-savvy educators enhance the student and facilitator experience by pairing their LMS with the modern file-based CMS Grav.
