@@ -4,7 +4,7 @@ taxonomy:
     category: docs
 ---
 
-Help shape the direction of these Grav Open Education Projects by completing a brief user survey:
+Help shape the direction of these Grav Open Education Projects by sharing your feedback:
 
 * [Open Course Hub Survey](https://goo.gl/forms/oSZlfsSi71JB5U8L2)
 * [Open Publishing Space Survey](https://goo.gl/forms/WtGdm1UFJ7BJj1N53)
