@@ -34,14 +34,22 @@ When displaying Open Course Hub pages within another system (e.g. LMS) it is oft
 To support this use of Open Course Hub, a number of URL parameters are available:
 
 * `chromeless`
+* `embedded`
 * `hidepagetitle`
+* `hideheaderimage`
 * `summaryonly`
 
 **Chromeless Parameter**  
-The `chromeless:true` URL parameter will display a page without global navigation elements. For example, [http://demo.hibbittsdesign.org/grav-course-hub/resources/chromeless:true](http://demo.hibbittsdesign.org/grav-course-hub/resources/chromeless:true)
+The `chromeless:true` URL parameter will display a page without global navigation elements. For example, [https://demo.hibbittsdesign.org/grav-open-matter-course-hub/ux-techniques-guide/chromeless:true](https://demo.hibbittsdesign.org/grav-open-matter-course-hub/ux-techniques-guide/chromeless:true)
+
+**Embedded Parameter**  
+An alias for 'chromeless', for example `embedded:true` is the same as `chromeless:true`. For example, [https://demo.hibbittsdesign.org/grav-open-matter-course-hub/ux-techniques-guide/embedded:true](https://demo.hibbittsdesign.org/grav-open-matter-course-hub/ux-techniques-guide/embedded:true)
 
 **HidePageTitle Parameter**  
-The addition of the `hidepagetitle:true` URL parameter will display a 'chromeless' page without it's title. For example, [http://demo.hibbittsdesign.org/grav-course-hub/resources/chromeless:true/hidepagetitle:true](http://demo.hibbittsdesign.org/grav-course-hub/resources/chromeless:true/hidepagetitle:true)
+The addition of the `hidepagetitle:true` URL parameter will display a 'chromeless' page without it's title. For example, [https://demo.hibbittsdesign.org/grav-open-matter-course-hub/ux-techniques-guide/chromeless:true/hidepagetitle:true](https://demo.hibbittsdesign.org/grav-open-matter-course-hub/ux-techniques-guide/chromeless:true/hidepagetitle:true)
+
+**HideHeaderImage Parameter**  
+The addition of the `hideheaderimage:true` URL parameter will display a page without it's header image. For example, [http://demo.hibbittsdesign.org/grav-open-matter-course-hub/resources/chromeless:true/hidepagetitle:true/hideheaderimage:true](http://demo.hibbittsdesign.org/grav-open-matter-course-hub/home/module-01/chromeless:true/hidepagetitle:true/hideheaderimage:true)
 
 **Summary Only Parameter**  
 The addition of the `summaryonly:true` URL parameter will display the summary of a 'chromeless' blog page. For example, [https://demo.hibbittsdesign.org/grav-open-matter-course-hub/home/module-01/chromeless:true/summaryonly:true](https://demo.hibbittsdesign.org/grav-open-matter-course-hub/home/module-01/chromeless:true/summaryonly:true)
