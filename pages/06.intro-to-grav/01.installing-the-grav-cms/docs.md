@@ -42,7 +42,7 @@ The initial installation process for all three of these options is very much the
 
 You can do this directly through your operating system’s file manager if you have access to your server’s file system directly, or through a tool like CPANEL or FTP client.
 
-## Step 1: Download the Grav Core + Admin Package
+##### Step 1: Download the Grav Core + Admin Package
 
 Step 1 is simple. Just download the Grav + Admin package from GetGrav.org. You can find the latest version of Grav by hitting the Get Grav button on the home page, then selecting Grav Core + Admin Plugin.
 
@@ -50,13 +50,13 @@ You do have the option here to download a beta version of Grav Core and Admin wh
 
 Once you select the Grav Core + Admin Plugin link, you will download a zip file containing everything you need to get started.
 
-## Step 2: Extract the Zip file in the Webroot of Your Server
+##### Step 2: Extract the Zip file in the Webroot of Your Server
 
 The next step is equally simple. Navigate to the webroot of your server and upload the ZIP file where you would like your Grav installation to reside. Then, extract the zip file.
 
 You should have a folder named grav-admin containing several directories and other files. You can rename this directory or move its contents to a more specific location within your server. Just be sure to also move the HTACCESS file as it’s important to Grav and is hidden by default on many file managers.
 
-## Step 3: Set Up the Administrator
+##### Step 3: Set Up the Administrator
 
 Your server-side work is done here. All you need to do now is open your browser and navigate to your new Grav site and set up the administrator.
 
