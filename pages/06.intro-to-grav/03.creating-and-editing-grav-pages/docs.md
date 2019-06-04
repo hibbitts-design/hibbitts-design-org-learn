@@ -42,7 +42,7 @@ The Visible option determines if the page will be added to your site’s navigat
 
 Once you have filled out this information, selecting Continue will take you to the new page's editor.
 
-**Content Tab**
+##### Content Tab
 
 The Editor is your one-stop-shop for creating a new Grav page. The first tab gives you a simple set of fields to update the page’s title and to write content.
 
@@ -56,19 +56,19 @@ The Page Media section at the bottom of the page allows you to drag and drop fil
 
 You will need to save your Page before adding media to your page this way since the initial save creates the folder that media will be saved to.
 
-**Options Tab**
+##### Options Tab
 
 The Options tab gives you the ability to refine some important information about your page. Whether it’s customizing the page’s date, publish date, or its category and taxonomy information, this tab is where you can easily make these changes.
 
-**Advanced Tab**
+##### Advanced Tab
 
 The Advanced tab is home to some more advanced customization options for your page. This is where you would go to change some of the information we set up when we initially created the page, including the folder name and parent. You can also change the visibility of a page here.
 
-**Custom Page Settings Tab**
+##### Custom Page Settings Tab
 
 Some types of Pages have a fourth tab, based on the specific purpose of the page. For example, a Listing Page containing blog posts often has a tab called something like Blog Config or Blog List which contains such options as sorting and the maximum number of list items to show at once.
 
-**Page Administrative Controls**
+##### Page Administrative Controls
 
 Finally, let’s take a moment to look at this collection of command buttons at the top-right of the page. Once you have created your page’s content and configured any options, you can hit the Save button here to save any changes. Other commands are also available, such as making a copy of the current page or deleting a page.
 
