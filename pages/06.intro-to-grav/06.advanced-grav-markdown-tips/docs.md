@@ -10,7 +10,7 @@ taxonomy:
 
 Markdown is the cornerstone of all Grav content. If you know some basics about Markdown, you’re going to get a lot out of Grav. In this video, we’ll show you some more advanced techniques that take advantage of Grav’s built-in features to get the most out of Markdown for your site’s content.
 
-**Links**  
+##### Links  
 There are times when you want to give links specific attributes, like making them open links in new tabs rather than in the current window. Here’s how:
 
 Create a standard link using the traditional markdown link rules.
@@ -19,7 +19,7 @@ Add `target=_blank`. This will tell Grav that the link should be opened in a new
 
 You can also add other features such as CSS classes, IDs, and nofollow attributes using this method.
 
-**Media**  
+##### Media
 Next, let’s talk about media handling. This is one area where Grav puts in a lot of great features that go well beyond traditional Markdown.
 
 Let’s say you have an image. Adding the image to a page is easy, but what if you want that image to appear in black and white? You could open an image editor and edit it yourself, but you can use markdown to do this for you. Here’s how.
@@ -30,7 +30,7 @@ Now, let’s say you wanted to change the size of the image by performing a crop
 
 There are a lot of other tricks you can apply to media files in Grav, many of which are detailed in Grav’s official documentation.
 
-**Tables**  
+##### Tables
 Tables are an incredible way to bring large amounts of organized content into focus in a clean, easy-to-digest way. Markdown takes a lot of the work out of creating a web-based table. Let’s get started with one!
 
 Let’s put together a simple table listing staff members by name and area of expertise. We have three staff members, each focusing on a different subject.
@@ -45,7 +45,7 @@ Finally, we’ll fill in the next few rows with our content.
 
 That’s it! We’ve created a simple table using Markdown.
 
-**Code**  
+##### Code
 And finally, let’s look at sharing code or specific blocks of text meant to be copied exactly as it is written. This is another important tool for websites that convey information.
 
 There are two different types of code blocks in Grav, supported by Markdown.
