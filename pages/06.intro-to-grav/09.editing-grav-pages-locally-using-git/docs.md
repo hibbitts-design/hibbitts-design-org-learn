@@ -15,7 +15,7 @@ To demonstrate these options, we’re going to use our Grav site and a GitHub re
 
 We’re going to examine three ways to edit that site’s content: including  the Admin Panel, on GitHub.com, and locally using Git.
 
-##### Admin
+##### Admin Panel
 Git Sync works automatically in the background, so once you’ve configured it, you can create and edit pages directly from the Grav admin like you normally would and see those changes synchronized in real-time to GitHub.
 
 Let’s say we have a page here we would like to change the title for. Since we have Git Sync set up, the page also appears in the GitHub repo.
