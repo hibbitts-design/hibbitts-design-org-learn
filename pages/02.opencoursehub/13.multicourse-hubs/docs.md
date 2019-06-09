@@ -17,7 +17,13 @@ An automatically generated list of all courses within a site is possible by crea
 
 ![Automatically created course list](course-list-page.png)
 
-##### MultiCourse Hub skeleton package
-Download from the hibbittsdesign.org site at [hibbittsdesign.org/blog/downloads/grav-skeleton-open-matter-multicourse-hub-site.zip
+It is also possible to group multiple course instances, for example by term.
+
+![Multiple grouped courses within a single Grav install](admin-panel-multiple-grouped-courses.png)  
+
+##### MultiCourse Hub skeleton packages
+Download the standard MultiCourse Hub from the hibbittsdesign.org site at [hibbittsdesign.org/blog/downloads/grav-skeleton-open-matter-multicourse-hub-site.zip
 ](http://hibbittsdesign.org/blog/downloads/grav-skeleton-open-matter-multicourse-hub-site.zip
-)
+) and the MultiCourse Hub with Course Groups from [hibbittsdesign.org/blog/downloads/grav-skeleton-open-matter-multicourse-hub-site.zip
+](http://hibbittsdesign.org/blog/downloads/grav-skeleton-open-matter-multicoursegroups-hub-site.zip
+).
