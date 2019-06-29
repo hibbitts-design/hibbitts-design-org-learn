@@ -15,3 +15,5 @@ Would you rather make a single or reoccurring financial contribution to help sup
 <input type="hidden" name="hosted_button_id" value="5RZ784EKKSZPN">
 <input type="submit" value="Contribute to this Project" name="submit1" alt="PayPal - The safer, easier way to pay online!" class="button">
 </form>
+
+Looking for another way to show a bit of ❤️ for Paul's open source work? Give one of his [Grav GitHub Repositories](https://github.com/hibbitts-design) a ⭐️. Thanks!
