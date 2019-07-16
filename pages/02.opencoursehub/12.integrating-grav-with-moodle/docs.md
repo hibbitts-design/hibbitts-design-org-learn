@@ -151,3 +151,5 @@ Please note that you can also add Course Hub Content using the URL object in Moo
 ##### 10. Review the final result of the added Course Hub page
 
 ![](../../images/displaying-course-hub-content-within-a-moodle-page/review-the-final-result-of-the-added-course-hub-page.png)
+
+! Note: You can also use the alias of 'embedded:true' instead of 'chomeless:true'
