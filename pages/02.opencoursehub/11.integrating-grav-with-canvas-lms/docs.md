@@ -184,4 +184,4 @@ If you do not see the "Redirect Tool" icon, you will need to install it. Tap on 
 
 ![](../../images/displaying-course-hub-content-within-a-canvas-page/review-the-final-result-of-the-added-course-hub-page.png)
 
-_TIP: If you are using the most recent version of the Course Hub Bootstrap Theme, there is a theme option to use a Bootstrap CSS styling optimized to match the Canvas LMS._
+! Note: You can also use the alias of 'embedded:true' instead of 'chomeless:true'
