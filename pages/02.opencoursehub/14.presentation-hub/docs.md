@@ -11,6 +11,8 @@ With the v3.08 release of the Grav Open Course Hub skeleton package [Presentatio
 
 ![Presentations List page](presentations-list-page.png)  
 
+![Full screen Presentation](fullscreen-presentation.png)  
+
 ##### Presentation Hub skeleton package
 Download the Presentation Hub from the hibbittsdesign.org site at [hibbittsdesign.org/blog/downloads/grav-skeleton-open-matter-presentation-hub-site.zip
 ](http://hibbittsdesign.org/blog/downloads/grav-skeleton-open-matter-multicourse-hub-site.zip
