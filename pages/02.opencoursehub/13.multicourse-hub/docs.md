@@ -1,5 +1,5 @@
 ---
-title: MultiCourse Hubs
+title: MultiCourse Hub
 published: true
 taxonomy:
     category: docs
