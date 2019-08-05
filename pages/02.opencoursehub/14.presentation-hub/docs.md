@@ -13,7 +13,7 @@ With the v3.08 release of the Grav Open Course Hub skeleton package [Presentatio
 
 ![Full screen Presentation](fullscreen-presentation.png)  
 
-Learn more about the [Presentation Plug](https://github.com/OleVik/grav-plugin-presentation/blob/master/README.md) and the [Deckset Syntax Plugin](hhttps://github.com/OleVik/grav-plugin-presentation-deckset) used by the Presentation Hub example slides.
+Learn more about the [Presentation Plugin](https://github.com/OleVik/grav-plugin-presentation/blob/master/README.md) and the [Deckset Syntax Plugin](hhttps://github.com/OleVik/grav-plugin-presentation-deckset) used by the Presentation Hub example slides.
 
 
 ##### Presentation Hub skeleton package
