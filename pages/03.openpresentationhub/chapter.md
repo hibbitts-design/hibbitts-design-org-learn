@@ -8,7 +8,7 @@ metadata:
     'twitter:title' : Overview | Grav CMS in Open Education
     'twitter:description' : All you need to know to get started with the open source Grav CMS Open Presentation Hub skeleton package.
     'twitter:image': 'http://learn.hibbittsdesign.org/coursehub/learn-hibbittsdesign.png'
-visible: false
+visible: true
 ---
 
 # Open Presentation Hub
