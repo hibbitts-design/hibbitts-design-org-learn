@@ -18,5 +18,3 @@ visible: true
 ![Open Presentation Hub](openpresentationhub.png)
 
 Explore a sample Open Presentation Hub site at [demo.hibbittsdesign.org/grav-skeleton-open-matter-presentation-hub-site](https://demo.hibbittsdesign.org/grav-skeleton-open-matter-presentation-hub-site/)
-
-_More to come soon..._
