@@ -4,4 +4,4 @@ taxonomy:
     category: docs
 ---
 
-![Open Publishing Space Workflow](open-matter-presentation-hub-with-git-sync-workflow.png)
+![Open Presentation Hub Workflow](open-presentation-hub-with-git-sync-workflow.png)
