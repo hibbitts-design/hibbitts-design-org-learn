@@ -92,6 +92,14 @@ This ShortCode embeds an iFrame.
 [iframe url="http://getgrav.org" aspectratio="16by9"]
 ```
 
+**Markdown File**
+
+This ShortCode embeds an external [Markdown](https://en.wikipedia.org/wiki/Markdown) file.
+
+```
+[markdownfile url="https://raw.githubusercontent.com/hibbitts-design/grav-skeleton-course-hub/master/README.md"]
+```
+
 **Embed.ly**
 
 This ShortCode embeds an [Embed.ly](http://embed.ly/) card Webpage preview.
