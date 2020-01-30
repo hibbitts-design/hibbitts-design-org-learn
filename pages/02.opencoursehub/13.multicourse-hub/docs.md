@@ -21,7 +21,4 @@ Each listed course has a number of options available, including being selectivel
 
 ![Course (i.e. subsite) options](admin-subsite-options.png)  
 
-##### MultiCourse Hub skeleton packages
-Download the standard MultiCourse Hub from the hibbittsdesign.org site at [hibbittsdesign.org/blog/downloads/grav-skeleton-open-matter-multicourse-hub-site.zip
-](http://hibbittsdesign.org/blog/downloads/grav-skeleton-open-matter-multicourse-hub-site.zip
-).
+[Download Open MultiCourse Hub](http://hibbittsdesign.org/blog/downloads/grav-skeleton-open-matter-multicourse-hub-site.zip?classes=button)
