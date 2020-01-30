@@ -17,3 +17,7 @@ metadata:
 ![Open Course Hub](coursehub.png)
 
 One or more Open Course Hub pages can also be seamlessly embedded into another system (i.e. LMS) with the 'chromeless' feature. For example, view a recent [Open Course Hub site](https://paulhibbitts.net/cmpt-363/193/home) and then view the same open and collaborative content embedded within a [Canvas LMS site](https://canvas.sfu.ca/courses/47119).
+
+A [MultiCourse Hub](/opencoursehub/multicourse-hub) variation is also available, as shown below.
+
+![Open MultiCourse Hub](/opencoursehub/multicourse-hub/course-list-page.png)
