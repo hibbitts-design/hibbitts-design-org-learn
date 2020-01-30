@@ -19,3 +19,5 @@ metadata:
 One or more Open Publishing Space pages can also be embedded into another system (i.e. LMS) with the 'Chromeless Pages' option, which hides global navigation elements.
 
 Explore a sample Open Publishing Space site at [demo.hibbittsdesign.org/grav-open-publishing-quark/](http://demo.hibbittsdesign.org/grav-open-publishing-quark/)
+
+[Download Open Publishing Space](http://hibbittsdesign.org/blog/downloads/grav-skeleton-open-publishing-space-site.zip?classes=button)
