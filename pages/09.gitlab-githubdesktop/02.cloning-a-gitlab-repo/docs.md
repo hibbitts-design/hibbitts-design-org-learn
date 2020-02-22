@@ -4,7 +4,7 @@ taxonomy:
     category: docs
 ---
 
-####Using GitHub Desktop (New Native) and GitLab
+####Using GitHub Desktops and GitLab
 
 #### 1. Get Repository HTTPS Address
 
