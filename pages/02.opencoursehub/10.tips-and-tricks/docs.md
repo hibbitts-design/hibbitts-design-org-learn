@@ -92,6 +92,14 @@ This ShortCode embeds an iFrame.
 [iframe url="http://getgrav.org" aspectratio="16by9"]
 ```
 
+**PDF File**
+
+This ShortCode embeds an external [PDF](https://en.wikipedia.org/wiki/PDF) file.
+
+```
+[pdf url="https://qofr.files.wordpress.com/2016/11/q-of-r-presentation-11.pdf"]
+```
+
 **Markdown File**
 
 This ShortCode embeds an external [Markdown](https://en.wikipedia.org/wiki/Markdown) file.
@@ -126,15 +134,3 @@ When using the `[h5p id=""]` format the H5P Content Embed Source URL must be set
 Example (image)
 
 ![](h5p.png)
-
-**Swipe**
-
-This shortcode embeds a [Swipe](https://www.swipe.to) slidedeck.
-
-```
-[swipe id="97940k6h8r7cnfw"]
-```
-
-Example (image)
-
-![](swipe.png)
