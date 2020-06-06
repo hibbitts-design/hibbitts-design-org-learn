@@ -134,3 +134,23 @@ When using the `[h5p id=""]` format the H5P Content Embed Source URL must be set
 Example (image)
 
 ![](h5p.png)
+
+**Show if Embedded**
+
+This ShortCode shows content when a Grav page is embedded (i.e displayed 'chromelessly') in another platform.
+
+```
+[showifembedded]
+This content would only be shown when the page is embedded
+[/showifembedded]
+```
+
+**Hide if Embedded**
+
+This ShortCode hides content when a Grav page is embedded (i.e. displayed 'chromelessly') in another platform.
+
+```
+[hideifembedded]
+This content would only be shown when the page is not embedded
+[/hideifembedded]
+```
