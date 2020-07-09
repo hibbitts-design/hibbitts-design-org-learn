@@ -16,7 +16,7 @@ The 'chromeless' feature of the Grav Course Hub hides a site's global navigation
 * [Adding Course Hub Content to a Canvas Module](#adding-course-hub-content-to-a-canvas-module)
 * [Adding a Link to Course Hub Content in the Canvas Menu](#adding-a-link-to-course-hub-content-in-the-canvas-menu)
 
-Curious what all this might look like? Visit an [example Canvas site with Grav Course Hub Content](https://canvas.sfu.ca/courses/53207).
+Curious what all this might look like? Visit an [example Canvas site with Grav Course Hub Content](https://canvas.sfu.ca/courses/55288).
 
 #### Displaying Course Hub Content Within a Page
 
