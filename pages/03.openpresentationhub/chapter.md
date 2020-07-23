@@ -13,7 +13,7 @@ visible: true
 
 # Open Presentation Hub
 
-[Grav Open Presentation Hub](https://github.com/hibbitts-design/grav-skeleton-presentation-hub) with [Git Sync](https://github.com/trilbymedia/grav-plugin-git-sync) is designed to help create and host Markdown-based slides created with Ole Vik's [Presentation](https://github.com/OleVik/grav-plugin-presentation) Plugin, which uses the [Reveal.js Presentation Framework](https://revealjs.com/#/). Built with the open source modern file-based [Grav CMS](http://getgrav.org).
+[Grav Open Presentation Hub](https://github.com/hibbitts-design/grav-skeleton-open-matter-presentation-hub) with [Git Sync](https://github.com/trilbymedia/grav-plugin-git-sync) is designed to help create and host Markdown-based slides created with Ole Vik's [Presentation](https://github.com/OleVik/grav-plugin-presentation) Plugin, which uses the [Reveal.js Presentation Framework](https://revealjs.com/#/). Built with the open source modern file-based [Grav CMS](http://getgrav.org).
 
 ![Open Presentation Hub](openpresentationhub.png)
 
