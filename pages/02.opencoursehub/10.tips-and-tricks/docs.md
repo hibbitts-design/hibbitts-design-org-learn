@@ -92,6 +92,16 @@ This ShortCode embeds an iFrame.
 [iframe url="http://getgrav.org" aspectratio="16by9"]
 ```
 
+**Button**
+
+This ShortCode displays a link as a Bootstrap button, with optional size, classes, type and target.
+
+```
+[button label="Go to GetGrav.org" url="http://getgrav.org"]
+```
+
+View more details at [getbootstrap.com/docs/4.5/components/buttons/](https://getbootstrap.com/docs/4.5/components/buttons/)
+
 **PDF File**
 
 This ShortCode embeds an external [PDF](https://en.wikipedia.org/wiki/PDF) file.
