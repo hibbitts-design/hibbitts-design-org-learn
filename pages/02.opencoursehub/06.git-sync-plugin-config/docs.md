@@ -4,6 +4,7 @@ taxonomy:
     category: docs
 ---
 
+
 ##### 3.1 Tap the "Setup Git Sync" link
 
 ![](../../images/open-course-hub-git-sync-2---install-and-configure-on-reclaim-hosting/tap-the--setup-git-sync--link.png)
@@ -42,6 +43,10 @@ If you have already created a Git repository (with at least one commit, for exam
 ##### 3.9 Create the new repository
 
 ![](../../images/open-course-hub-git-sync-2---install-and-configure-on-reclaim-hosting/create-the-new-repository.png)
+
+!!! With GitHub's recent change of repository default branches being named 'main' instead of 'master' the following work-around is needed until GitHub also addresses automatic default branch re-routing:
+!!! 1. Once you have created your new repo, create a new branch called 'Master'
+!!! 2. Set the default branch of the repo to this newly created 'Master' branch
 
 ##### 3.10 Copy the HTTPS URL of the repository to your clipboard
 
