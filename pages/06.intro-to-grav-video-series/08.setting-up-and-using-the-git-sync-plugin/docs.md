@@ -7,6 +7,10 @@ taxonomy:
 
 [plugin:youtube](https://www.youtube.com/watch?v=96CqtxL7WaQ)
 
+!!! With GitHub's recent change of repository default branches being named 'main' instead of 'master' the following work-around is needed until GitHub also addresses automatic default branch re-routing:
+!!! 1. Once you have created your new repo, create a new branch called 'Master'
+!!! 2. Set the default branch of the repo to this newly created 'Master' branch
+
 #### Video Transcript
 
 Hello everyone! In this video, we’re going to set up the GitSync plugin on our Grav website.
