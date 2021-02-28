@@ -14,7 +14,7 @@ If you have not yet installed and configured the Course Hub on your Webserver pl
 
 ##### 2. Download Course Hub skeleton package
 
-From the getgrav.org site at [https://getgrav.org/downloads/skeletons](https://getgrav.org/downloads/skeletons) or via this direct link: [http://hibbittsdesign.org/blog/downloads/grav-skeleton-open-matter-course-hub-site.zip](http://hibbittsdesign.org/blog/downloads/grav-skeleton-open-matter-course-hub-site.zip)
+From the getgrav.org site at [https://getgrav.org/downloads/skeletons](https://getgrav.org/downloads/skeletons) or via this direct link: [http://hibbittsdesign.org/blog/downloads/grav-skeleton-course-hub.zip](http://hibbittsdesign.org/blog/downloads/grav-skeleton-course-hub.zip)
 
 ##### 3. Extract the downloaded ZIP archive and copy folder to the "htdocs" folder within your MAMP application folder
 

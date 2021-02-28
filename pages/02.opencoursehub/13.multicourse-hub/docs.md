@@ -21,4 +21,4 @@ Each listed course has a number of options available, including being selectivel
 
 ![Course (i.e. subsite) options](admin-subsite-options.png)  
 
-[Download Open MultiCourse Hub](http://hibbittsdesign.org/blog/downloads/grav-skeleton-open-matter-multicourse-hub-site.zip?classes=button)
+[Download Open MultiCourse Hub](http://hibbittsdesign.org/blog/downloads/grav-skeleton-multicourse-hub.zip?classes=button)
