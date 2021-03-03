@@ -88,6 +88,7 @@ This ShortCode displays a badge, with an optional link.
 
 ```
 [badge label="Fri Aug 3rd 11:59pm PDT"][/badge]
+[badge label="Mon Mar 15th 11:59pm PST" url="https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Group+Storyboards+Mockups+Due+Date&iso=20210315T2359&p1=256"]
 ```
 
 **Button**
