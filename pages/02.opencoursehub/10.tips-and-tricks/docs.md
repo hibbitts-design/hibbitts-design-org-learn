@@ -82,14 +82,12 @@ git_sync_repo_link: https://github.com/hibbitts-design/grav-skeleton-course-hub/
 
 ##### Built-in ShortCodes
 
-**iFrame**
+**Badge**
 
-This ShortCode embeds an iFrame.
+This ShortCode displays a badge, with an optional link.
 
 ```
-[iframe url="http://getgrav.org"]
-[iframe url="http://getgrav.org" aspectratio="4by3"] (default)
-[iframe url="http://getgrav.org" aspectratio="16by9"]
+[badge label="Fri Aug 3rd 11:59pm PDT"][/badge]
 ```
 
 **Button**
@@ -101,22 +99,6 @@ This ShortCode displays a link as a Bootstrap button, with optional size, classe
 ```
 
 View more details at [getbootstrap.com/docs/4.5/components/buttons/](https://getbootstrap.com/docs/4.5/components/buttons/)
-
-**PDF File**
-
-This ShortCode embeds an external [PDF](https://en.wikipedia.org/wiki/PDF) file.
-
-```
-[pdf url="https://qofr.files.wordpress.com/2016/11/q-of-r-presentation-11.pdf"]
-```
-
-**Markdown File**
-
-This ShortCode embeds an external [Markdown](https://en.wikipedia.org/wiki/Markdown) file.
-
-```
-[markdownfile url="https://raw.githubusercontent.com/hibbitts-design/grav-skeleton-course-hub/master/README.md"]
-```
 
 **Embed.ly**
 
@@ -156,6 +138,32 @@ When using the `[h5p id=""]` format the H5P Content Embed Source URL must be set
 Example (image)
 
 ![](h5p.png)
+
+**iFrame**
+
+This ShortCode embeds an iFrame.
+
+```
+[iframe url="http://getgrav.org"]
+[iframe url="http://getgrav.org" aspectratio="4by3"] (default)
+[iframe url="http://getgrav.org" aspectratio="16by9"]
+```
+
+**Markdown File**
+
+This ShortCode embeds an external [Markdown](https://en.wikipedia.org/wiki/Markdown) file.
+
+```
+[markdownfile url="https://raw.githubusercontent.com/hibbitts-design/grav-skeleton-course-hub/master/README.md"]
+```
+
+**PDF File**
+
+This ShortCode embeds an external [PDF](https://en.wikipedia.org/wiki/PDF) file.
+
+```
+[pdf url="https://qofr.files.wordpress.com/2016/11/q-of-r-presentation-11.pdf"]
+```
 
 **Show if Embedded**
 
