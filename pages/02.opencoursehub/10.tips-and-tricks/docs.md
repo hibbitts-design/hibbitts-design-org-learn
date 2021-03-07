@@ -188,7 +188,7 @@ This content would only be shown when the page is not embedded
 
 **Twitter Feed**
 
-This ShortCode embeds a Twitter feed.
+This ShortCode embeds a Twitter list feed.
 
 ```
 [twitter url="https://twitter.com/hibbittsdesign/lists/cpt-363" text="A Twitter list by @hibbittsdesign" height="600"][/twitter]
