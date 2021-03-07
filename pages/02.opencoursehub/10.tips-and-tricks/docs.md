@@ -185,3 +185,11 @@ This ShortCode hides content when a Grav page is embedded (i.e. displayed 'chrom
 This content would only be shown when the page is not embedded
 [/hideifembedded]
 ```
+
+**Twitter Feed**
+
+This ShortCode embeds a Twitter feed.
+
+```
+[twitter url="https://twitter.com/hibbittsdesign/lists/cpt-363" text="A Twitter list by @hibbittsdesign" height="600"][/twitter]
+```
