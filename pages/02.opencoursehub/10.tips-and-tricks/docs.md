@@ -165,7 +165,6 @@ This ShortCode embeds an external [PDF](https://en.wikipedia.org/wiki/PDF) file.
 
 ```
 [pdf url="https://qofr.files.wordpress.com/2016/11/q-of-r-presentation-11.pdf"]
-
 ```
 
 **Show if Embedded**
