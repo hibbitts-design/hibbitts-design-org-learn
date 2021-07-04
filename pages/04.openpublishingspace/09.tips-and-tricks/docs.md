@@ -1,7 +1,8 @@
 ---
-title: Tips and Tricks
+title: 'Tips and Tricks'
 taxonomy:
-    category: docs
+    category:
+        - docs
 ---
 
 Get the most out of your Open Publishing Space!
@@ -76,7 +77,7 @@ This ShortCode embeds an iFrame.
 This ShortCode embeds an external [PDF](https://en.wikipedia.org/wiki/PDF) file.
 
 ```
-[pdf url="https://qofr.files.wordpress.com/2016/11/q-of-r-presentation-11.pdf"]
+[pdf url="https://qofr.files.wordpress.com/2016/11/q-of-r-presentation-11.pdf"]  
 
 ```
 
