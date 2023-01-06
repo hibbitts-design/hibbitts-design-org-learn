@@ -16,6 +16,6 @@ taxonomy:
 
 ##### 1.2 Download Open Publishing Space skeleton package
 
-From the getgrav.org site at [https://getgrav.org/downloads/skeletons](https://getgrav.org/downloads/skeletons) or via this direct link: [http://hibbittsdesign.org/blog/downloads/grav-skeleton-open-publishing-space-site.zip](http://hibbittsdesign.org/blog/downloads/grav-skeleton-open-publishing-space-site.zip)
+From the getgrav.org site at [https://getgrav.org/downloads/skeletons](https://getgrav.org/downloads/skeletons) or via this direct link: [https://github.com/hibbitts-design/grav-skeleton-open-publishing-space/releases/latest/download/grav-skeleton-open-publishing-space.zip](https://github.com/hibbitts-design/grav-skeleton-open-publishing-space/releases/latest/download/grav-skeleton-open-publishing-space.zip)
 
 ##### 1.3 Log into your Webhost cPanel and go to the File Manager area

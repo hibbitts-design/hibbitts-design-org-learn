@@ -12,4 +12,4 @@ Using a customized version of the Grav [Learn2](https://github.com/getgrav/grav-
 
 Explore a sample Learn2 with Git Sync site at: <br> [demo.hibbittsdesign.org/grav-learn2-git-sync/](http://demo.hibbittsdesign.org/grav-learn2-git-sync/)
 
-[Download Learn2 with Git Sync](http://hibbittsdesign.org/blog/downloads/grav-skeleton-learn2-with-git-sync-site.zip?classes=button)
+[Download Learn2 with Git Sync](https://github.com/hibbitts-design/grav-skeleton-learn2-with-git-sync/releases/latest/download/grav-skeleton-learn2-with-git-sync.zip?classes=button)
