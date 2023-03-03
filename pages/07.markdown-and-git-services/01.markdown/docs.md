@@ -6,9 +6,8 @@ taxonomy:
 
 ##### Markdown
 
-* [Markdown Cheat Sheet](https://warpedvisions.org/projects/markdown-cheat-sheet/)
+* [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 * [Markdown Guide](https://www.markdownguide.org/)
-* [Markdown Tutorial](http://designedbywaldo.com/en/tools/markdown-tutorial)
 
 ##### Markdown Editors
 
