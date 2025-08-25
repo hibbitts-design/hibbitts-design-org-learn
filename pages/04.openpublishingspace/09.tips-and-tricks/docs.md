@@ -67,9 +67,9 @@ git_sync_repo_link: https://github.com/hibbitts-design/grav-skeleton-open-publis
 This ShortCode embeds an iFrame.
 
 ```
-[iframe url="http://getgrav.org"]
-[iframe url="http://getgrav.org" aspectratio="4-3"]
-[iframe url="http://getgrav.org" aspectratio="16-9"] (default)
+[iframe url="http://getgrav.org"/]
+[iframe url="http://getgrav.org" aspectratio="4-3"/]
+[iframe url="http://getgrav.org" aspectratio="16-9"/] (default)
 ```
 
 **PDF File**
@@ -77,7 +77,7 @@ This ShortCode embeds an iFrame.
 This ShortCode embeds an external [PDF](https://en.wikipedia.org/wiki/PDF) file.
 
 ```
-[pdf url="https://qofr.files.wordpress.com/2016/11/q-of-r-presentation-11.pdf"]  
+[pdf url="https://qofr.files.wordpress.com/2016/11/q-of-r-presentation-11.pdf"/]  
 
 ```
 
@@ -86,7 +86,7 @@ This ShortCode embeds an external [PDF](https://en.wikipedia.org/wiki/PDF) file.
 This ShortCode embeds an external [Markdown](https://en.wikipedia.org/wiki/Markdown) file.
 
 ```
-[markdownfile url="https://raw.githubusercontent.com/hibbitts-design/grav-skeleton-open-publishing-space/master/README.md"]
+[markdownfile url="https://raw.githubusercontent.com/hibbitts-design/grav-skeleton-open-publishing-space/master/README.md"/]
 ```
 
 **Embed.ly**
@@ -94,7 +94,7 @@ This ShortCode embeds an external [Markdown](https://en.wikipedia.org/wiki/Markd
 This ShortCode embeds an [Embed.ly](http://embed.ly/) card Webpage preview.
 
 ```
-[embedly url="http://getgrav.org"]
+[embedly url="http://getgrav.org"/]
 ```
 
 Example (image)
@@ -106,7 +106,7 @@ Example (image)
 This ShortCode embeds a [Google Slides](https://www.google.ca/slides/about/) deck.
 
 ```
-[googleslides url="https://docs.google.com/presentation/d/e/2PACX-1vSPiOUzmRG4EB6ng8KQgOwZEbVuN2u1d5tGVTiAyzlVuO_o4Zjyli3oAf_U_CqXml_6GMUBR9nUyEYb/embed?start=false&loop=false&delayms=3000"]
+[googleslides url="https://docs.google.com/presentation/d/e/2PACX-1vSPiOUzmRG4EB6ng8KQgOwZEbVuN2u1d5tGVTiAyzlVuO_o4Zjyli3oAf_U_CqXml_6GMUBR9nUyEYb/embed?start=false&loop=false&delayms=3000"/]
 ```
 
 Example (image)
@@ -118,8 +118,8 @@ Example (image)
 This ShortCode embeds an [H5P](https://h5p.org) content item.
 
 ```
-[h5p id="712"]
-[h5p url="https://h5p.org/h5p/embed/712"]
+[h5p id="712"/]
+[h5p url="https://h5p.org/h5p/embed/712"/]
 ```
 
 When using the `[h5p id=""]` format the H5P Content Embed Source URL must be set in the Active Theme settings.
