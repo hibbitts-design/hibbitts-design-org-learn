@@ -18,7 +18,7 @@ metadata:
 
 [Download Open Course Hub](https://github.com/hibbitts-design/grav-skeleton-course-hub/releases/latest/download/grav-skeleton-course-hub.zip?classes=button)
 
-One or more Open Course Hub pages can also be seamlessly embedded into another system (i.e. LMS) with the 'chromeless' feature. For example, view a recent [Open Course Hub site](https://paulhibbitts.net/cmpt-363/193/home) and then view the same open and collaborative content embedded within a [Canvas LMS site](https://canvas.sfu.ca/courses/47119).
+One or more Open Course Hub pages can also be seamlessly embedded into another system (i.e. LMS) with the 'chromeless' feature. For example, view a recent [Open Course Hub site](https://paulhibbitts.net/cmpt-363/193/home) and then view the same open and collaborative content embedded within a [Canvas LMS site](https://canvas-old.sfu.ca/courses/47119).
 
 # Open MultiCourse Hub
 
