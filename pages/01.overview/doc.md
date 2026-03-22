@@ -1,12 +1,9 @@
 ---
 title: Overview
 taxonomy:
-    category:
-        - docs
+    category: docs
 navigation:
     prev_next: false
-sitemap:
-    lastmod: '22-03-2026 23:21'
 ---
 
 # Overview
