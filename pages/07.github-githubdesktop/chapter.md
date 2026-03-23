@@ -1,6 +1,7 @@
 ---
-title: GitHub & GitHub Desktop
+title: 'GitHub & GitHub Desktop'
 published: true
 taxonomy:
     category: docs
 ---
+
