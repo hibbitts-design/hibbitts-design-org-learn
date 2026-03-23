@@ -1,12 +1,18 @@
 ---
 title: Overview
 taxonomy:
-    category: docs
+    category:
+        - docs
 navigation:
     prev_next: true
+sitemap:
+    lastmod: '23-03-2026 16:46'
 ---
 
 # Open Course Hub
+
+> [!NOTE]
+> **Grav Helios Course Hub is the successor to this project.** Built on the Grav Premium Helios theme, it unifies single and multi-course support into one installation with a significantly more refined visual experience, with automatic single or multi-course setup, context-aware search, and visual course cards. [Grav Helios Course Hub on GitHub](https://github.com/hibbitts-design/grav-skeleton-helios-course-hub).
 
 [Grav Open Course Hub](https://github.com/hibbitts-design/grav-skeleton-course-hub) with [Git Sync](https://github.com/trilbymedia/grav-plugin-git-sync) is designed to give organizations or individual tech-savvy instructors an open, collaborative and flexible platform that they can partner with their current learning platform (e.g. Canvas, Moodle, Microsoft Teams, etc.). With this approach, content presentation is handled by the Grav CMS (where faculty and students can have full control) while assessment still occurs within the institutional platform.
 
