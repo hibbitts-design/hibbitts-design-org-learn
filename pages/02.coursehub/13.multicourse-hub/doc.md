@@ -1,13 +1,19 @@
 ---
-title: MultiCourse Hub
+title: 'MultiCourse Hub'
 published: true
 taxonomy:
-    category: doc
+    category:
+        - doc
 navigation:
     prev_next: true
+sitemap:
+    lastmod: '23-03-2026 16:42'
 ---
 
 # MultiCourse Hub
+
+> [!NOTE]
+> **Grav Helios Course Hub is the successor to this project.** Built on the Grav Premium Helios theme, it unifies single and multi-course support into one installation with a significantly more refined visual experience, with automatic single or multi-course setup, context-aware search, and visual course cards. [Grav Helios Course Hub on GitHub](https://github.com/hibbitts-design/grav-skeleton-helios-course-hub).
 
 With the v2.7 release of the Grav Open Course Hub skeleton package [MultiCourse Hubs](https://demo.hibbittsdesign.org/grav-skeleton-open-matter-multi-course-hub-site/) are now supported.
 
